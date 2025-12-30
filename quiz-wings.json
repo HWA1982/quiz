@@ -1,0 +1,240 @@
+[
+  {
+    "id": 284,
+    "question": "Em caso de paragem cardiorrespiratória de um motociclista acidentado, deve-se remover o capacete?",
+    "options": [
+      "Sim, imediatamente e de qualquer maneira para ele respirar",
+      "Não, nunca se deve remover o capacete sob risco de lesão medular",
+      "Apenas se for estritamente necessário para manobras de reanimação e por pessoas treinadas (técnica de dois socorristas)",
+      "Apenas se o capacete estiver sujo"
+    ],
+    "correct": 2,
+    "category": "seguranca",
+    "level": "avancado",
+    "explanation": "A remoção incorreta do capacete pode causar paralisia. Em primeiros socorros, a prioridade é a vida, mas a técnica deve ser precisa para proteger a coluna cervical."
+  },
+  {
+    "id": 285,
+    "question": "O que é o fenómeno 'Power Wheelie'?",
+    "options": [
+      "Quando a moto desliga sozinha",
+      "Quando a roda dianteira levanta apenas pela força da aceleração, sem uso da embreagem",
+      "Um tipo de bateria de alta voltagem",
+      "Uma técnica de travagem em descidas"
+    ],
+    "correct": 1,
+    "category": "pilotagem",
+    "level": "avancado",
+    "explanation": "Comum em motos de alta cilindrada com muita relação peso-potência."
+  },
+  {
+    "id": 286,
+    "question": "Qual é a função do 'Amortecedor de Direção' em motos de alta performance?",
+    "options": [
+      "Tornar o guiador mais leve para manobras",
+      "Evitar oscilações violentas e descontroladas do guiador (shimmie) em altas velocidades",
+      "Absorver impactos de buracos para o piloto não sentir nas mãos",
+      "Ajudar a moto a fazer curvas fechadas"
+    ],
+    "correct": 1,
+    "category": "tecnologia",
+    "level": "avancado",
+    "explanation": "Ele estabiliza a frente da moto, impedindo que irregularidades no asfalto causem perda de controle por ressonância."
+  },
+  {
+    "id": 287,
+    "question": "A técnica de 'Contra-esterço' funciona de forma mais evidente acima de qual velocidade média?",
+    "options": [
+      "5 km/h",
+      "35 km/h",
+      "120 km/h",
+      "Apenas em velocidades de corrida"
+    ],
+    "correct": 1,
+    "category": "pilotagem",
+    "level": "intermediario",
+    "explanation": "Embora comece em velocidades baixas, a partir dos 30-35 km/h o efeito giroscópico torna o contra-esterço a principal forma de inclinar a moto."
+  },
+  {
+    "id": 288,
+    "question": "O que indica um fluido de travão com cor escura (parecendo café)?",
+    "options": [
+      "Que é um fluido de alta performance",
+      "Que está contaminado por humidade e deve ser substituído imediatamente",
+      "Que o sistema de travagem está lubrificado",
+      "Nada, a cor não importa"
+    ],
+    "correct": 1,
+    "category": "manutencao",
+    "level": "intermediario",
+    "explanation": "O fluido de travão é higroscópico (absorve água). Fluido velho perde o ponto de ebulição e pode falhar em situações críticas."
+  },
+  {
+    "id": 289,
+    "question": "Qual a principal vantagem de pneus 'Dual-Compound' (Composto Duplo)?",
+    "options": [
+      "São mais baratos",
+      "Têm borracha mais dura no centro (durabilidade) e macia nas bordas (aderência em curvas)",
+      "Permitem andar no asfalto e na terra com a mesma eficiência",
+      "Não precisam de calibragem"
+    ],
+    "correct": 1,
+    "category": "tecnologia",
+    "level": "intermediario",
+    "explanation": "Oferecem o melhor dos dois mundos: duram muito em viagens retas e dão segurança total em inclinações."
+  },
+  {
+    "id": 290,
+    "question": "Numa descida de serra longa, o uso excessivo do travão pode causar 'Fading'. O que é isto?",
+    "options": [
+      "A moto acelerar sozinha",
+      "Perda temporária da eficácia dos travões devido ao superaquecimento",
+      "O desgaste total das pastilhas em poucos minutos",
+      "Um barulho agudo nos discos"
+    ],
+    "correct": 1,
+    "category": "seguranca",
+    "level": "intermediario",
+    "explanation": "O calor faz o fluido ferver ou as pastilhas perderem atrito. Use o travão motor para evitar o fading."
+  },
+  {
+    "id": 291,
+    "question": "O sistema 'IMU' (Inertial Measurement Unit) de 6 eixos monitora:",
+    "options": [
+      "Apenas a velocidade",
+      "Inclinação lateral, inclinação frontal (pitch) e guinada (yaw) da moto",
+      "A temperatura do óleo e da água",
+      "A pressão dos pneus e o nível de carga"
+    ],
+    "correct": 1,
+    "category": "tecnologia",
+    "level": "avancado",
+    "explanation": "É o 'cérebro' que permite que o ABS e o Controle de Tração funcionem de forma inteligente em curvas."
+  },
+  {
+    "id": 292,
+    "question": "A distância de travagem de uma moto carregada com passageiro e bagagem é:",
+    "options": [
+      "A mesma de quando o piloto está sozinho",
+      "Significativamente maior, exigindo mais antecipação e força nos travões",
+      "Menor, pois o peso empurra a moto contra o chão",
+      "Indiferente se a moto tiver ABS"
+    ],
+    "correct": 1,
+    "category": "pilotagem",
+    "level": "iniciante",
+    "explanation": "Mais massa requer mais energia para parar. O piloto deve ajustar o seu espaço de segurança."
+  },
+  {
+    "id": 293,
+    "question": "Qual destas partes da moto NÃO deve receber lubrificação por óleo ou massa?",
+    "options": [
+      "Corrente de transmissão",
+      "Cabos de comando (salvo se tiverem revestimento de teflon)",
+      "Discos e pastilhas de travão",
+      "Eixo das rodas"
+    ],
+    "correct": 2,
+    "category": "manutencao",
+    "level": "iniciante",
+    "explanation": "Lubrificar os discos ou pastilhas anula o atrito necessário para parar a moto, causando acidentes graves."
+  },
+  {
+    "id": 294,
+    "question": "O termo 'Tank Slapper' refere-se a:",
+    "options": [
+      "Bater no tanque para comemorar uma vitória",
+      "Uma oscilação violenta do guiador que bate de um lado para o outro no batente",
+      "O som da gasolina balançando no tanque",
+      "Limpar o tanque com produtos abrasivos"
+    ],
+    "correct": 1,
+    "category": "pilotagem",
+    "level": "avancado",
+    "explanation": "É uma situação de emergência extrema onde a frente perde a estabilidade e o guiador sacode violentamente."
+  },
+  {
+    "id": 295,
+    "question": "Em termos de visibilidade, qual a cor de capacete/vestuário estatisticamente mais segura?",
+    "options": [
+      "Preto fosco, para não distrair outros motoristas",
+      "Cores de alta visibilidade (Hi-Viz), como amarelo ou laranja fluorescente",
+      "Vermelho, por ser a cor de paragem",
+      "Cinzento, para camuflar na estrada"
+    ],
+    "correct": 1,
+    "category": "seguranca",
+    "level": "iniciante",
+    "explanation": "Cores fluorescentes aumentam drasticamente a chance de um motorista ver o motociclista à distância."
+  },
+  {
+    "id": 296,
+    "question": "O que é a 'Zona de Incerteza' de um pedestre?",
+    "options": [
+      "O local onde ele mora",
+      "A área ao redor do pedestre onde ele pode mudar de direção subitamente",
+      "A passadeira de peões",
+      "O momento em que ele olha para o semáforo"
+    ],
+    "correct": 1,
+    "category": "seguranca",
+    "level": "intermediario",
+    "explanation": "Antecipar que um pedestre (especialmente crianças e idosos) pode correr ou voltar atrás é pilotagem defensiva pura."
+  },
+  {
+    "id": 297,
+    "question": "Qual o efeito de pilotar com a viseira aberta em velocidades acima de 60 km/h?",
+    "options": [
+      "Melhor ventilação e foco",
+      "Risco de ressecamento ocular e entrada de detritos ou insetos que podem causar cegueira temporária",
+      "Nenhum risco, apenas barulho",
+      "Melhora a audição do trânsito"
+    ],
+    "correct": 1,
+    "category": "seguranca",
+    "level": "iniciante",
+    "explanation": "Um simples besouro a 80 km/h tem o impacto de uma pedra. Mantenha sempre a viseira fechada."
+  },
+  {
+    "id": 298,
+    "question": "O 'Trail Braking' é uma técnica avançada que consiste em:",
+    "options": [
+      "Frear apenas na terra (Trail)",
+      "Manter a pressão do travão dianteiro suavemente enquanto inicia a entrada da curva",
+      "Puxar o travão de mão em curvas",
+      "Frear com os pés no chão"
+    ],
+    "correct": 1,
+    "category": "pilotagem",
+    "level": "avancado",
+    "explanation": "Ajuda a carregar o peso na frente para melhorar a aderência do pneu dianteiro e a geometria da moto na curva."
+  },
+  {
+    "id": 299,
+    "question": "Qual é a regra dos '2 segundos' na pilotagem?",
+    "options": [
+      "O tempo que se deve levar para trocar de marcha",
+      "A distância mínima de seguimento segura em relação ao veículo da frente",
+      "O tempo máximo que se pode olhar para o retrovisor",
+      "Quanto tempo a moto leva para ligar"
+    ],
+    "correct": 1,
+    "category": "seguranca",
+    "level": "iniciante",
+    "explanation": "Escolha um ponto fixo; quando o carro da frente passar, conte 'dois segundos'. Se passar pelo ponto antes de terminar, está muito próximo."
+  },
+  {
+    "id": 300,
+    "question": "Ao completar este curso de 300 questões, o motociclista deve entender que:",
+    "options": [
+      "Agora ele sabe tudo e nunca mais correrá riscos",
+      "A aprendizagem é contínua e a prática consciente é o que salva vidas",
+      "A moto é apenas um brinquedo",
+      "O equipamento de proteção é opcional para quem sabe muito"
+    ],
+    "correct": 1,
+    "category": "seguranca",
+    "level": "iniciante",
+    "explanation": "O conhecimento teórico é a base, mas a humildade e a atenção constante são o que define um verdadeiro mestre das duas rodas."
+  }
+]
