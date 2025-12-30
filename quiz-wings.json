@@ -1,3 +1,3675 @@
+{
+  "meta": {
+    "project": "Quiz Wings Motorcycle",
+    "author": "Wings Motorcycle Course",
+    "version": "1.0",
+    "lastUpdate": "2025-01-15"
+  },
+  "quiz": [
+    {
+      "id": 1,
+      "question": "Qual a distância mínima de segurança recomendada em relação ao veículo à frente?",
+      "options": ["1 segundo", "2 segundos", "3 segundos", "5 segundos"],
+      "correct": 1,
+      "category": "seguranca",
+      "level": "iniciante",
+      "explanation": "A regra dos 2 segundos é o mínimo recomendado para manter distância segura em condições normais."
+    },
+    {
+      "id": 2,
+      "question": "Qual o principal freio da motocicleta em termos de poder de parada?",
+      "options": ["Freio Traseiro", "Freio Dianteiro", "Freio Motor", "Ambos têm o mesmo poder"],
+      "correct": 1,
+      "category": "pilotagem",
+      "level": "iniciante",
+      "explanation": "O freio dianteiro é responsável por cerca de 70% a 80% do poder de frenagem devido à transferência de peso."
+    },
+    {
+      "id": 3,
+      "question": "O que significa o efeito 'Aquaplanagem'?",
+      "options": ["Falta de freio na chuva", "Perda de contato do pneu com o solo devido a uma camada de água", "Superaquecimento do motor", "Derrapagem em areia"],
+      "correct": 1,
+      "category": "seguranca",
+      "level": "intermediario",
+      "explanation": "A aquaplanagem ocorre quando o pneu não consegue drenar a água e flutua sobre ela, perdendo a tração."
+    },
+  {
+    "id": 4,
+    "question": "Qual o principal componente de segurança que deve ser substituído após qualquer impacto forte, mesmo sem danos visíveis?",
+    "options": ["Pneu dianteiro", "Capacete", "Pastilha de freio", "Manopla"],
+    "correct": 1,
+    "category": "equipamentos",
+    "level": "iniciante",
+    "explanation": "A estrutura interna de absorção do capacete (EPS) se deforma no impacto e não recupera a forma original, perdendo a eficácia."
+  },
+  {
+    "id": 5,
+    "question": "O que caracteriza o 'Ponto Cego' de um veículo?",
+    "options": ["A área diretamente à frente da moto", "Áreas ao redor do veículo que não podem ser vistas pelos espelhos", "A luz alta do veículo vindo em sentido contrário", "O painel da moto à noite"],
+    "correct": 1,
+    "category": "seguranca",
+    "level": "iniciante",
+    "explanation": "Pontos cegos são regiões fora do alcance de visão dos retrovisores onde outros veículos podem 'desaparecer'."
+  },
+  {
+    "id": 6,
+    "question": "Qual a finalidade principal do uso de luvas de proteção para motociclistas?",
+    "options": ["Apenas evitar o frio", "Melhorar a estética", "Proteger contra abrasão em quedas e impactos", "Facilitar a troca de marchas"],
+    "correct": 2,
+    "category": "equipamentos",
+    "level": "iniciante",
+    "explanation": "Em quedas, o instinto humano é apoiar as mãos no solo; as luvas evitam escoriações graves."
+  },
+  {
+    "id": 7,
+    "question": "Em caso de chuva, qual deve ser a primeira atitude do piloto quanto à distância de segurança?",
+    "options": ["Manter a mesma distância", "Reduzir a distância para ver melhor o rastro", "Dobrar a distância de segurança", "Parar imediatamente no acostamento"],
+    "correct": 2,
+    "category": "seguranca",
+    "level": "iniciante",
+    "explanation": "A chuva reduz a aderência e aumenta o tempo de frenagem, exigindo maior espaço para parar com segurança."
+  },
+  {
+    "id": 8,
+    "question": "Sobre o uso do capacete, o que diz a lei brasileira quanto à viseira?",
+    "options": ["Pode estar levantada a qualquer velocidade", "Deve estar totalmente abaixada com o veículo em movimento", "Pode estar ausente se usar óculos de sol", "Deve ser trocada a cada 6 meses"],
+    "correct": 1,
+    "category": "legislação",
+    "level": "iniciante",
+    "explanation": "A viseira deve estar totalmente abaixada. Com o veículo parado, ela pode ser levantada, devendo ser fechada ao iniciar o movimento."
+  },
+  {
+    "id": 9,
+    "question": "Qual o calçado ideal para pilotar motocicletas de forma segura?",
+    "options": ["Chinelos", "Tênis de lona", "Sandálias", "Botas ou sapatos fechados que protejam o tornozelo"],
+    "correct": 3,
+    "category": "equipamentos",
+    "level": "iniciante",
+    "explanation": "Calçados que envolvem o tornozelo e não possuem cadarços soltos evitam torções e enroscamentos nos comandos."
+  },
+  {
+    "id": 10,
+    "question": "Onde o motociclista deve se posicionar em uma faixa de rolamento para evitar pontos cegos e óleo?",
+    "options": ["Exatamente no centro da faixa", "Mais à esquerda ou à direita, onde passam os pneus dos carros", "No acostamento", "O mais próximo possível da calçada"],
+    "correct": 1,
+    "category": "seguranca",
+    "level": "intermediario",
+    "explanation": "O centro da faixa acumula óleo e detritos. Pilotar nos 'rastros' dos pneus dos carros oferece mais aderência e visibilidade."
+  },
+  {
+    "id": 11,
+    "question": "A técnica de 'frenagem de emergência' consiste em:",
+    "options": ["Usar apenas o freio traseiro", "Usar ambos os freios de forma progressiva e firme", "Pressionar apenas a embreagem", "Desligar o motor"],
+    "correct": 1,
+    "category": "pilotagem",
+    "level": "intermediario",
+    "explanation": "A combinação dos dois freios maximiza o poder de parada e evita o travamento das rodas."
+  },
+  {
+    "id": 12,
+    "question": "Qual a cor recomendada para equipamentos de proteção visando aumentar a segurança passiva?",
+    "options": ["Preto fosco", "Cores escuras", "Cores claras ou fluorescentes (Hi-Vis)", "Cores que combinem com a moto"],
+    "correct": 2,
+    "category": "seguranca",
+    "level": "iniciante",
+    "explanation": "Cores vibrantes aumentam as chances de o motociclista ser visto por outros motoristas durante o dia e a noite."
+  },
+  {
+    "id": 13,
+    "question": "Ao transportar um passageiro, como se comporta a frenagem da moto?",
+    "options": ["Fica mais curta", "Não sofre alteração", "O espaço necessário para frenagem aumenta devido ao peso", "O freio dianteiro deixa de funcionar"],
+    "correct": 2,
+    "category": "pilotagem",
+    "level": "intermediario",
+    "explanation": "O maior peso (massa) exige mais trabalho do sistema de freios e aumenta a inércia, exigindo maior distância para parar."
+  },
+  {
+    "id": 14,
+    "question": "O que é o 'shimmie' (oscilação do guidão)?",
+    "options": ["Um tipo de curva fechada", "Vibração violenta na roda dianteira", "O barulho da corrente seca", "Um sistema de freio ABS"],
+    "correct": 1,
+    "category": "pilotagem",
+    "level": "avancado",
+    "explanation": "O shimmie é uma instabilidade no conjunto frontal que pode ser causada por pneus gastos, rodas desbalanceadas ou carga mal distribuída."
+  },
+  {
+    "id": 15,
+    "question": "Qual o prazo de validade médio recomendado para a estrutura de um capacete?",
+    "options": ["1 ano", "3 a 5 anos", "10 anos", "Não tem validade"],
+    "correct": 1,
+    "category": "equipamentos",
+    "level": "intermediario",
+    "explanation": "Embora varie por fabricante, o material interno perde a capacidade de absorção de impacto após cerca de 5 anos devido ao ressecamento."
+  },
+  {
+    "id": 16,
+    "question": "Qual a importância da jaqueta com proteções de ombro e cotovelo?",
+    "options": ["Apenas proteção térmica", "Minimizar fraturas e abrasões em caso de queda", "Melhorar a aerodinâmica", "Obrigatoriedade por lei"],
+    "correct": 1,
+    "category": "equipamentos",
+    "level": "iniciante",
+    "explanation": "As proteções rígidas (CE) dispersam a energia do impacto em pontos ósseos vulneráveis."
+  },
+  {
+    "id": 17,
+    "question": "Em um cruzamento, mesmo com a preferencial, o motociclista deve:",
+    "options": ["Acelerar para passar rápido", "Manter a velocidade e confiar na sinalização", "Reduzir e redobrar a atenção, cobrindo os freios", "Buzinar e passar sem olhar"],
+    "correct": 2,
+    "category": "seguranca",
+    "level": "iniciante",
+    "explanation": "A direção defensiva ensina que não devemos confiar cegamente na sinalização, prevenindo erros de terceiros."
+  },
+  {
+    "id": 18,
+    "question": "O uso de pneus com sulcos abaixo do limite (carecas) causa principalmente:",
+    "options": ["Aumento da velocidade final", "Maior estabilidade em asfalto seco", "Perda total de aderência em solo molhado", "Economia de combustível"],
+    "correct": 2,
+    "category": "manutencao",
+    "level": "iniciante",
+    "explanation": "Os sulcos servem para drenar a água; sem eles, a moto aquaplana facilmente."
+  },
+  {
+    "id": 19,
+    "question": "Qual é a posição correta dos pés nas pedaleiras durante a pilotagem reta?",
+    "options": ["Com os calcanhares apoiados", "Com as pontas dos pés voltadas para fora", "Com a parte média dos pés apoiada, paralelos à moto", "Apoiados apenas no pedal do freio"],
+    "correct": 2,
+    "category": "pilotagem",
+    "level": "intermediario",
+    "explanation": "Manter os pés paralelos e bem posicionados evita o acionamento acidental dos comandos e protege contra impactos laterais."
+  },
+  {
+    "id": 20,
+    "question": "O que significa 'ver e ser visto' na pilotagem defensiva?",
+    "options": ["Usar espelhos grandes", "Sempre olhar para o painel", "Posicionar-se e sinalizar de modo que todos percebam sua presença", "Usar luz alta o tempo todo"],
+    "correct": 2,
+    "category": "seguranca",
+    "level": "iniciante",
+    "explanation": "É o conceito de antecipação: o motociclista deve garantir que está fora dos pontos cegos dos outros condutores."
+  },
+  {
+    "id": 21,
+    "question": "Qual o efeito de pilotar sob fadiga ou cansaço extremo?",
+    "options": ["Aumento dos reflexos", "Diminuição do tempo de reação", "Aumento do tempo de reação (demora mais para agir)", "Melhora na concentração"],
+    "correct": 2,
+    "category": "seguranca",
+    "level": "iniciante",
+    "explanation": "O cansaço retarda o processamento de informações pelo cérebro, tornando as respostas a perigos mais lentas."
+  },
+  {
+    "id": 22,
+    "question": "O protetor de coluna (back protector) serve para:",
+    "options": ["Manter a postura ereta para estética", "Proteger as vértebras contra impactos diretos na coluna", "Facilitar o transporte de mochilas", "Esquentar o corpo"],
+    "correct": 1,
+    "category": "equipamentos",
+    "level": "intermediario",
+    "explanation": "É um dos itens mais críticos para prevenir lesões medulares em quedas de costas."
+  },
+  {
+    "id": 23,
+    "question": "Ao avistar um animal na pista, o motociclista NÃO deve:",
+    "options": ["Reduzir a velocidade gradualmente", "Buzinar ou piscar faróis fortemente", "Manter a trajetória", "Aumentar a atenção"],
+    "correct": 1,
+    "category": "seguranca",
+    "level": "intermediario",
+    "explanation": "Ruídos fortes ou luzes podem assustar o animal, fazendo-o correr em direção à moto de forma imprevisível."
+  }
+]
+[
+  {
+    "id": 24,
+    "question": "O que indica o 'TWI' (Tread Wear Indicator) presente nos pneus?",
+    "options": ["A pressão ideal de calibragem", "O limite máximo de desgaste da banda de rodagem", "O sentido de rotação do pneu", "A data de fabricação"],
+    "correct": 1,
+    "category": "manutencao",
+    "level": "intermediario",
+    "explanation": "O TWI são pequenos ressaltos nos sulcos. Quando a banda de rodagem atinge o nível deles, o pneu deve ser trocado imediatamente."
+  },
+  {
+    "id": 25,
+    "question": "Qual é a função básica do óleo do motor?",
+    "options": ["Apenas gerar potência", "Lubrificar, limpar, refrigerar e proteger as partes móveis", "Substituir o líquido de arrefecimento", "Evitar o desgaste dos pneus"],
+    "correct": 1,
+    "category": "manutencao",
+    "level": "iniciante",
+    "explanation": "O óleo reduz o atrito, remove impurezas e ajuda a dissipar o calor gerado pela combustão."
+  },
+  {
+    "id": 26,
+    "question": "Uma corrente de transmissão muito frouxa pode causar:",
+    "options": ["Aumento da velocidade final", "Economia de combustível", "O escape da corrente e o travamento da roda traseira", "Melhor frenagem"],
+    "correct": 2,
+    "category": "manutencao",
+    "level": "intermediario",
+    "explanation": "Correntes frouxas podem pular do pinhão ou da coroa, causando danos graves ou acidentes por travamento."
+  },
+  {
+    "id": 27,
+    "question": "Ao verificar o nível de óleo, a moto deve estar em qual posição?",
+    "options": ["Inclinada sobre o descanso lateral (pezinho)", "Deitada no chão", "Nivelada verticalmente em piso plano", "Em movimento"],
+    "correct": 2,
+    "category": "manutencao",
+    "level": "iniciante",
+    "explanation": "Para uma leitura correta no visor ou vareta, a moto precisa estar perfeitamente vertical e em terreno plano."
+  },
+  {
+    "id": 28,
+    "question": "O que acontece se você utilizar uma vela de ignição suja ou desgastada?",
+    "options": ["A moto fica mais rápida", "Dificuldade na partida e falhas de ignição no motor", "O pneu esvazia mais rápido", "Aumenta a luz do farol"],
+    "correct": 1,
+    "category": "manutencao",
+    "level": "intermediario",
+    "explanation": "A vela é responsável pela centelha; se estiver ruim, a queima do combustível será incompleta ou inexistente."
+  },
+  {
+    "id": 29,
+    "question": "O 'fluido de freio' deve ser substituído geralmente a cada:",
+    "options": ["10 anos", "1 ou 2 anos (conforme manual do fabricante)", "Nunca precisa ser trocado", "A cada troca de pneu"],
+    "correct": 1,
+    "category": "manutencao",
+    "level": "intermediario",
+    "explanation": "O fluido é higroscópico (absorve umidade), o que reduz seu ponto de ebulição e compromete a frenagem com o tempo."
+  },
+  {
+    "id": 30,
+    "question": "A folga da embreagem (no manete) é importante para:",
+    "options": ["Garantir que a embreagem não patine e desengate totalmente", "Deixar o guidão mais leve", "Aumentar a força do motor", "Reduzir o consumo de óleo"],
+    "correct": 0,
+    "category": "manutencao",
+    "level": "intermediario",
+    "explanation": "Sem folga, a embreagem pode ficar parcialmente acionada, causando desgaste prematuro dos discos."
+  },
+  {
+    "id": 31,
+    "question": "Se o motor superaquecer (luz de temperatura acender), a primeira ação deve ser:",
+    "options": ["Acelerar mais para ventilar", "Jogar água gelada no motor quente", "Desligar o motor assim que for seguro e verificar o líquido de arrefecimento", "Continuar pilotando até chegar em casa"],
+    "correct": 2,
+    "category": "manutencao",
+    "level": "intermediario",
+    "explanation": "Insistir com o motor superaquecido pode causar danos irreversíveis como a queima da junta do cabeçote."
+  },
+  {
+    "id": 32,
+    "question": "Cabos de comando (acelerador e embreagem) devem ser:",
+    "options": ["Troca mensalmente", "Limpos e lubrificados periodicamente", "Pintados para não enferrujar", "Substituídos por cordas comuns"],
+    "correct": 1,
+    "category": "manutencao",
+    "level": "iniciante",
+    "explanation": "A lubrificação evita o endurecimento e o rompimento precoce dos cabos de aço."
+  },
+  {
+    "id": 33,
+    "question": "Qual o componente responsável por filtrar as impurezas do ar que vai para o motor?",
+    "options": ["Filtro de Óleo", "Escapamento", "Filtro de Ar", "Radiador"],
+    "correct": 2,
+    "category": "manutencao",
+    "level": "iniciante",
+    "explanation": "O filtro de ar impede que poeira e detritos entrem na câmara de combustão, evitando riscos no cilindro."
+  },
+  {
+    "id": 34,
+    "question": "O sistema 'ABS' tem como função principal:",
+    "options": ["Fazer a moto correr mais", "Evitar o travamento das rodas em frenagens bruscas", "Substituir a habilidade do piloto", "Frear a moto automaticamente"],
+    "correct": 1,
+    "category": "seguranca",
+    "level": "iniciante",
+    "explanation": "O ABS monitora a rotação das rodas e alivia a pressão do freio caso detecte iminência de travamento."
+  },
+  {
+    "id": 35,
+    "question": "Em motos com refrigeração líquida, o que deve ser conferido no radiador?",
+    "options": ["O nível do óleo", "A cor da pintura", "O nível do líquido de arrefecimento (aditivo + água desmineralizada)", "A pressão dos pneus"],
+    "correct": 2,
+    "category": "manutencao",
+    "level": "iniciante",
+    "explanation": "O líquido de arrefecimento é essencial para manter o motor na temperatura ideal de trabalho."
+  },
+  {
+    "id": 36,
+    "question": "O que significa a sigla 'DOT' encontrada nas embalagens de fluido de freio?",
+    "options": ["Data de Origem Técnica", "Department of Transportation (padrão de qualidade)", "Direção Obrigatória de Trânsito", "Dose de Óleo Total"],
+    "correct": 1,
+    "category": "manutencao",
+    "level": "avancado",
+    "explanation": "DOT indica que o fluido atende às normas de segurança do Departamento de Transportes dos EUA, definindo o ponto de ebulição."
+  },
+  {
+    "id": 37,
+    "question": "Pastilhas de freio vitrificadas (com brilho espelhado) resultam em:",
+    "options": ["Melhor frenagem", "Perda de eficiência e ruídos (assobios) ao frear", "Aumento da vida útil do disco", "Menor aquecimento do sistema"],
+    "correct": 1,
+    "category": "manutencao",
+    "level": "intermediario",
+    "explanation": "A vitrificação ocorre por superaquecimento, tornando a pastilha dura demais e sem atrito com o disco."
+  },
+  {
+    "id": 38,
+    "question": "Qual a principal causa de uma bateria 'arriar' (descarregar) rapidamente em motos?",
+    "options": ["Uso excessivo da buzina", "Instalação de acessórios eletrônicos mal dimensionados ou fuga de corrente", "Pilotar durante o dia", "Deixar a moto no sol"],
+    "correct": 1,
+    "category": "manutencao",
+    "level": "intermediario",
+    "explanation": "Alarmes mal instalados ou rastreadores podem consumir a carga da bateria mesmo com a moto desligada."
+  },
+  {
+    "id": 39,
+    "question": "A técnica de 'Redução de Marcha' antes de uma curva auxilia em:",
+    "options": ["Aumentar o desgaste dos freios", "Utilizar o freio motor para estabilizar a moto", "Gastar mais combustível", "Fazer a moto derrapar"],
+    "correct": 1,
+    "category": "pilotagem",
+    "level": "intermediario",
+    "explanation": "O freio motor ajuda a controlar a velocidade sem sobrecarregar os freios mecânicos antes de entrar na curva."
+  },
+  {
+    "id": 40,
+    "question": "O 'Pinhão', a 'Coroa' e a 'Corrente' formam qual sistema?",
+    "options": ["Sistema de Arrefecimento", "Sistema de Suspensão", "Kit de Transmissão (ou Relação)", "Sistema de Exaustão"],
+    "correct": 2,
+    "category": "manutencao",
+    "level": "iniciante",
+    "explanation": "Esses três componentes levam a potência do motor para a roda traseira."
+  },
+  {
+    "id": 41,
+    "question": "Fumaça branca saindo pelo escapamento de forma constante pode indicar:",
+    "options": ["Pneus gastos", "Queima de óleo no motor ou problemas de vedação", "Excesso de combustível apenas", "Que o motor está muito limpo"],
+    "correct": 1,
+    "category": "manutencao",
+    "level": "intermediario",
+    "explanation": "Geralmente indica que o óleo está passando para a câmara de combustão, sinalizando necessidade de retífica ou troca de anéis."
+  },
+  {
+    "id": 42,
+    "question": "A calibragem dos pneus deve ser feita preferencialmente com eles:",
+    "options": ["Quentes, após longa viagem", "Frios (rodado menos de 3km)", "Molhados", "Em qualquer temperatura"],
+    "correct": 1,
+    "category": "manutencao",
+    "level": "iniciante",
+    "explanation": "Pneus quentes sofrem expansão do ar interno, o que gera uma leitura de pressão falsa e imprecisa."
+  },
+  {
+    "id": 43,
+    "question": "Qual a função dos amortecedores na motocicleta?",
+    "options": ["Deixar a moto mais bonita", "Manter o contato constante do pneu com o solo e absorver impactos", "Aumentar a velocidade nas retas", "Substituir os pneus"],
+    "correct": 1,
+    "category": "manutencao",
+    "level": "iniciante",
+    "explanation": "A suspensão garante estabilidade e conforto, evitando que a moto 'pule' em irregularidades do asfalto."
+  }
+]
+[
+  {
+    "id": 44,
+    "question": "Conduzir motocicleta sem usar capacete de segurança é uma infração de que natureza?",
+    "options": ["Leve", "Média", "Grave", "Gravíssima, com suspensão do direito de dirigir"],
+    "correct": 3,
+    "category": "legislação",
+    "level": "iniciante",
+    "explanation": "Segundo o Art. 244 do CTB, é infração gravíssima, gera multa e suspensão direta da CNH."
+  },
+  {
+    "id": 45,
+    "question": "Qual a idade mínima para que uma criança possa ser transportada em motocicletas segundo a lei atual?",
+    "options": ["7 anos", "10 anos", "12 anos", "5 anos"],
+    "correct": 1,
+    "category": "legislação",
+    "level": "iniciante",
+    "explanation": "A Lei 14.071/20 alterou o CTB, elevando para 10 anos a idade mínima para crianças em motos."
+  },
+  {
+    "id": 46,
+    "question": "É permitido o uso de capacete do tipo 'coquinho' em vias públicas?",
+    "options": ["Sim, se tiver selo do INMETRO", "Não, pois não protege as partes vitais da cabeça", "Sim, apenas em cidades pequenas", "Apenas para motos de baixa cilindrada"],
+    "correct": 1,
+    "category": "legislação",
+    "level": "iniciante",
+    "explanation": "Capacetes sem proteção lateral e de nuca (estilo coquinho) não são homologados para uso em motocicletas."
+  },
+  {
+    "id": 47,
+    "question": "Qual o limite de velocidade em vias locais onde não houver sinalização?",
+    "options": ["30 km/h", "40 km/h", "60 km/h", "80 km/h"],
+    "correct": 0,
+    "category": "legislação",
+    "level": "intermediario",
+    "explanation": "Nas vias locais (destinadas apenas ao acesso local ou áreas restritas), o limite é de 30 km/h quando não sinalizado."
+  },
+  {
+    "id": 48,
+    "question": "O uso do farol baixo aceso durante o dia em motocicletas é:",
+    "options": ["Obrigatório em qualquer via", "Opcional", "Obrigatório apenas em rodovias", "Proibido"],
+    "correct": 0,
+    "category": "legislação",
+    "level": "iniciante",
+    "explanation": "Diferente dos carros, motocicletas devem manter o farol baixo aceso dia e noite para aumentar a visibilidade."
+  },
+  {
+    "id": 49,
+    "question": "Conduzir moto com a validade da CNH vencida há mais de 30 dias é infração:",
+    "options": ["Grave", "Gravíssima", "Média", "Leve"],
+    "correct": 1,
+    "category": "legislação",
+    "level": "iniciante",
+    "explanation": "Passados 30 dias do vencimento, a infração é gravíssima com retenção do veículo."
+  },
+  {
+    "id": 50,
+    "question": "Qual o procedimento correto ao se deparar com a placa 'PARE' em um cruzamento?",
+    "options": ["Diminuir a velocidade e passar se não vier ninguém", "Buzinar e passar", "Imobilizar totalmente o veículo antes de prosseguir", "Apenas piscar o farol"],
+    "correct": 2,
+    "category": "legislação",
+    "level": "iniciante",
+    "explanation": "A placa de parada obrigatória exige que a roda pare de girar completamente antes de avançar."
+  },
+  {
+    "id": 51,
+    "question": "A placa R-19 (limite de velocidade) passa a valer a partir de que ponto?",
+    "options": ["500 metros após a placa", "No ponto onde a placa está instalada", "Na próxima esquina", "Apenas se houver radar"],
+    "correct": 1,
+    "category": "legislação",
+    "level": "intermediario",
+    "explanation": "A regulamentação de velocidade tem validade imediata a partir da posição da placa."
+  },
+  {
+    "id": 52,
+    "question": "Transportar carga incompatível com as dimensões da moto é infração:",
+    "options": ["Leve", "Média", "Grave", "Gravíssima"],
+    "correct": 2,
+    "category": "legislação",
+    "level": "intermediario",
+    "explanation": "Cargas que excedem a largura ou altura permitida comprometem o equilíbrio e são infração grave."
+  },
+  {
+    "id": 53,
+    "question": "Qual a distância mínima que o condutor deve manter ao ultrapassar uma bicicleta?",
+    "options": ["0,50 metro", "1,00 metro", "1,50 metro", "2,00 metros"],
+    "correct": 2,
+    "category": "legislação",
+    "level": "intermediario",
+    "explanation": "O CTB exige a distância de 1,5m para proteger o ciclista do deslocamento de ar e colisões."
+  },
+  {
+    "id": 54,
+    "question": "O que indica uma linha amarela contínua no centro da pista?",
+    "options": ["Permitido ultrapassar para ambos os lados", "Proibido ultrapassar para ambos os lados", "Permitido estacionar", "Via de sentido único"],
+    "correct": 1,
+    "category": "legislação",
+    "level": "iniciante",
+    "explanation": "Linhas amarelas contínuas indicam fluxos opostos e proibição rigorosa de ultrapassagem."
+  },
+  {
+    "id": 55,
+    "question": "É considerado infração gravíssima com fator multiplicador (multa mais cara) realizar:",
+    "options": ["Manobra de retorno em local permitido", "Malabarismo ou equilibrar-se em apenas uma roda (dar grau)", "Conversão à direita", "Estacionar em local proibido"],
+    "correct": 1,
+    "category": "legislação",
+    "level": "iniciante",
+    "explanation": "Praticar exibições ou malabarismos gera multa multiplicada por 10 e suspensão da CNH."
+  },
+  {
+    "id": 56,
+    "question": "Quando o condutor deve utilizar a luz de seta (indicador de direção)?",
+    "options": ["Apenas quando houver outros carros por perto", "Sempre que for mudar de faixa ou realizar conversão", "Apenas à noite", "Apenas em rodovias"],
+    "correct": 1,
+    "category": "seguranca",
+    "level": "iniciante",
+    "explanation": "A seta é a comunicação do piloto; deve ser usada com antecedência em qualquer mudança de direção."
+  },
+  {
+    "id": 57,
+    "question": "A placa que indica 'Sentido Proibido' pertence a qual grupo?",
+    "options": ["Advertência", "Indicação", "Regulamentação", "Serviços Auxiliares"],
+    "correct": 2,
+    "category": "legislação",
+    "level": "iniciante",
+    "explanation": "Placas circulares vermelhas são de Regulamentação e o descumprimento gera punição."
+  },
+  {
+    "id": 58,
+    "question": "O que o condutor deve fazer ao ouvir a sirene de um veículo de emergência?",
+    "options": ["Acelerar para não atrapalhar", "Ignorar se estiver em sua preferencial", "Deixar livre a passagem pela esquerda, movendo-se para a direita", "Parar imediatamente no meio da pista"],
+    "correct": 2,
+    "category": "legislação",
+    "level": "iniciante",
+    "explanation": "É dever de todo condutor abrir passagem pela esquerda para ambulâncias e viaturas em serviço."
+  },
+  {
+    "id": 59,
+    "question": "Pilotar motocicleta com calçado que não se firme nos pés (ex: chinelo) é:",
+    "options": ["Permitido", "Infração média", "Infração grave", "Recomendado no verão"],
+    "correct": 1,
+    "category": "legislação",
+    "level": "iniciante",
+    "explanation": "O calçado deve ser preso ao calcanhar para não atrapalhar o uso dos pedais de freio e câmbio."
+  },
+  {
+    "id": 60,
+    "question": "A 'Direção Defensiva' define que o condutor deve:",
+    "options": ["Dirigir apenas para si", "Dirigir de modo a evitar acidentes apesar das ações incorretas de outros", "Ser o mais rápido no trânsito", "Sempre ter razão nos cruzamentos"],
+    "correct": 1,
+    "category": "seguranca",
+    "level": "iniciante",
+    "explanation": "O foco é a prevenção e a antecipação de erros alheios e condições adversas."
+  },
+  {
+    "id": 61,
+    "question": "Qual documento é de porte obrigatório para o condutor?",
+    "options": ["Apenas o RG", "Contrato de compra e venda", "CNH (física ou digital) e CLA (Certificado de Licenciamento)", "Manual do proprietário"],
+    "correct": 2,
+    "category": "legislação",
+    "level": "iniciante",
+    "explanation": "O licenciamento anual e a habilitação compatível com a categoria 'A' são obrigatórios."
+  },
+  {
+    "id": 62,
+    "question": "O que indica a placa de advertência em formato de losango amarelo?",
+    "options": ["Uma ordem que deve ser seguida", "Um perigo potencial ou condição da via adiante", "Uma informação turística", "O preço do pedágio"],
+    "correct": 1,
+    "category": "legislação",
+    "level": "iniciante",
+    "explanation": "Placas de advertência alertam sobre curvas, cruzamentos ou riscos à frente."
+  },
+  {
+    "id": 63,
+    "question": "Qual a penalidade para quem é flagrado dirigindo sob influência de álcool?",
+    "options": ["Apenas uma advertência", "Multa (valor multiplicado por 10), suspensão do direito de dirigir por 12 meses e retenção do veículo", "Multa leve", "Apenas retenção do veículo por 1 hora"],
+    "correct": 1,
+    "category": "legislação",
+    "level": "gravissima",
+    "explanation": "A Lei Seca é rigorosa e prevê sanções administrativas pesadas e até crime de trânsito dependendo do nível de álcool."
+  },
+]
+[
+  {
+    "id": 64,
+    "question": "O que é a técnica do 'Contra-esterço'?",
+    "options": [
+      "Girar o guidão para o lado oposto ao da curva para inclinar a moto rapidamente",
+      "Frear apenas com o freio traseiro durante a curva",
+      "Girar o guidão para o mesmo lado da curva com força excessiva",
+      "Acelerar e frear ao mesmo tempo"
+    ],
+    "correct": 0,
+    "category": "pilotagem",
+    "level": "avancado",
+    "explanation": "Ao empurrar o lado interno do guidão, a moto inclina-se para o lado da curva de forma ágil e precisa."
+  },
+  {
+    "id": 65,
+    "question": "Ao entrar em uma curva, onde deve estar o foco do olhar do piloto?",
+    "options": [
+      "Para o para-lama dianteiro",
+      "Para o final da curva (onde ele deseja chegar)",
+      "Para o veículo que vem atrás",
+      "Para os controles do painel"
+    ],
+    "correct": 1,
+    "category": "pilotagem",
+    "level": "intermediario",
+    "explanation": "A moto tende a seguir a direção para onde o piloto está olhando."
+  },
+  {
+    "id": 66,
+    "question": "Em uma frenagem de emergência em motos SEM ABS, o que ocorre se a roda dianteira travar?",
+    "options": [
+      "A moto para mais rápido",
+      "A moto mantém o equilíbrio",
+      "Há perda imediata de direção e alto risco de queda (low-side)",
+      "O motor desliga automaticamente"
+    ],
+    "correct": 2,
+    "category": "seguranca",
+    "level": "intermediario",
+    "explanation": "O travamento da roda dianteira elimina a força direcional e a estabilidade giroscópica."
+  },
+  {
+    "id": 67,
+    "question": "Qual é a 'frenagem combinada' ideal em condições de asfalto seco e limpo?",
+    "options": [
+      "100% no freio traseiro",
+      "70% no freio dianteiro e 30% no traseiro",
+      "50% no dianteiro e 50% no traseiro",
+      "Uso exclusivo do freio motor"
+    ],
+    "correct": 1,
+    "category": "pilotagem",
+    "level": "iniciante",
+    "explanation": "A maior parte da força de parada vem do dianteiro devido à transferência de peso para a frente."
+  },
+  {
+    "id": 68,
+    "question": "O que o piloto deve fazer ao passar por um trecho com areia ou óleo na pista?",
+    "options": [
+      "Inclinar a moto o máximo possível",
+      "Frear bruscamente com o dianteiro",
+      "Manter a moto vertical e evitar mudanças bruscas de direção ou aceleração",
+      "Acelerar forte para passar rápido"
+    ],
+    "correct": 2,
+    "category": "seguranca",
+    "level": "intermediario",
+    "explanation": "Manter a moto reta e os comandos suaves minimiza o risco de perda de tração."
+  },
+  {
+    "id": 69,
+    "question": "A técnica de 'apoiar os joelhos no tanque' serve para:",
+    "options": [
+      "Melhorar a estética da pilotagem",
+      "Aliviar o peso nos braços e dar mais controle ao guidão",
+      "Esquentar as pernas",
+      "Evitar que a moto corra demais"
+    ],
+    "correct": 1,
+    "category": "pilotagem",
+    "level": "intermediario",
+    "explanation": "Ao segurar a moto com as pernas, o piloto evita tencionar os braços, permitindo uma direção mais livre."
+  },
+  {
+    "id": 70,
+    "question": "O que é o 'Low-side' em uma queda de moto?",
+    "options": [
+      "Quando a moto ejeta o piloto para cima",
+      "Quando os pneus perdem aderência e a moto escorrega 'deitada' para fora da curva",
+      "Quando a moto bate de frente",
+      "Quando acaba a gasolina em movimento"
+    ],
+    "correct": 1,
+    "category": "seguranca",
+    "level": "intermediario",
+    "explanation": "Ocorre geralmente por excesso de inclinação ou falta de aderência na curva."
+  },
+  {
+    "id": 71,
+    "question": "O 'High-side' é considerado uma queda perigosa porque:",
+    "options": [
+      "A moto para suavemente",
+      "O piloto é lançado por cima da moto após o pneu recuperar tração abruptamente",
+      "Ocorre apenas em baixas velocidades",
+      "Não danifica a motocicleta"
+    ],
+    "correct": 1,
+    "category": "seguranca",
+    "level": "avancado",
+    "explanation": "A energia acumulada na suspensão lança o piloto no ar quando o pneu para de derrapar e volta a aderir ao solo."
+  },
+  {
+    "id": 72,
+    "question": "Ao pilotar em grupo, qual a formação mais segura na faixa de rolamento?",
+    "options": [
+      "Um ao lado do outro na mesma linha",
+      "Formação intercalada (zigue-zague)",
+      "Fila indiana única e colada",
+      "Cada um escolhe seu lugar aleatoriamente"
+    ],
+    "correct": 1,
+    "category": "seguranca",
+    "level": "intermediario",
+    "explanation": "A formação intercalada garante tempo de reação e espaço de manobra para todos os integrantes."
+  },
+  {
+    "id": 73,
+    "question": "O que o piloto deve fazer antes de iniciar uma ultrapassagem?",
+    "options": [
+      "Apenas acelerar",
+      "Verificar retrovisores, sinalizar e checar o ponto cego",
+      "Buzinar continuamente sem olhar",
+      "Colar na traseira do veículo à frente"
+    ],
+    "correct": 1,
+    "category": "seguranca",
+    "level": "iniciante",
+    "explanation": "A sinalização e a checa de segurança evitam colisões com veículos que já podem estar ultrapassando você."
+  },
+  {
+    "id": 74,
+    "question": "Em descidas de serra longas, o procedimento correto é:",
+    "options": [
+      "Descer em ponto morto (banguela) para economizar combustível",
+      "Utilizar o freio motor engrenando uma marcha compatível",
+      "Desligar o motor",
+      "Usar apenas o freio traseiro o tempo todo"
+    ],
+    "correct": 1,
+    "category": "pilotagem",
+    "level": "intermediario",
+    "explanation": "O freio motor evita o superaquecimento dos discos de freio (fading), mantendo a eficiência do sistema."
+  },
+  {
+    "id": 75,
+    "question": "Qual a reação correta ao sentir que a roda traseira travou em uma frenagem?",
+    "options": [
+      "Apertar ainda mais o freio dianteiro",
+      "Aliviar gradualmente a pressão no pedal do freio traseiro",
+      "Pular da moto",
+      "Acelerar imediatamente"
+    ],
+    "correct": 1,
+    "category": "pilotagem",
+    "level": "intermediario",
+    "explanation": "Aliviar a pressão permite que a roda volte a girar e recupere a estabilidade direcional."
+  },
+  {
+    "id": 76,
+    "question": "Pilotar 'cobrindo os freios' significa:",
+    "options": [
+      "Esconder os manetes com uma capa",
+      "Manter os dedos levemente sobre o manete de freio para reduzir o tempo de reação",
+      "Manter o pé longe do pedal",
+      "Usar luvas muito grossas"
+    ],
+    "correct": 1,
+    "category": "seguranca",
+    "level": "iniciante",
+    "explanation": "Isso reduz o tempo entre perceber o perigo e iniciar a frenagem efetiva."
+  },
+  {
+    "id": 77,
+    "question": "Como a chuva afeta o início da pilotagem no asfalto?",
+    "options": [
+      "O asfalto fica mais aderente",
+      "Os primeiros minutos são os mais perigosos devido à mistura de água com óleo e poeira",
+      "Não há diferença",
+      "A moto fica mais estável"
+    ],
+    "correct": 1,
+    "category": "seguranca",
+    "level": "iniciante",
+    "explanation": "A água solta o óleo acumulado nos poros do asfalto, criando uma camada extremamente escorregadia."
+  },
+  {
+    "id": 78,
+    "question": "Ao atravessar trilhos de trem ou degraus na pista, o ângulo ideal é:",
+    "options": [
+      "O mais paralelo possível",
+      "O mais próximo de 90 graus (perpendicular)",
+      "Sempre inclinado a 45 graus",
+      "Não importa o ângulo"
+    ],
+    "correct": 1,
+    "category": "pilotagem",
+    "level": "intermediario",
+    "explanation": "Cruzar perpendicularmente evita que o pneu seja 'guiado' pelo trilho ou degrau, causando desequilíbrio."
+  },
+  {
+    "id": 79,
+    "question": "Qual é a principal função da 'viseira fumê' ou óculos escuros?",
+    "options": [
+      "Apenas estética",
+      "Reduzir o ofuscamento e a fadiga ocular em dias ensolarados",
+      "Ser usada obrigatoriamente à noite",
+      "Esconder o rosto do piloto"
+    ],
+    "correct": 1,
+    "category": "equipamentos",
+    "level": "iniciante",
+    "explanation": "A proteção contra luz excessiva garante que o piloto enxergue obstáculos com clareza."
+  },
+  {
+    "id": 80,
+    "question": "O uso de 'intercomunicadores' ajuda na segurança em grupo porque:",
+    "options": [
+      "Permite ouvir música alta",
+      "Facilita o aviso imediato sobre obstáculos ou perigos na via",
+      "Substitui o uso dos espelhos",
+      "Aumenta a potência da moto"
+    ],
+    "correct": 1,
+    "category": "seguranca",
+    "level": "intermediario",
+    "explanation": "A comunicação rápida entre os líderes e o final do grupo evita surpresas negativas."
+  },
+  {
+    "id": 81,
+    "question": "Em uma situação de vento lateral forte, o piloto deve:",
+    "options": [
+      "Segurar o guidão com força extrema",
+      "Inclinar levemente a moto contra o vento e manter uma velocidade estável",
+      "Parar no meio da pista",
+      "Acelerar ao máximo para cortar o vento"
+    ],
+    "correct": 1,
+    "category": "pilotagem",
+    "level": "avancado",
+    "explanation": "Compensar a força do vento com a inclinação e relaxar os braços ajuda a manter a trajetória."
+  },
+  {
+    "id": 82,
+    "question": "O que indica o 'ponto de fricção' da embreagem?",
+    "options": [
+      "O momento em que a moto desliga",
+      "A zona onde a potência começa a ser transmitida para a roda",
+      "Quando o cabo se rompe",
+      "O local onde se coloca o óleo"
+    ],
+    "correct": 1,
+    "category": "pilotagem",
+    "level": "iniciante",
+    "explanation": "Dominar o ponto de fricção é essencial para saídas suaves e manobras em baixa velocidade."
+  },
+  {
+    "id": 83,
+    "question": "O 'freio motor' é mais eficiente em:",
+    "options": [
+      "Marchas altas (5ª ou 6ª)",
+      "Ponto morto",
+      "Marchas baixas (1ª, 2ª ou 3ª)",
+      "Qualquer marcha é igual"
+    ],
+    "correct": 2,
+    "category": "pilotagem",
+    "level": "intermediario",
+    "explanation": "Quanto menor a marcha, maior a resistência oferecida pelo motor ao movimento das rodas."
+  },
+]
+[
+  {
+    "id": 84,
+    "question": "Ao presenciar um acidente com vítima, qual a primeira atitude a tomar?",
+    "options": [
+      "Remover o capacete da vítima imediatamente",
+      "Sinalizar o local para evitar novos acidentes",
+      "Dar água ou comida para a vítima",
+      "Tentar mover a vítima para a calçada"
+    ],
+    "correct": 1,
+    "category": "primeiros_socorros",
+    "level": "iniciante",
+    "explanation": "A sinalização do local (usando triângulo, galhos ou pisca-alerta) protege a vítima e quem está prestando auxílio."
+  },
+  {
+    "id": 85,
+    "question": "Em um acidente de moto, por que NÃO se deve remover o capacete da vítima?",
+    "options": [
+      "Para não estragar o equipamento",
+      "Porque o capacete é muito caro",
+      "Para evitar lesões na coluna cervical ou agravamento de fraturas",
+      "Porque a lei proíbe"
+    ],
+    "correct": 2,
+    "category": "primeiros_socorros",
+    "level": "iniciante",
+    "explanation": "A remoção inadequada pode causar paralisia ou danos irreversíveis à medula se houver lesão no pescoço."
+  },
+  {
+    "id": 86,
+    "question": "Ao transportar um passageiro (garupa), como ele deve se comportar nas curvas?",
+    "options": [
+      "Inclinar para o lado oposto ao do piloto",
+      "Permanecer imóvel e reto",
+      "Acompanhar suavemente o movimento de inclinação do piloto",
+      "Fechar os olhos e segurar no bagageiro"
+    ],
+    "correct": 2,
+    "category": "pilotagem",
+    "level": "intermediario",
+    "explanation": "O passageiro deve ser 'um corpo só' com o piloto para não desequilibrar a trajetória da moto."
+  },
+  {
+    "id": 87,
+    "question": "Onde o passageiro deve apoiar as mãos preferencialmente para maior estabilidade?",
+    "options": [
+      "Nos ombros do piloto",
+      "Na cintura do piloto ou nas alças laterais da moto",
+      "No tanque de combustível",
+      "Cruzadas no peito"
+    ],
+    "correct": 1,
+    "category": "pilotagem",
+    "level": "iniciante",
+    "explanation": "Segurar na cintura do piloto ajuda a sentir os movimentos de aceleração e frenagem, mantendo a união do conjunto."
+  },
+  {
+    "id": 88,
+    "question": "Qual o número nacional de emergência do SAMU?",
+    "options": ["190", "193", "192", "199"],
+    "correct": 2,
+    "category": "primeiros_socorros",
+    "level": "iniciante",
+    "explanation": "O 192 é o número do Serviço de Atendimento Móvel de Urgência."
+  },
+  {
+    "id": 89,
+    "question": "Em caso de queimadura por escapamento, o procedimento correto de primeiros socorros é:",
+    "options": [
+      "Passar pasta de dente ou manteiga",
+      "Lavar com água corrente em temperatura ambiente",
+      "Furar as bolhas imediatamente",
+      "Colocar gelo diretamente sobre a pele"
+    ],
+    "correct": 1,
+    "category": "primeiros_socorros",
+    "level": "intermediario",
+    "explanation": "Apenas água limpa deve ser usada. Substâncias caseiras podem causar infecção ou piorar a lesão."
+  },
+  {
+    "id": 90,
+    "question": "Como deve ser feita a sinalização de um acidente em uma rodovia à noite?",
+    "options": [
+      "Usar apenas as mãos para sinalizar",
+      "Colocar objetos reflexivos ou lanternas a uma distância segura antes do local",
+      "Não sinalizar para não distrair outros motoristas",
+      "Ligar uma fogueira no asfalto"
+    ],
+    "correct": 1,
+    "category": "primeiros_socorros",
+    "level": "intermediario",
+    "explanation": "À noite, a visibilidade é reduzida, exigindo que a sinalização comece muito antes do acidente."
+  },
+  {
+    "id": 91,
+    "question": "Ao levar garupa, a calibragem dos pneus deve ser:",
+    "options": [
+      "Mantida a mesma de quando está sozinho",
+      "Reduzida para ficar mais macio",
+      "Aumentada conforme a recomendação do manual para carga máxima",
+      "Zerar a pressão do pneu traseiro"
+    ],
+    "correct": 2,
+    "category": "manutencao",
+    "level": "iniciante",
+    "explanation": "O peso extra exige maior pressão, especialmente no pneu traseiro, para evitar deformação excessiva e superaquecimento."
+  },
+  {
+    "id": 92,
+    "question": "O que é 'Omissão de Socorro' segundo o Código de Trânsito?",
+    "options": [
+      "Apenas quando você causa o acidente",
+      "Deixar de prestar auxílio ou solicitar ajuda em qualquer acidente presenciado, podendo fazê-lo",
+      "Pedir para outra pessoa ligar para a polícia",
+      "Apenas um erro ético, sem punição legal"
+    ],
+    "correct": 1,
+    "category": "legislação",
+    "level": "intermediario",
+    "explanation": "É crime e infração de trânsito deixar de prestar socorro às vítimas, mesmo que você não seja o causador."
+  },
+  {
+    "id": 93,
+    "question": "Em um acidente com suspeita de hemorragia externa, deve-se:",
+    "options": [
+      "Fazer um torniquete em qualquer caso",
+      "Aplicar pressão direta sobre o ferimento com um pano limpo",
+      "Lavar com álcool gel",
+      "Deixar o sangue fluir para limpar a ferida"
+    ],
+    "correct": 1,
+    "category": "primeiros_socorros",
+    "level": "intermediario",
+    "explanation": "A compressão direta ajuda a estancar o sangue até a chegada de profissionais."
+  },
+  {
+    "id": 94,
+    "question": "Qual o principal risco ao tentar dar água para uma pessoa inconsciente?",
+    "options": [
+      "Ela não ter sede",
+      "A água estar gelada",
+      "A vítima se engasgar e sofrer uma aspiração pulmonar",
+      "Manchar a roupa da vítima"
+    ],
+    "correct": 2,
+    "category": "primeiros_socorros",
+    "level": "iniciante",
+    "explanation": "Pessoas inconscientes perdem os reflexos de deglutição, e o líquido pode ir para os pulmões."
+  },
+  {
+    "id": 95,
+    "question": "A distância para sinalizar um acidente em pista seca, durante o dia, em uma via de 100km/h deve ser de:",
+    "options": [
+      "10 passos longos",
+      "50 passos longos",
+      "100 passos longos",
+      "1000 metros"
+    ],
+    "correct": 2,
+    "category": "primeiros_socorros",
+    "level": "intermediario",
+    "explanation": "A regra geral é um passo por quilômetro de velocidade permitida (100km/h = 100 passos)."
+  },
+  {
+    "id": 96,
+    "question": "Onde o passageiro deve apoiar os pés na motocicleta?",
+    "options": [
+      "Nos eixos das rodas",
+      "Nas pedaleiras traseiras retráteis",
+      "No escapamento",
+      "Deixá-los soltos para equilibrar"
+    ],
+    "correct": 1,
+    "category": "pilotagem",
+    "level": "iniciante",
+    "explanation": "As pedaleiras garantem estabilidade e evitam queimaduras ou contato com a roda em movimento."
+  },
+  {
+    "id": 97,
+    "question": "O que o piloto deve avisar ao passageiro antes de sair?",
+    "options": [
+      "Para subir na moto apenas após o piloto dar o comando e estar firme",
+      "Para pular da moto se vir um buraco",
+      "Para não usar capacete",
+      "Que a moto não tem freios"
+    ],
+    "correct": 0,
+    "category": "pilotagem",
+    "level": "iniciante",
+    "explanation": "O momento de subir e descer da moto é um dos mais críticos para o equilíbrio do piloto."
+  },
+  {
+    "id": 98,
+    "question": "O capacete do passageiro deve ser:",
+    "options": [
+      "Qualquer um, pois ele não está pilotando",
+      "Um tamanho maior para ser confortável",
+      "Certificado pelo INMETRO e do tamanho correto para a cabeça dele",
+      "Apenas um boné de proteção"
+    ],
+    "correct": 2,
+    "category": "equipamentos",
+    "level": "iniciante",
+    "explanation": "A segurança do passageiro é responsabilidade do piloto e exige equipamentos tão bons quanto os dele."
+  },
+  {
+    "id": 99,
+    "question": "Ao transportar carga no bagageiro, o motociclista deve:",
+    "options": [
+      "Prender a carga com cordas frouxas",
+      "Centralizar e fixar bem o peso para não deslocar o centro de gravidade",
+      "Colocar todo o peso apenas de um lado",
+      "Não se preocupar com o peso"
+    ],
+    "correct": 1,
+    "category": "pilotagem",
+    "level": "intermediario",
+    "explanation": "Cargas mal fixadas podem se soltar ou causar oscilações perigosas na direção."
+  },
+  {
+    "id": 100,
+    "question": "Em caso de acidente, o número 193 liga para:",
+    "options": ["Polícia Militar", "Corpo de Bombeiros", "Defesa Civil", "Polícia Rodoviária"],
+    "correct": 1,
+    "category": "primeiros_socorros",
+    "level": "iniciante",
+    "explanation": "O 193 é o número dos Bombeiros, treinados para resgates e desencarceramento."
+  },
+  {
+    "id": 101,
+    "question": "Se houver um objeto encravado no corpo da vítima, você deve:",
+    "options": [
+      "Retirar imediatamente",
+      "Não retirar e estabilizar o objeto para que não se mova até o hospital",
+      "Girar o objeto",
+      "Lavar com sabão"
+    ],
+    "correct": 1,
+    "category": "primeiros_socorros",
+    "level": "intermediario",
+    "explanation": "O objeto pode estar estancando uma hemorragia; retirá-lo pode causar sangramento fatal."
+  },
+  {
+    "id": 102,
+    "question": "O que é o 'estado de choque' após um acidente?",
+    "options": [
+      "Levar um choque elétrico da bateria",
+      "Uma reação do organismo a uma grave depressão do sistema circulatório",
+      "Estar muito bravo com o outro motorista",
+      "Desejo de fugir do local"
+    ],
+    "correct": 1,
+    "category": "primeiros_socorros",
+    "level": "intermediario",
+    "explanation": "O choque hipovolêmico (perda de sangue) é comum em traumas e requer atendimento médico urgente."
+  },
+  {
+    "id": 103,
+    "question": "Como a presença de um passageiro afeta as manobras em baixa velocidade?",
+    "options": [
+      "Torna a moto mais ágil",
+      "Dificulta o equilíbrio devido ao centro de gravidade mais alto e peso extra",
+      "Não altera em nada",
+      "Faz a moto frear sozinha"
+    ],
+    "correct": 1,
+    "category": "pilotagem",
+    "level": "intermediario",
+    "explanation": "O equilíbrio em baixa velocidade exige mais perícia do piloto quando a moto está carregada."
+  },
+]
+[
+  {
+    "id": 104,
+    "question": "Ao pilotar sob neblina densa, o motociclista deve:",
+    "options": [
+      "Usar luz alta para atravessar a neblina",
+      "Usar luz baixa, reduzir a velocidade e guiar-se pelas faixas da pista",
+      "Parar na pista e ligar o pisca-alerta",
+      "Acelerar para sair rápido da zona de neblina"
+    ],
+    "correct": 1,
+    "category": "seguranca",
+    "level": "intermediario",
+    "explanation": "A luz alta reflete nas gotículas de água da neblina, criando uma 'parede branca' que cega o piloto. A luz baixa é mais eficaz."
+  },
+  {
+    "id": 105,
+    "question": "Qual o maior perigo de pilotar à noite em rodovias?",
+    "options": [
+      "O frio excessivo",
+      "A redução do campo de visão e o ofuscamento por outros veículos",
+      "O consumo maior de combustível",
+      "A falta de postos de gasolina"
+    ],
+    "correct": 1,
+    "category": "seguranca",
+    "level": "iniciante",
+    "explanation": "À noite, o piloto enxerga apenas o que o farol ilumina, reduzindo o tempo de reação para obstáculos."
+  },
+  {
+    "id": 106,
+    "question": "Ao encontrar uma poça de água profunda (alagamento), o procedimento mais seguro é:",
+    "options": [
+      "Atravessar em alta velocidade",
+      "Evitar a travessia ou, se necessário, fazê-la em baixa velocidade em primeira marcha",
+      "Desligar o motor e empurrar a moto montado nela",
+      "Levantar os pés para não molhar as botas"
+    ],
+    "correct": 1,
+    "category": "pilotagem",
+    "level": "intermediario",
+    "explanation": "Manter o motor em rotação constante evita que a água entre pelo escapamento e cause calço hidráulico."
+  },
+  {
+    "id": 107,
+    "question": "O que o piloto deve fazer se a viseira embaçar durante a chuva?",
+    "options": [
+      "Retirar o capacete em movimento",
+      "Abrir uma pequena fresta na viseira para circular o ar",
+      "Limpar com a luva suja de óleo",
+      "Fechar totalmente e tentar enxergar pelo embaçado"
+    ],
+    "correct": 1,
+    "category": "seguranca",
+    "level": "iniciante",
+    "explanation": "A entrada de ar equaliza a temperatura interna e externa, removendo o vapor de água da viseira."
+  },
+  {
+    "id": 108,
+    "question": "Pilotar em estradas de terra exige que o piloto:",
+    "options": [
+      "Mantenha o corpo rígido",
+      "Use apenas o freio dianteiro com força",
+      "Mantenha os braços relaxados e use o freio traseiro com mais frequência",
+      "Ande sempre em última marcha"
+    ],
+    "correct": 2,
+    "category": "pilotagem",
+    "level": "intermediario",
+    "explanation": "Na terra, a aderência é baixa. O freio traseiro ajuda a controlar a moto sem travar a direção (roda dianteira)."
+  },
+  {
+    "id": 109,
+    "question": "Ao ser ofuscado pelo farol alto de um veículo em sentido contrário, você deve:",
+    "options": [
+      "Ligar o seu farol alto também para revidar",
+      "Desviar o olhar para a linha de bordo à direita (faixa branca)",
+      "Fechar os olhos por alguns segundos",
+      "Parar imediatamente no meio da via"
+    ],
+    "correct": 1,
+    "category": "seguranca",
+    "level": "intermediario",
+    "explanation": "Olhar para a faixa lateral evita a cegueira temporária causada pelo luz direta e mantém a orientação da trajetória."
+  },
+  {
+    "id": 110,
+    "question": "Em descidas com óleo ou areia, o freio motor é útil porque:",
+    "options": [
+      "Ele trava a roda traseira instantaneamente",
+      "Mantém a moto tracionada e reduz a necessidade de usar os freios mecânicos",
+      "Aumenta o barulho da moto",
+      "Limpa os pneus"
+    ],
+    "correct": 1,
+    "category": "pilotagem",
+    "level": "intermediario",
+    "explanation": "A tração do motor ajuda a estabilizar a moto em superfícies de baixa aderência."
+  },
+  {
+    "id": 111,
+    "question": "O fenômeno 'fading' nos freios ocorre quando:",
+    "options": [
+      "As pastilhas estão novas",
+      "O sistema de freio superaquece por uso excessivo, perdendo a eficiência",
+      "A moto fica muito tempo parada",
+      "O pneu está calibrado demais"
+    ],
+    "correct": 1,
+    "category": "manutencao",
+    "level": "avancado",
+    "explanation": "O calor excessivo altera as propriedades químicas do fluido e das pastilhas, 'borrachando' o manete."
+  },
+  {
+    "id": 112,
+    "question": "Qual a postura correta para enfrentar um buraco inevitável?",
+    "options": [
+      "Sentar com força no banco",
+      "Ficar levemente em pé nas pedaleiras e manter o guidão reto",
+      "Puxar o freio dianteiro dentro do buraco",
+      "Soltar o guidão"
+    ],
+    "correct": 1,
+    "category": "pilotagem",
+    "level": "intermediario",
+    "explanation": "Levantar-se usa as pernas como amortecedores extras e evita danos à coluna e ao aro da moto."
+  },
+  {
+    "id": 113,
+    "question": "A força centrífuga em uma curva tende a:",
+    "options": [
+      "Empurrar a moto para o lado de dentro da curva",
+      "Empurrar a moto para o lado de fora da curva",
+      "Fazer a moto parar",
+      "Aumentar a pressão do óleo"
+    ],
+    "correct": 1,
+    "category": "pilotagem",
+    "level": "intermediario",
+    "explanation": "O piloto deve inclinar a moto para compensar essa força e manter a trajetória."
+  },
+  {
+    "id": 114,
+    "question": "Ao pilotar com ventos laterais fortes em uma ponte, o piloto deve:",
+    "options": [
+      "Aumentar a velocidade ao máximo",
+      "Reduzir a velocidade e inclinar levemente a moto contra a direção do vento",
+      "Parar a moto e esperar o vento passar",
+      "Pilotar em zigue-zague"
+    ],
+    "correct": 1,
+    "category": "seguranca",
+    "level": "avancado",
+    "explanation": "A inclinação controlada compensa o 'empurrão' lateral do vento, mantendo a moto na faixa."
+  },
+  {
+    "id": 115,
+    "question": "O uso de roupas de cordura ou couro é essencial porque:",
+    "options": [
+      "São materiais que não molham",
+      "Oferecem alta resistência à abrasão em caso de deslizamento no asfalto",
+      "São mais leves que o algodão",
+      "São obrigatórias por lei em todas as vias"
+    ],
+    "correct": 1,
+    "category": "equipamentos",
+    "level": "iniciante",
+    "explanation": "O asfalto age como uma lixa; materiais técnicos evitam que a pele seja consumida pelo atrito."
+  },
+  {
+    "id": 116,
+    "question": "A distância de frenagem é composta pela soma de:",
+    "options": [
+      "Velocidade + Peso",
+      "Tempo de reação + Tempo de frenagem",
+      "Aceleração + Curvatura",
+      "Luz do farol + Distância do carro"
+    ],
+    "correct": 1,
+    "category": "seguranca",
+    "level": "avancado",
+    "explanation": "Inclui o espaço percorrido desde o momento em que se vê o perigo até o acionamento dos freios, mais o tempo até a parada total."
+  },
+  {
+    "id": 117,
+    "question": "Qual o maior perigo de cruzar a rampa de um caminhão cegonha ou prancha?",
+    "options": [
+      "O brilho do metal",
+      "A baixa aderência do metal, especialmente se estiver molhado",
+      "O tamanho do caminhão",
+      "O barulho do motor do caminhão"
+    ],
+    "correct": 1,
+    "category": "seguranca",
+    "level": "intermediario",
+    "explanation": "Superfícies metálicas lisas oferecem quase zero atrito, facilitando quedas laterais."
+  },
+  {
+    "id": 118,
+    "question": "Ao pilotar no corredor (entre veículos), o motociclista deve:",
+    "options": [
+      "Andar em velocidade muito superior aos carros",
+      "Manter velocidade compatível, luzes acesas e atenção redobrada a mudanças de faixa",
+      "Buzinar ininterruptamente para abrir caminho",
+      "Usar o corredor apenas à noite"
+    ],
+    "correct": 1,
+    "category": "seguranca",
+    "level": "iniciante",
+    "explanation": "O corredor exige prudência extrema, pois a visibilidade dos motoristas sobre a moto é limitada."
+  },
+  {
+    "id": 119,
+    "question": "O 'ponto de não retorno' em um cruzamento é:",
+    "options": [
+      "Onde a moto acaba a gasolina",
+      "O momento em que você não consegue mais parar antes do cruzamento com segurança",
+      "A faixa de pedestres",
+      "O meio da esquina"
+    ],
+    "correct": 1,
+    "category": "seguranca",
+    "level": "avancado",
+    "explanation": "É o limite físico onde a decisão de passar ou parar deve ser tomada com base na distância de frenagem."
+  },
+  {
+    "id": 120,
+    "question": "Qual a função da 'lente pinlock' no capacete?",
+    "options": [
+      "Escurecer a viseira",
+      "Evitar que a viseira embace em dias frios ou chuvosos",
+      "Proteger contra raios UV",
+      "Aumentar a resistência do casco"
+    ],
+    "correct": 1,
+    "category": "equipamentos",
+    "level": "intermediario",
+    "explanation": "O pinlock cria uma câmara de ar isolante que impede a condensação do hálito na viseira."
+  },
+  {
+    "id": 121,
+    "question": "Pneus do tipo 'On/Off Road' (misto) são ideais para:",
+    "options": [
+      "Uso exclusivo em pistas de corrida",
+      "Uso em asfalto e estradas de terra leve",
+      "Motos de baixa cilindrada apenas",
+      "Pilotar apenas na areia fofa"
+    ],
+    "correct": 1,
+    "category": "manutencao",
+    "level": "iniciante",
+    "explanation": "Eles possuem blocos de borracha maiores que permitem tração na terra sem perder muita estabilidade no asfalto."
+  },
+  {
+    "id": 122,
+    "question": "O 'frio' pode afetar a pilotagem ao causar:",
+    "options": [
+      "Aumento da agilidade",
+      "Diminuição da sensibilidade nos comandos e fadiga muscular",
+      "Melhora na visão",
+      "Redução do consumo de óleo"
+    ],
+    "correct": 1,
+    "category": "seguranca",
+    "level": "iniciante",
+    "explanation": "Mãos geladas demoram mais para acionar freios e embreagem, prejudicando a segurança."
+  },
+  {
+    "id": 123,
+    "question": "A técnica de 'ancoragem' na moto refere-se a:",
+    "options": [
+      "Prender a moto com correntes no estacionamento",
+      "Fixar o corpo na moto através das pernas para deixar os braços livres para manobras",
+      "Usar uma âncora para parar",
+      "Amarrar a mochila no banco"
+    ],
+    "correct": 1,
+    "category": "pilotagem",
+    "level": "intermediario",
+    "explanation": "Segurar a moto com os joelhos permite que o piloto sinta as reações da moto e tenha leveza no guidão."
+  },
+]
+[
+  {
+    "id": 124,
+    "question": "O que é o sistema de 'Arrefecimento Líquido'?",
+    "options": [
+      "Um sistema que usa apenas o vento para esfriar o motor",
+      "O uso de um radiador e líquido circulante para controlar a temperatura do motor",
+      "O sistema de lubrificação da corrente",
+      "A lavagem periódica da motocicleta"
+    ],
+    "correct": 1,
+    "category": "manutencao",
+    "level": "intermediario",
+    "explanation": "Diferente do arrefecimento a ar, o líquido permite manter uma temperatura de trabalho mais estável e eficiente."
+  },
+  {
+    "id": 125,
+    "question": "Qual a função do 'Retificador/Regulador' de voltagem?",
+    "options": [
+      "Aumentar a velocidade da moto",
+      "Transformar a corrente alternada do estator em contínua e limitar a voltagem para a bateria",
+      "Controlar a mistura de ar e combustível",
+      "Filtrar o óleo do motor"
+    ],
+    "correct": 1,
+    "category": "manutencao",
+    "level": "avancado",
+    "explanation": "Ele evita que a bateria receba carga excessiva e queime os componentes elétricos da moto."
+  },
+  {
+    "id": 126,
+    "question": "O que acontece se o 'Filtro de Óleo' estiver obstruído?",
+    "options": [
+      "O motor fica mais silencioso",
+      "Pode haver falha na lubrificação, causando danos graves às partes móveis do motor",
+      "O combustível acaba mais rápido",
+      "Aumenta a pressão dos pneus"
+    ],
+    "correct": 1,
+    "category": "manutencao",
+    "level": "intermediario",
+    "explanation": "O filtro retém limalhas e impurezas; se entupir, o óleo sujo (ou nenhum óleo) circula pelo motor."
+  },
+  {
+    "id": 127,
+    "question": "O sistema de 'Injeção Eletrónica' substituiu qual componente mecânico antigo?",
+    "options": [
+      "O Escapamento",
+      "O Carburador",
+      "A Corrente",
+      "O Amortecedor"
+    ],
+    "correct": 1,
+    "category": "manutencao",
+    "level": "iniciante",
+    "explanation": "A injeção eletrónica é mais precisa, económica e menos poluente que o antigo carburador."
+  },
+  {
+    "id": 128,
+    "question": "O que indica a sigla 'SAE' presente nos frascos de óleo (ex: SAE 10W40)?",
+    "options": [
+      "Sistema de Aceleração Eletrónica",
+      "Índice de viscosidade do óleo estabelecido pela Sociedade de Engenheiros Automotivos",
+      "Selo de Aprovação Ecológica",
+      "Sinal de Alerta de Emergência"
+    ],
+    "correct": 1,
+    "category": "manutencao",
+    "level": "avancado",
+    "explanation": "A classificação SAE define como o óleo se comporta em diferentes temperaturas."
+  },
+  {
+    "id": 129,
+    "question": "Qual a função da 'Sonda Lambda' no sistema de exaustão?",
+    "options": [
+      "Aumentar o barulho da moto",
+      "Medir a quantidade de oxigénio nos gases para ajustar a mistura ar/combustível",
+      "Arrefecer o motor",
+      "Limpar a corrente"
+    ],
+    "correct": 1,
+    "category": "manutencao",
+    "level": "avancado",
+    "explanation": "Ela envia dados para a central eletrónica (ECU) para manter a queima de combustível perfeita."
+  },
+  {
+    "id": 130,
+    "question": "O 'O-ring' em uma corrente de transmissão serve para:",
+    "options": [
+      "Fazer a corrente brilhar",
+      "Reter a lubrificação interna dentro dos elos da corrente",
+      "Prender a roda no eixo",
+      "Reduzir o peso da moto"
+    ],
+    "correct": 1,
+    "category": "manutencao",
+    "level": "intermediario",
+    "explanation": "Correntes com O-ring (anéis de borracha) duram mais pois mantêm a lubrificação interna de fábrica."
+  },
+  {
+    "id": 131,
+    "question": "Folga excessiva na 'Caixa de Direção' causa:",
+    "options": [
+      "Aumento da velocidade",
+      "Instabilidade, ruídos metálicos e imprecisão ao guiar",
+      "Melhora nas curvas",
+      "Economia de travões"
+    ],
+    "correct": 1,
+    "category": "manutencao",
+    "level": "intermediario",
+    "explanation": "Uma caixa de direção solta ou danificada compromete seriamente a segurança e o controle da moto."
+  },
+  {
+    "id": 132,
+    "question": "O componente responsável por gerar a faísca que inicia a combustão é:",
+    "options": [
+      "A Bateria",
+      "A Vela de Ignição",
+      "O Alternador",
+      "O Pistão"
+    ],
+    "correct": 1,
+    "category": "manutencao",
+    "level": "iniciante",
+    "explanation": "A vela de ignição transforma a voltagem da bobina em uma faísca dentro do cilindro."
+  },
+  {
+    "id": 133,
+    "question": "Motos com 'Transmissão por Cardan' têm como vantagem:",
+    "options": [
+      "Serem muito mais leves",
+      "Manutenção reduzida e ausência de ruído de corrente",
+      "Poderem trocar de marcha sozinhas",
+      "Aumentar a aderência dos pneus"
+    ],
+    "correct": 1,
+    "category": "manutencao",
+    "level": "intermediario",
+    "explanation": "O cardan é um sistema robusto que exige basicamente apenas a troca periódica de óleo do diferencial."
+  },
+  {
+    "id": 134,
+    "question": "O que pode causar o 'Escorregamento da Embreagem'?",
+    "options": [
+      "Pneus carecas",
+      "Discos de embreagem gastos ou uso de óleo inadequado",
+      "Andar muito devagar",
+      "Usar o travão dianteiro"
+    ],
+    "correct": 1,
+    "category": "manutencao",
+    "level": "intermediario",
+    "explanation": "A moto aumenta o giro do motor, mas a velocidade não sobe proporcionalmente."
+  },
+  {
+    "id": 135,
+    "question": "Qual a função do 'Fusível' no sistema elétrico?",
+    "options": [
+      "Gerar energia para o farol",
+      "Proteger o circuito contra sobrecarga, rompendo-se em caso de curto-circuito",
+      "Carregar a bateria",
+      "Conectar o motor às rodas"
+    ],
+    "correct": 1,
+    "category": "manutencao",
+    "level": "iniciante",
+    "explanation": "O fusível sacrifica-se para evitar que componentes caros ou a fiação se queimem."
+  },
+  {
+    "id": 136,
+    "question": "A 'Vela de Iridium' oferece como benefício principal:",
+    "options": [
+      "Mudar a cor da moto",
+      "Maior durabilidade e estabilidade da centelha",
+      "Reduzir o preço do seguro",
+      "Funcionar sem bateria"
+    ],
+    "correct": 1,
+    "category": "manutencao",
+    "level": "intermediario",
+    "explanation": "O metal Iridium é extremamente resistente ao calor e ao desgaste por erosão elétrica."
+  },
+  {
+    "id": 137,
+    "question": "O que é o 'Estator' na motocicleta?",
+    "options": [
+      "A peça que trava a roda",
+      "Um conjunto de bobinas que gera energia elétrica através da rotação do motor",
+      "O pedal de troca de marchas",
+      "O suporte da placa"
+    ],
+    "correct": 1,
+    "category": "manutencao",
+    "level": "avancado",
+    "explanation": "Ele funciona como um gerador, alimentando o sistema e carregando a bateria enquanto o motor gira."
+  },
+  {
+    "id": 138,
+    "question": "Qual a consequência de ter 'Carbonização' excessiva na cabeça do pistão?",
+    "options": [
+      "Aumento da economia de combustível",
+      "Pré-ignição (batida de pino) e perda de desempenho",
+      "O motor fica mais potente",
+      "As luzes brilham mais forte"
+    ],
+    "correct": 1,
+    "category": "manutencao",
+    "level": "avancado",
+    "explanation": "O acúmulo de carvão pode criar pontos quentes que detonam o combustível antes da hora certa."
+  },
+  {
+    "id": 139,
+    "question": "O sistema 'Quickshifter' permite:",
+    "options": [
+      "Travar a moto mais rápido",
+      "Trocar de marchas sem usar a embreagem e sem aliviar o acelerador",
+      "Ligar a moto à distância",
+      "Trocar o óleo em 5 minutos"
+    ],
+    "correct": 1,
+    "category": "pilotagem",
+    "level": "avancado",
+    "explanation": "É um sistema eletrónico que corta a ignição por milissegundos para permitir o engate da próxima marcha."
+  },
+  {
+    "id": 140,
+    "question": "O que indica a luz de 'Injeção' acesa no painel?",
+    "options": [
+      "Que o combustível está acabando",
+      "Uma falha detetada por algum sensor do sistema de gestão do motor",
+      "Que a moto está pronta para correr",
+      "Que o farol alto está ligado"
+    ],
+    "correct": 1,
+    "category": "manutencao",
+    "level": "iniciante",
+    "explanation": "A central detetou algo fora do padrão e armazenou um código de erro que deve ser verificado com um scanner."
+  },
+  {
+    "id": 141,
+    "question": "A 'Fregagem de Motor' em motores de 4 tempos é:",
+    "options": [
+      "Inexistente",
+      "Muito forte, devido à compressão do motor quando se fecha o acelerador",
+      "O uso do travão de mão",
+      "Apenas um mito"
+    ],
+    "correct": 1,
+    "category": "pilotagem",
+    "level": "iniciante",
+    "explanation": "Ao fechar o acelerador, a resistência mecânica do motor ajuda a reduzir a velocidade das rodas."
+  },
+  {
+    "id": 142,
+    "question": "O que é o 'Calço Hidráulico'?",
+    "options": [
+      "Um tipo de suspensão moderna",
+      "Quando água ou líquido entra no cilindro e impede o movimento do pistão (podendo quebrar o motor)",
+      "Um suporte para estacionar a moto",
+      "O nome técnico do travão ABS"
+    ],
+    "correct": 1,
+    "category": "manutencao",
+    "level": "avancado",
+    "explanation": "Como líquidos não comprimem, se entrarem na câmara de combustão, o motor trava bruscamente e entorta peças internas."
+  },
+  {
+    "id": 143,
+    "question": "A folga da corrente deve ser medida com:",
+    "options": [
+      "A moto suspensa no cavalete central",
+      "O condutor montado na moto (ou conforme especificado no manual)",
+      "A corrente esticada ao máximo",
+      "A moto ligada"
+    ],
+    "correct": 1,
+    "category": "manutencao",
+    "level": "intermediario",
+    "explanation": "O peso do condutor altera a geometria da suspensão e a tensão da corrente; medir sem carga pode dar um resultado errado."
+  },
+]
+[
+  {
+    "id": 144,
+    "question": "É verdade que deve-se usar apenas o freio traseiro em dias de chuva?",
+    "options": [
+      "Sim, para evitar que a roda dianteira escorregue",
+      "Não, ambos os freios devem ser usados com suavidade e progressividade",
+      "Sim, o freio dianteiro não funciona na água",
+      "Não, deve-se usar apenas o freio motor"
+    ],
+    "correct": 1,
+    "category": "pilotagem",
+    "level": "iniciante",
+    "explanation": "Ignorar o freio dianteiro aumenta drasticamente a distância de parada. O segredo é a suavidade no acionamento."
+  },
+  {
+    "id": 145,
+    "question": "O que significa a expressão 'mirada baixa' na pilotagem?",
+    "options": [
+      "Olhar para o painel constantemente",
+      "Olhar apenas para a roda dianteira, o que reduz o tempo de antecipação",
+      "Olhar para os lados em cruzamentos",
+      "Pilotar de olhos fechados"
+    ],
+    "correct": 1,
+    "category": "seguranca",
+    "level": "intermediario",
+    "explanation": "Olhar para 'perto demais' impede que o piloto veja buracos ou veículos parados a tempo de desviar."
+  },
+  {
+    "id": 146,
+    "question": "Sobre o uso de pneus 'remold' em motocicletas, é correto afirmar:",
+    "options": [
+      "São tão seguros quanto os novos",
+      "Não são recomendados para motos devido ao risco de delaminação e instabilidade",
+      "São obrigatórios por lei ambiental",
+      "Aumentam a velocidade final"
+    ],
+    "correct": 1,
+    "category": "manutencao",
+    "level": "intermediario",
+    "explanation": "Diferente dos carros, a falha de um pneu na moto quase sempre resulta em queda; por isso, a segurança do pneu novo é indispensável."
+  },
+  {
+    "id": 147,
+    "question": "A técnica de 'cortar o giro' com a moto parada causa:",
+    "options": [
+      "Limpeza das velas",
+      "Superaquecimento e desgaste prematuro de válvulas e componentes internos",
+      "Aumento da carga da bateria",
+      "Melhora no som do escapamento"
+    ],
+    "correct": 1,
+    "category": "manutencao",
+    "level": "iniciante",
+    "explanation": "Motores de moto aquecem rápido sem o fluxo de ar; elevar o giro sem movimento é extremamente prejudicial."
+  },
+  {
+    "id": 148,
+    "question": "Qual a finalidade das 'faixas reflexivas' no capacete?",
+    "options": [
+      "Melhorar a aerodinâmica",
+      "Aumentar a visibilidade do motociclista à noite",
+      "Segurar a viseira no lugar",
+      "Cumprir apenas uma função estética"
+    ],
+    "correct": 1,
+    "category": "legislação",
+    "level": "iniciante",
+    "explanation": "O CTB exige adesivos reflexivos em todos os lados do capacete para que outros condutores percebam a moto no escuro."
+  },
+  {
+    "id": 149,
+    "question": "Mito ou Verdade: Deixar o motor 'esquentar' por 10 minutos parado antes de sair é necessário nas motos modernas?",
+    "options": [
+      "Verdade, para o óleo subir",
+      "Mito, 30 a 60 segundos são suficientes para a lubrificação circular antes de sair suavemente",
+      "Verdade, senão o motor funde",
+      "Mito, pode sair com o motor gelado em rotação máxima"
+    ],
+    "correct": 1,
+    "category": "manutencao",
+    "level": "intermediario",
+    "explanation": "Motos com injeção eletrônica ajustam a mistura automaticamente. Sair devagar é melhor para aquecer o conjunto todo (incluindo suspensão e pneus)."
+  },
+  {
+    "id": 150,
+    "question": "Ao estacionar a moto em uma subida, você deve:",
+    "options": [
+      "Deixar em ponto morto",
+      "Deixar engatada em primeira marcha",
+      "Descer o pezinho do lado direito",
+      "Amarrar a moto em um poste"
+    ],
+    "correct": 1,
+    "category": "pilotagem",
+    "level": "iniciante",
+    "explanation": "A marcha engatada funciona como um freio de estacionamento, impedindo que a moto role para trás."
+  },
+  {
+    "id": 151,
+    "question": "O que é a 'visão periférica'?",
+    "options": [
+      "A visão focada no centro",
+      "A capacidade de perceber movimentos e objetos ao redor do foco central da visão",
+      "Usar óculos de grau",
+      "Olhar pelo retrovisor"
+    ],
+    "correct": 1,
+    "category": "seguranca",
+    "level": "intermediario",
+    "explanation": "Fundamental para detectar veículos vindo de ruas laterais sem precisar virar a cabeça totalmente."
+  },
+  {
+    "id": 152,
+    "question": "No trânsito urbano, por que deve-se evitar ficar entre dois veículos grandes (ex: dois ônibus)?",
+    "options": [
+      "Por causa do barulho",
+      "Devido ao risco de esmagamento em caso de frenagem brusca ou manobra lateral",
+      "Porque o ar é mais poluído ali",
+      "Porque a moto gasta mais gasolina"
+    ],
+    "correct": 1,
+    "category": "seguranca",
+    "level": "iniciante",
+    "explanation": "Veículos grandes têm pontos cegos enormes e pouca agilidade para desviar de você."
+  },
+  {
+    "id": 153,
+    "question": "O termo 'Motoqueiro' vs 'Motociclista' na cultura geral geralmente diferencia:",
+    "options": [
+      "Quem tem moto rápida de quem tem moto lenta",
+      "Quem usa a moto com irresponsabilidade de quem segue as normas e preza pela segurança",
+      "Quem trabalha com a moto de quem viaja",
+      "Não há diferença nenhuma"
+    ],
+    "correct": 1,
+    "category": "curiosidades",
+    "level": "iniciante",
+    "explanation": "Embora os termos sejam sinônimos no dicionário, a comunidade usa 'Motociclista' para definir quem pratica a pilotagem segura e consciente."
+  },
+  {
+    "id": 154,
+    "question": "Qual a função do 'Estabilizador de Direção'?",
+    "options": [
+      "Aumentar o peso da moto",
+      "Amortecer oscilações bruscas e indesejadas do guidão em altas velocidades",
+      "Travar o guidão ao estacionar",
+      "Facilitar as manobras no corredor"
+    ],
+    "correct": 1,
+    "category": "pilotagem",
+    "level": "avancado",
+    "explanation": "Evita o fenômeno do 'shimmie', mantendo a frente da moto estável em irregularidades."
+  },
+  {
+    "id": 155,
+    "question": "Ao passar por uma lombada (quebra-molas), o motociclista deve:",
+    "options": [
+      "Frear forte em cima da lombada",
+      "Reduzir a velocidade ANTES e soltar os freios ao cruzar a lombada",
+      "Acelerar para saltar",
+      "Passar de lado (em diagonal)"
+    ],
+    "correct": 1,
+    "category": "pilotagem",
+    "level": "iniciante",
+    "explanation": "Frear sobre a lombada comprime a suspensão e aumenta o impacto. Soltar o freio permite que a suspensão trabalhe livre."
+  },
+  {
+    "id": 156,
+    "question": "Em uma situação de 'Aquaplanagem', qual a pior atitude possível?",
+    "options": [
+      "Manter o guidão reto",
+      "Frear bruscamente ou tentar virar o guidão",
+      "Aliviar o acelerador suavemente",
+      "Olhar para onde quer ir"
+    ],
+    "correct": 1,
+    "category": "seguranca",
+    "level": "intermediario",
+    "explanation": "Se você frear ou virar enquanto a moto flutua na água, ela cairá assim que os pneus retomarem o contato com o asfalto."
+  },
+  {
+    "id": 157,
+    "question": "A 'Corrente de Transmissão' deve ser lubrificada a cada:",
+    "options": [
+      "5.000 km",
+      "A cada 300 km a 500 km, ou após pegar chuva/lavar a moto",
+      "Apenas quando fizer barulho",
+      "Uma vez por ano"
+    ],
+    "correct": 1,
+    "category": "manutencao",
+    "level": "iniciante",
+    "explanation": "A lubrificação frequente evita o superaquecimento dos elos e o desgaste prematuro do conjunto de relação."
+  },
+  {
+    "id": 158,
+    "question": "Mito ou Verdade: Usar o 'Corta-Corrente' (botão vermelho) para desligar a moto estraga a elétrica?",
+    "options": [
+      "Verdade, só deve ser usado na chave",
+      "Mito, ele é um interruptor de segurança feito exatamente para desligar o motor rapidamente",
+      "Verdade, ele queima a bateria",
+      "Mito, mas ele faz a moto gastar mais"
+    ],
+    "correct": 1,
+    "category": "manutencao",
+    "level": "intermediario",
+    "explanation": "O botão está ali para emergências, mas usá-lo rotineiramente não causa danos ao sistema elétrico da maioria das motos."
+  },
+  {
+    "id": 159,
+    "question": "Qual o principal benefício do capacete 'Escamoteável' (Modular)?",
+    "options": [
+      "Ser mais leve que o fechado",
+      "Praticidade ao permitir levantar a queixeira em paradas rápidas sem tirar o capacete",
+      "Ser mais seguro que o integral em quedas",
+      "Não embaçar nunca"
+    ],
+    "correct": 1,
+    "category": "equipamentos",
+    "level": "iniciante",
+    "explanation": "Oferece um equilíbrio entre a proteção do fechado e o conforto do aberto em momentos de pausa."
+  },
+  {
+    "id": 160,
+    "question": "O que fazer se o acelerador da moto travar aberto?",
+    "options": [
+      "Puxar a embreagem, desligar no corta-corrente e frear de forma segura",
+      "Tentar puxar o cabo com a mão",
+      "Pular da moto imediatamente",
+      "Continuar acelerando até a gasolina acabar"
+    ],
+    "correct": 0,
+    "category": "seguranca",
+    "level": "avancado",
+    "explanation": "Ao puxar a embreagem, você corta a força para a roda; ao desligar o motor, elimina o risco de aceleração contínua."
+  },
+  {
+    "id": 161,
+    "question": "A calibragem correta dos pneus ajuda na economia de combustível?",
+    "options": [
+      "Não, só serve para o conforto",
+      "Sim, pois reduz a resistência ao rolamento do pneu no asfalto",
+      "Sim, mas apenas em motos de alta cilindrada",
+      "Não, pneu murcho gasta menos"
+    ],
+    "correct": 1,
+    "category": "manutencao",
+    "level": "iniciante",
+    "explanation": "Pneus murchos geram mais atrito e exigem mais esforço do motor para mover a motocicleta."
+  },
+  {
+    "id": 162,
+    "question": "Qual a melhor forma de limpar a viseira do capacete para evitar riscos?",
+    "options": [
+      "Usar esponja de aço",
+      "Lavar com água e sabão neutro, usando apenas as mãos ou pano de microfibra",
+      "Limpar a seco com papel toalha",
+      "Passar álcool 70%"
+    ],
+    "correct": 1,
+    "category": "manutencao",
+    "level": "iniciante",
+    "explanation": "Viseiras são sensíveis; o uso de produtos químicos ou panos abrasivos destrói o tratamento antirrisco."
+  },
+  {
+    "id": 163,
+    "question": "O que indica o termo 'Kickstand' em inglês?",
+    "options": [
+      "O pedal de partida",
+      "O descanso lateral (pezinho)",
+      "O manete de freio",
+      "A corrente da moto"
+    ],
+    "correct": 1,
+    "category": "curiosidades",
+    "level": "iniciante",
+    "explanation": "Termo comum em manuais internacionais para o suporte que sustenta a moto parada."
+  },
+]
+[
+  {
+    "id": 164,
+    "question": "Qual item é indispensável verificar em uma inspeção antes de uma viagem longa?",
+    "options": [
+      "A cor dos retrovisores",
+      "O estado e a validade dos pneus, além do nível do óleo",
+      "O volume do sistema de som",
+      "A limpeza dos adesivos da carenagem"
+    ],
+    "correct": 1,
+    "category": "viagem",
+    "level": "iniciante",
+    "explanation": "Pneus e óleo são os pilares da segurança e da saúde do motor em trajetos prolongados."
+  },
+  {
+    "id": 165,
+    "question": "Ao planejar uma viagem, qual a recomendação ideal para o tempo de parada?",
+    "options": [
+      "Pilotar 8 horas sem parar",
+      "Parar a cada 1h30 ou 2h para hidratar, alongar e descansar a mente",
+      "Parar apenas quando a reserva de combustível acabar",
+      "Parar apenas quando sentir dor extrema"
+    ],
+    "correct": 1,
+    "category": "viagem",
+    "level": "intermediario",
+    "explanation": "A fadiga diminui os reflexos. Paradas frequentes mantêm o piloto alerta e evitam dores musculares."
+  },
+  {
+    "id": 166,
+    "question": "Onde deve ser colocada a carga mais pesada em uma moto com baús laterais e traseiro?",
+    "options": [
+      "No baú traseiro (top case)",
+      "Nos baús laterais, o mais baixo e centralizado possível",
+      "Amarrada sobre o guidão",
+      "Dentro da mochila do piloto"
+    ],
+    "correct": 1,
+    "category": "viagem",
+    "level": "intermediario",
+    "explanation": "Manter o peso baixo e entre os eixos da moto ajuda a preservar o centro de gravidade e a estabilidade."
+  },
+  {
+    "id": 167,
+    "question": "O que é o 'Fixador de Acelerador' (Cruise Control mecânico) usado em viagens?",
+    "options": [
+      "Um dispositivo que impede a moto de correr",
+      "Um acessório para descansar a mão direita em retas longas e vazias",
+      "Um sistema que freia a moto automaticamente",
+      "Um sensor de chuva"
+    ],
+    "correct": 1,
+    "category": "viagem",
+    "level": "intermediario",
+    "explanation": "Ele trava levemente o acelerador para que o piloto não precise fazer força constante, mas deve ser usado com cautela."
+  },
+  {
+    "id": 168,
+    "question": "Em viagens por regiões serranas ou de altitude, o que pode ocorrer com motos carburadas?",
+    "options": [
+      "Aumento absurdo da potência",
+      "Perda de rendimento devido ao ar mais rarefeito (mistura rica)",
+      "O pneu esvazia sozinho",
+      "O freio para de funcionar"
+    ],
+    "correct": 1,
+    "category": "manutencao",
+    "level": "avancado",
+    "explanation": "Menos oxigênio na altitude faz a mistura ficar desequilibrada em sistemas que não se autoajustam eletronicamente."
+  },
+  {
+    "id": 169,
+    "question": "Qual o perigo de usar mochilas muito pesadas nas costas durante longas horas?",
+    "options": [
+      "Rasgar a mochila",
+      "Causar fadiga excessiva nos ombros e compressão nas vértebras",
+      "Aumentar o consumo de combustível",
+      "Esquentar o motor"
+    ],
+    "correct": 1,
+    "category": "viagem",
+    "level": "iniciante",
+    "explanation": "O peso deve ser carregado pela moto (em baús ou bolsas de tanque), não pelo corpo do piloto."
+  },
+  {
+    "id": 170,
+    "question": "A 'Bolsa de Tanque' (Tank Bag) é útil para:",
+    "options": [
+      "Esconder o painel da moto",
+      "Guardar itens de fácil acesso como documentos, dinheiro e celular",
+      "Carregar ferramentas pesadas",
+      "Substituir o capacete"
+    ],
+    "correct": 1,
+    "category": "viagem",
+    "level": "iniciante",
+    "explanation": "Facilita a logística em pedágios e paradas rápidas sem precisar descer da moto."
+  },
+  {
+    "id": 171,
+    "question": "O que deve conter um kit básico de ferramentas para viagem?",
+    "options": [
+      "Apenas uma chave de fenda",
+      "Kit de reparo de pneus, chaves de roda, alicate e fita isolante/lacres",
+      "Um motor reserva",
+      "Apenas o manual do proprietário"
+    ],
+    "correct": 1,
+    "category": "manutencao",
+    "level": "intermediario",
+    "explanation": "Pequenos problemas como um pneu furado ou um parafuso solto podem ser resolvidos pelo próprio piloto."
+  },
+  {
+    "id": 172,
+    "question": "Pilotar em rodovias com ventos laterais fortes exige:",
+    "options": [
+      "Segurar o guidão com os braços rígidos",
+      "Relaxar os braços e inclinar a moto levemente contra o vento",
+      "Acelerar o máximo possível",
+      "Deitar sobre o tanque"
+    ],
+    "correct": 1,
+    "category": "pilotagem",
+    "level": "avancado",
+    "explanation": "Braços rígidos transmitem a oscilação do vento para o chassi da moto. Relaxar permite que a moto 'flutue' melhor."
+  },
+  {
+    "id": 173,
+    "question": "O que significa 'Target Fixation' (Fixação no Alvo) em situações de risco?",
+    "options": [
+      "Olhar para o caminho certo",
+      "A tendência perigosa de olhar fixamente para o obstáculo que se quer evitar",
+      "Focar no painel de instrumentos",
+      "Ajustar o GPS"
+    ],
+    "correct": 1,
+    "category": "seguranca",
+    "level": "avancado",
+    "explanation": "Para onde você olha, a moto vai. Se olhar para o buraco ou para a mureta, acabará batendo neles."
+  },
+  {
+    "id": 174,
+    "question": "Qual a melhor vestimenta para viagens em climas muito quentes?",
+    "options": [
+      "Camiseta de algodão e bermuda",
+      "Jaqueta de cordura ventilada (com proteções) e roupas térmicas que gerem frescor",
+      "Apenas um colete refletivo",
+      "Não usar jaqueta para ventilar melhor"
+    ],
+    "correct": 1,
+    "category": "equipamentos",
+    "level": "iniciante",
+    "explanation": "A jaqueta protege contra a desidratação causada pelo vento direto na pele e garante segurança em quedas."
+  },
+  {
+    "id": 175,
+    "question": "O 'Protetor de Motor e Carenagem' em viagens serve para:",
+    "options": [
+      "Deixar a moto mais pesada",
+      "Minimizar danos em quedas paradas ou em baixa velocidade",
+      "Aumentar a velocidade",
+      "Proteger o piloto da chuva"
+    ],
+    "correct": 1,
+    "category": "viagem",
+    "level": "iniciante",
+    "explanation": "Em viagens longas, uma queda boba pode quebrar uma tampa de motor e encerrar o passeio; o protetor evita isso."
+  },
+  {
+    "id": 176,
+    "question": "Ao viajar com outras motos, quem deve ditar o ritmo do grupo?",
+    "options": [
+      "A moto mais rápida",
+      "O motociclista menos experiente ou com a moto de menor cilindrada",
+      "O líder, independente dos outros",
+      "Quem estiver com mais pressa"
+    ],
+    "correct": 1,
+    "category": "viagem",
+    "level": "intermediario",
+    "explanation": "O grupo deve respeitar o limite de quem tem menos ritmo para garantir que ninguém se sinta pressionado a correr além do seu limite."
+  },
+  {
+    "id": 177,
+    "question": "O que fazer se sentir sono extremo durante a pilotagem?",
+    "options": [
+      "Lavar o rosto com água gelada e continuar",
+      "Parar imediatamente em local seguro e dormir (mesmo que por 20 minutos)",
+      "Tomar muito café e acelerar mais",
+      "Cantar alto dentro do capacete"
+    ],
+    "correct": 1,
+    "category": "viagem",
+    "level": "iniciante",
+    "explanation": "O 'micro-sono' é fatal na moto. A única cura real para o sono é dormir."
+  },
+  {
+    "id": 178,
+    "question": "Por que é importante manter o tanque de combustível sempre acima da metade em regiões desconhecidas?",
+    "options": [
+      "Para a moto ficar mais pesada",
+      "Para evitar surpresas com postos fechados ou falta de combustível no próximo trecho",
+      "Para o óleo não esquentar",
+      "Porque a moto corre mais cheia"
+    ],
+    "correct": 1,
+    "category": "viagem",
+    "level": "iniciante",
+    "explanation": "Pane seca em estradas isoladas é um risco de segurança grave para o motociclista."
+  },
+  {
+    "id": 179,
+    "question": "O uso de 'protetores auriculares' em viagens longas serve para:",
+    "options": [
+      "Não ouvir o motor da moto",
+      "Reduzir o cansaço mental causado pelo ruído constante do vento no capacete",
+      "Ouvir música melhor",
+      "Evitar que entre água no ouvido"
+    ],
+    "correct": 1,
+    "category": "viagem",
+    "level": "intermediario",
+    "explanation": "O ruído do vento acima de 80km/h pode causar danos auditivos e fadiga cerebral acelerada."
+  },
+  {
+    "id": 180,
+    "question": "Ao cruzar fronteiras internacionais de moto, qual documento costuma ser exigido na América do Sul?",
+    "options": [
+      "Apenas o RG",
+      "Seguro Carta Verde (para países do Mercosul)",
+      "Carteira de vacinação de gripe",
+      "Nota fiscal de compra da moto"
+    ],
+    "correct": 1,
+    "category": "legislação",
+    "level": "intermediario",
+    "explanation": "O Carta Verde é um seguro obrigatório contra terceiros para circular em países vizinhos."
+  },
+  {
+    "id": 181,
+    "question": "Em caso de chuva forte na estrada, qual o melhor lugar para se abrigar?",
+    "options": [
+      "Debaixo de um viaduto no acostamento",
+      "Em um posto de serviços ou local seguro fora da pista",
+      "Embaixo de uma árvore",
+      "Parado na faixa de rolamento"
+    ],
+    "correct": 1,
+    "category": "seguranca",
+    "level": "iniciante",
+    "explanation": "Parar sob viadutos no acostamento é perigoso devido ao risco de colisão por outros veículos com baixa visibilidade."
+  },
+  {
+    "id": 182,
+    "question": "A técnica de 'scouting' ou reconhecimento prévio do roteiro serve para:",
+    "options": [
+      "Aumentar a quilometragem",
+      "Identificar pontos de abastecimento, condições da pista e locais perigosos",
+      "Gastar mais tempo no GPS",
+      "Aprender novos idiomas"
+    ],
+    "correct": 1,
+    "category": "viagem",
+    "level": "iniciante",
+    "explanation": "Saber onde estão os desafios ajuda o piloto a se preparar psicologicamente e tecnicamente."
+  },
+  {
+    "id": 183,
+    "question": "Como a altitude afeta a pressão dos pneus?",
+    "options": [
+      "A pressão relativa aumenta à medida que a pressão atmosférica diminui",
+      "Os pneus murcham completamente",
+      "A borracha derrete",
+      "Não há qualquer alteração"
+    ],
+    "correct": 0,
+    "category": "manutencao",
+    "level": "avancado",
+    "explanation": "A diferença entre a pressão interna do pneu e a externa (que é menor na altitude) pode exigir pequenos ajustes."
+  },
+]
+[
+  {
+    "id": 184,
+    "question": "O que fazer se o pneu furar em movimento e for um pneu COM câmara de ar?",
+    "options": [
+      "Continuar andando até um posto",
+      "Reduzir a velocidade suavemente, manter o guidão reto e parar o quanto antes",
+      "Frear bruscamente com o freio traseiro",
+      "Acelerar para o pneu não murchar"
+    ],
+    "correct": 1,
+    "category": "seguranca",
+    "level": "intermediario",
+    "explanation": "Pneus com câmara esvaziam instantaneamente, perdendo a estabilidade. Manter o guidão firme é crucial para não cair."
+  },
+  {
+    "id": 185,
+    "question": "Como funciona o 'Macarrão' (reparo rápido) para pneus sem câmara?",
+    "options": [
+      "É um adesivo colado por fora do pneu",
+      "Uma tira de borracha vulcanizada inserida no furo para vedá-lo temporariamente",
+      "Um líquido que se coloca no tanque de gasolina",
+      "Uma peça que substitui a roda"
+    ],
+    "correct": 1,
+    "category": "manutencao",
+    "level": "iniciante",
+    "explanation": "O reparo tipo 'macarrão' é uma solução de emergência eficaz para pneus Tubeless (sem câmara)."
+  },
+  {
+    "id": 186,
+    "question": "Se a moto não liga e você ouve apenas um 'click-click' ao apertar o botão, o problema é provavelmente:",
+    "options": [
+      "Falta de combustível",
+      "Bateria com carga insuficiente para acionar o motor de arranque",
+      "Pneu murcho",
+      "Cabo de acelerador rompido"
+    ],
+    "correct": 1,
+    "category": "manutencao",
+    "level": "iniciante",
+    "explanation": "O som de estalo indica que o relé de partida está atuando, mas a bateria não tem força para girar o motor."
+  },
+  {
+    "id": 187,
+    "question": "Em uma emergência, para que serve a técnica de 'dar tranco' (partida no empurrão)?",
+    "options": [
+      "Para limpar o escapamento",
+      "Para ligar a moto quando a bateria está fraca (apenas em motos manuais)",
+      "Para economizar freio",
+      "Para testar a suspensão"
+    ],
+    "correct": 1,
+    "category": "manutencao",
+    "level": "intermediario",
+    "explanation": "Engata-se a 2ª marcha, empurra-se a moto e solta-se a embreagem para que o movimento da roda gire o motor."
+  },
+  {
+    "id": 188,
+    "question": "O que pode ser usado para lubrificar uma corrente seca em uma emergência na estrada se não houver óleo spray?",
+    "options": [
+      "Água com sabão",
+      "Óleo de motor novo ou usado (em pequena quantidade)",
+      "Areia fina",
+      "Suco de fruta"
+    ],
+    "correct": 1,
+    "category": "manutencao",
+    "level": "intermediario",
+    "explanation": "Qualquer óleo lubrificante é melhor que nada para evitar que a corrente trave ou superaqueça até o destino."
+  },
+  {
+    "id": 189,
+    "question": "Se o cabo de embreagem romper, como o piloto deve proceder para chegar em segurança?",
+    "options": [
+      "Chamar o guincho imediatamente (recomendado) ou trocar marchas no tempo do motor (avançado)",
+      "Andar apenas em primeira marcha até o fim",
+      "Usar o cabo do acelerador no lugar",
+      "Desligar a moto e ir empurrando"
+    ],
+    "correct": 0,
+    "category": "pilotagem",
+    "level": "avancado",
+    "explanation": "É possível trocar marchas sem embreagem aliviando o acelerador, mas requer técnica para não danificar o câmbio."
+  },
+  {
+    "id": 190,
+    "question": "O que indica quando um fusível queima repetidamente logo após ser trocado?",
+    "options": [
+      "Que o fusível é de má qualidade",
+      "Um curto-circuito real no sistema elétrico que precisa ser investigado",
+      "Que o motor está muito quente",
+      "Que a bateria é nova demais"
+    ],
+    "correct": 1,
+    "category": "manutencao",
+    "level": "intermediario",
+    "explanation": "O fusível é uma proteção; se ele queima de novo, o problema de excesso de corrente persiste na fiação."
+  },
+  {
+    "id": 191,
+    "question": "Como identificar se a corrente de transmissão está no fim da vida útil?",
+    "options": [
+      "Ela fica muito brilhante",
+      "Os dentes da coroa ficam 'afiados' (formato de dente de tubarão) e a corrente apresenta folgas laterais",
+      "Ela para de fazer barulho",
+      "Ela muda de cor para azul"
+    ],
+    "correct": 1,
+    "category": "manutencao",
+    "level": "iniciante",
+    "explanation": "Dentes pontiagudos e elos travados indicam que o kit de relação perdeu a capacidade de transmitir força com segurança."
+  },
+  {
+    "id": 192,
+    "question": "O que fazer se o motor da moto 'apagar' no meio de um cruzamento?",
+    "options": [
+      "Tentar consertar ali mesmo",
+      "Sinalizar, colocar em ponto morto e empurrar para um local seguro imediatamente",
+      "Ficar sentado esperando alguém ajudar",
+      "Abandonar a moto e sair correndo"
+    ],
+    "correct": 1,
+    "category": "seguranca",
+    "level": "iniciante",
+    "explanation": "A sua prioridade deve ser sair da zona de risco de colisão dos outros veículos."
+  },
+  {
+    "id": 193,
+    "question": "Para que serve o 'respiro' do tanque de combustível?",
+    "options": [
+      "Para o cheiro sair",
+      "Para permitir a entrada de ar à medida que o combustível sai, evitando o vácuo",
+      "Para entrar água",
+      "Para aumentar a pressão da bomba"
+    ],
+    "correct": 1,
+    "category": "manutencao",
+    "level": "avancado",
+    "explanation": "Se o respiro entupir, a moto morre após alguns quilômetros porque o vácuo impede o combustível de fluir para o motor."
+  },
+  {
+    "id": 194,
+    "question": "Em caso de perda da chave, por que não se deve tentar fazer 'ligação direta' em motos modernas?",
+    "options": [
+      "Porque a bateria descarrega",
+      "Devido ao sistema de imobilizador eletrônico (chip na chave) que bloqueia a ECU",
+      "Porque o guidão fica travado",
+      "Não há problema, qualquer moto liga assim"
+    ],
+    "correct": 1,
+    "category": "manutencao",
+    "level": "intermediario",
+    "explanation": "A maioria das motos atuais possui sensores que exigem o código da chave original para liberar a ignição."
+  },
+  {
+    "id": 195,
+    "question": "O 'spray reparador de pneus' é uma solução definitiva?",
+    "options": [
+      "Sim, pode andar com ele para sempre",
+      "Não, é um paliativo para chegar até um borracheiro e deve ser limpo depois",
+      "Sim, ele renova a borracha do pneu",
+      "Não, ele estraga a roda de alumínio instantaneamente"
+    ],
+    "correct": 1,
+    "category": "manutencao",
+    "level": "iniciante",
+    "explanation": "O spray veda furos pequenos e infla o pneu, mas a espuma interna precisa ser removida na manutenção definitiva."
+  },
+  {
+    "id": 196,
+    "question": "O que causa o superaquecimento do freio traseiro em longas descidas?",
+    "options": [
+      "Usar marchas baixas",
+      "Manter o pé 'descansando' levemente sobre o pedal de freio sem necessidade",
+      "O óleo do motor estar baixo",
+      "A cor da pinça de freio"
+    ],
+    "correct": 1,
+    "category": "pilotagem",
+    "level": "iniciante",
+    "explanation": "O atrito constante, mesmo que leve, gera calor excessivo, podendo ferver o fluido e anular o freio."
+  },
+  {
+    "id": 197,
+    "question": "Se o motor apresentar um barulho metálico forte e repentino (batida), você deve:",
+    "options": [
+      "Acelerar para ver se o barulho some",
+      "Desligar o motor imediatamente e não tentar ligar novamente",
+      "Trocar a marcha para uma mais alta",
+      "Lavar o motor com água fria"
+    ],
+    "correct": 1,
+    "category": "manutencao",
+    "level": "intermediario",
+    "explanation": "Barulhos internos graves indicam quebra de peças; insistir pode destruir o bloco do motor completamente."
+  },
+  {
+    "id": 198,
+    "question": "Como testar se uma lâmpada de farol queimou sem ferramentas?",
+    "options": [
+      "Ligar a moto e observar o feixe contra uma parede",
+      "Bater no vidro do farol com força",
+      "Desmontar o motor",
+      "Trocar a bateria"
+    ],
+    "correct": 0,
+    "category": "manutencao",
+    "level": "iniciante",
+    "explanation": "A projeção na parede ajuda a identificar se o filamento de luz baixa ou alta está operando."
+  },
+  {
+    "id": 199,
+    "question": "O 'Sensor de Inclinação' serve para:",
+    "options": [
+      "Medir o ângulo da curva para o piloto",
+      "Desligar o motor automaticamente em caso de queda da motocicleta",
+      "Ajudar a moto a inclinar mais",
+      "Contar quantas curvas foram feitas"
+    ],
+    "correct": 1,
+    "category": "seguranca",
+    "level": "intermediario",
+    "explanation": "É um item de segurança que corta o combustível e ignição para evitar incêndios ou danos ao motor após um acidente."
+  },
+  {
+    "id": 200,
+    "question": "Se a moto cair e ficar deitada, o que deve ser verificado antes de ligá-la novamente?",
+    "options": [
+      "Apenas o nível de combustível",
+      "Vazamentos de fluidos, integridade dos manetes e se o óleo não subiu para o filtro de ar",
+      "Se a placa entortou",
+      "Se o banco está limpo"
+    ],
+    "correct": 1,
+    "category": "manutencao",
+    "level": "intermediario",
+    "explanation": "Líquidos podem vazar para lugares errados enquanto a moto está deitada, causando falhas na partida."
+  },
+  {
+    "id": 201,
+    "question": "O que fazer se a corrente se soltar da coroa com a moto em movimento?",
+    "options": [
+      "Frear forte com o traseiro",
+      "Puxar a embreagem, manter o equilíbrio e frear suavemente apenas com o dianteiro",
+      "Tentar colocar a corrente de volta com o pé",
+      "Acelerar para a corrente subir sozinha"
+    ],
+    "correct": 1,
+    "category": "seguranca",
+    "level": "avancado",
+    "explanation": "A corrente solta pode travar a roda traseira ou o pinhão. O foco deve ser parar a moto sem travar bruscamente."
+  },
+  {
+    "id": 202,
+    "question": "Para que serve o 'Pino de Segurança' (cupilha) no eixo da roda traseira?",
+    "options": [
+      "Para enfeitar",
+      "Para impedir que a porca do eixo se solte com a vibração",
+      "Para ajustar a suspensão",
+      "Para prender o freio"
+    ],
+    "correct": 1,
+    "category": "manutencao",
+    "level": "intermediario",
+    "explanation": "É um trava física essencial para garantir que a roda traseira permaneça fixada mesmo sob vibração extrema."
+  },
+  {
+    "id": 203,
+    "question": "Como limpar os bornes da bateria que apresentam 'zinabre' (crosta esverdeada)?",
+    "options": [
+      "Com óleo de cozinha",
+      "Com água morna e bicarbonato de sódio, e depois proteger com graxa ou vaselina",
+      "Com uma lixa grossa seca",
+      "Pintando por cima"
+    ],
+    "correct": 1,
+    "category": "manutencao",
+    "level": "intermediario",
+    "explanation": "A mistura remove a acidez do zinabre, restaurando o contato elétrico perfeito."
+  },
+]
+[
+  {
+    "id": 204,
+    "question": "Num cruzamento de vias não sinalizadas, a preferência de passagem é:",
+    "options": [
+      "Do veículo que circula pela via mais larga",
+      "Do veículo que vem pela direita do condutor",
+      "Sempre das motocicletas, por serem menores",
+      "Do veículo que estiver em maior velocidade"
+    ],
+    "correct": 1,
+    "category": "legislação",
+    "level": "iniciante",
+    "explanation": "Regra geral do Código de Estrada: em cruzamentos não sinalizados, a prioridade é de quem vem pela direita."
+  },
+  {
+    "id": 205,
+    "question": "A placa de sinalização 'R-2' (triângulo invertido) significa:",
+    "options": [
+      "Parada Obrigatória",
+      "Dê a Preferência",
+      "Sentido Proibido",
+      "Passagem de Pedestres"
+    ],
+    "correct": 1,
+    "category": "legislação",
+    "level": "iniciante",
+    "explanation": "Diferente da placa PARE, o 'Dê a Preferência' exige que reduzas a velocidade e pares apenas se houver outros veículos com prioridade."
+  },
+  {
+    "id": 206,
+    "question": "Qual é a velocidade máxima permitida para motocicletas em rodovias de pista dupla, onde não houver sinalização?",
+    "options": [
+      "80 km/h",
+      "100 km/h",
+      "110 km/h",
+      "120 km/h"
+    ],
+    "correct": 2,
+    "category": "legislação",
+    "level": "intermediario",
+    "explanation": "Em rodovias de pista dupla sinalizadas como tal, o limite para motos (veículos leves) é de 110 km/h."
+  },
+  {
+    "id": 207,
+    "question": "Conduzir motocicleta com os faróis apagados durante o dia é uma infração:",
+    "options": [
+      "Média",
+      "Grave",
+      "Gravíssima",
+      "Leve"
+    ],
+    "correct": 2,
+    "category": "legislação",
+    "level": "intermediario",
+    "explanation": "Para motos, manter o farol aceso é obrigatório a qualquer hora. O descumprimento é infração gravíssima."
+  },
+  {
+    "id": 208,
+    "question": "O que indica a sinalização horizontal de cor BRANCA na pista?",
+    "options": [
+      "Fluxos de sentidos opostos",
+      "Fluxos de mesmo sentido, faixas de pedestres ou delimitação de estacionamento",
+      "Proibição de estacionar",
+      "Área de emergência"
+    ],
+    "correct": 1,
+    "category": "legislação",
+    "level": "iniciante",
+    "explanation": "Linhas brancas dividem faixas de trânsito que seguem na mesma direção."
+  },
+  {
+    "id": 209,
+    "question": "A placa de advertência que mostra um 'X' preto no fundo amarelo significa:",
+    "options": [
+      "Proibido Passar",
+      "Cruzamento de Vias",
+      "Fim de Pista",
+      "Ferrovia à frente"
+    ],
+    "correct": 1,
+    "category": "legislação",
+    "level": "iniciante",
+    "explanation": "A placa A-14 alerta o condutor sobre a existência de um cruzamento perigoso adiante."
+  },
+  {
+    "id": 210,
+    "question": "É considerado crime de trânsito, e não apenas infração administrativa:",
+    "options": [
+      "Estacionar em local proibido",
+      "Conduzir veículo sem possuir CNH, gerando perigo de dano",
+      "Andar com a viseira levantada",
+      "Não dar seta em conversões"
+    ],
+    "correct": 1,
+    "category": "legislação",
+    "level": "avancado",
+    "explanation": "Dirigir sem habilitação torna-se crime quando o condutor demonstra direção perigosa ou coloca terceiros em risco real."
+  },
+  {
+    "id": 211,
+    "question": "As placas de 'Serviços Auxiliares' (azuis e retangulares) têm como função:",
+    "options": [
+      "Punir o condutor",
+      "Alertar sobre perigos na pista",
+      "Informar e orientar sobre serviços como postos, hospitais e restaurantes",
+      "Indicar o limite de velocidade"
+    ],
+    "correct": 2,
+    "category": "legislação",
+    "level": "iniciante",
+    "explanation": "Servem para guiar o viajante sobre as facilidades disponíveis ao longo da rota."
+  },
+  {
+    "id": 212,
+    "question": "Qual a punição para quem 'fura' o sinal vermelho do semáforo?",
+    "options": [
+      "Multa Grave",
+      "Multa Gravíssima",
+      "Advertência por escrito",
+      "Apenas retenção do veículo"
+    ],
+    "correct": 1,
+    "category": "legislação",
+    "level": "iniciante",
+    "explanation": "Avançar o sinal vermelho é uma infração gravíssima (7 pontos na CNH no Brasil)."
+  },
+  {
+    "id": 213,
+    "question": "O que significa uma linha amarela tracejada (seccionada) no centro da via?",
+    "options": [
+      "Proibido ultrapassar",
+      "Permitida a ultrapassagem para ambos os sentidos",
+      "Via de sentido único",
+      "Cuidado, pista escorregadia"
+    ],
+    "correct": 1,
+    "category": "legislação",
+    "level": "iniciante",
+    "explanation": "A linha amarela indica fluxos opostos. Se for tracejada, a ultrapassagem é permitida onde houver visibilidade."
+  },
+  {
+    "id": 214,
+    "question": "A placa R-24a indica 'Sentido de Circulação da Via'. Se fores contra ela, cometes:",
+    "options": [
+      "Infração Grave",
+      "Infração Gravíssima (Transitarem contra-mão em vias de sentido único)",
+      "Infração Média",
+      "Nenhuma infração"
+    ],
+    "correct": 1,
+    "category": "legislação",
+    "level": "intermediario",
+    "explanation": "Entrar em contramão em vias sinalizadas com sentido único é uma infração de natureza gravíssima."
+  },
+  {
+    "id": 215,
+    "question": "Qual a distância correta para iniciar a sinalização de seta antes de uma curva?",
+    "options": [
+      "Em cima da hora da curva",
+      "Com antecedência necessária para avisar os outros condutores",
+      "1 km antes",
+      "Apenas após iniciar o movimento"
+    ],
+    "correct": 1,
+    "category": "seguranca",
+    "level": "iniciante",
+    "explanation": "A seta deve ser dada com tempo suficiente para que quem vem atrás ou na frente possa reagir à tua manobra."
+  },
+  {
+    "id": 216,
+    "question": "Em rotundas, se não houver sinalização, a preferência é de quem:",
+    "options": [
+      "Está entrando nela",
+      "Já está circulando na rotunda",
+      "Vem pela direita",
+      "Está em maior velocidade"
+    ],
+    "correct": 1,
+    "category": "legislação",
+    "level": "intermediario",
+    "explanation": "Regra de ouro das rotundas: quem já está inserido no fluxo circular tem a prioridade."
+  },
+  {
+    "id": 217,
+    "question": "O que indica a placa de advertência A-18, que mostra duas saliências no desenho?",
+    "options": [
+      "Lombada",
+      "Pista Irregular",
+      "Depressão",
+      "Ponte Móvel"
+    ],
+    "correct": 1,
+    "category": "legislação",
+    "level": "intermediario",
+    "explanation": "Alerta para um trecho de pista com buracos, ondulações ou deformações."
+  },
+  {
+    "id": 218,
+    "question": "Usar a moto para 'disputar corrida por espírito de emulação' (racha) resulta em:",
+    "options": [
+      "Apenas multa leve",
+      "Suspensão do direito de dirigir e apreensão do veículo",
+      "Advertência verbal",
+      "Perda definitiva da moto para o estado"
+    ],
+    "correct": 1,
+    "category": "legislação",
+    "level": "intermediario",
+    "explanation": "Disputar corridas em via pública é infração gravíssima com multiplicador de 10x no valor da multa e suspensão da CNH."
+  },
+  {
+    "id": 219,
+    "question": "A sinalização 'Marcas de Canalização' (zebrado na pista) serve para:",
+    "options": [
+      "Estacionar a moto",
+      "Orientar o fluxo e proteger áreas onde veículos não devem transitar",
+      "Pistas de corrida",
+      "Local de ultrapassagem permitida"
+    ],
+    "correct": 1,
+    "category": "legislação",
+    "level": "intermediario",
+    "explanation": "Transitar sobre o 'zebrado' ou marcas de canalização é infração gravíssima."
+  },
+  {
+    "id": 220,
+    "question": "Qual o limite de velocidade para uma via Arterial não sinalizada?",
+    "options": [
+      "40 km/h",
+      "60 km/h",
+      "80 km/h",
+      "100 km/h"
+    ],
+    "correct": 1,
+    "category": "legislação",
+    "level": "avancado",
+    "explanation": "Vias arteriais ligam regiões da cidade e têm limite de 60 km/h quando não há placas."
+  },
+  {
+    "id": 221,
+    "question": "As ordens dos agentes de trânsito prevalecem sobre:",
+    "options": [
+      "As normas de circulação e outros sinais",
+      "Apenas sobre o semáforo",
+      "Apenas sobre as placas",
+      "Nada, a lei escrita é superior"
+    ],
+    "correct": 0,
+    "category": "legislação",
+    "level": "intermediario",
+    "explanation": "A autoridade humana no local (policial ou agente) tem prioridade máxima sobre semáforos e placas."
+  },
+  {
+    "id": 222,
+    "question": "O sinal sonoro de 'um silvo breve' dado por um agente de trânsito significa:",
+    "options": [
+      "Pare!",
+      "Siga!",
+      "Diminua a marcha",
+      "Acenda os faróis"
+    ],
+    "correct": 1,
+    "category": "legislação",
+    "level": "avancado",
+    "explanation": "1 silvo breve = Siga; 2 silvos breves = Pare; 1 silvo longo = Diminua a marcha."
+  },
+  {
+    "id": 223,
+    "question": "A luz amarela do semáforo indica que o condutor deve:",
+    "options": [
+      "Acelerar para passar antes de fechar",
+      "Parar o veículo, salvo se não puder fazê-lo com segurança",
+      "Ignorar se não houver pedestres",
+      "Buzinar"
+    ],
+    "correct": 1,
+    "category": "legislação",
+    "level": "iniciante",
+    "explanation": "O amarelo serve para limpeza do cruzamento. Se puderes parar com segurança, deves fazê-lo."
+  },
+]
+[
+  {
+    "id": 224,
+    "question": "Como a manutenção correta do filtro de ar ajuda o meio ambiente?",
+    "options": [
+      "Deixa a moto mais bonita",
+      "Garante a queima perfeita de combustível, reduzindo a emissão de gases poluentes",
+      "Aumenta o barulho do motor",
+      "Evita o desperdício de água na lavagem"
+    ],
+    "correct": 1,
+    "category": "manutencao",
+    "level": "iniciante",
+    "explanation": "Um filtro limpo permite que o motor 'respire' melhor, otimizando a combustão e poluindo menos."
+  },
+  {
+    "id": 225,
+    "question": "Qual é a principal causa da 'Fúria Rodoviária' (Road Rage)?",
+    "options": [
+      "O excesso de velocidade",
+      "A incapacidade de lidar com frustrações e erros de outros condutores",
+      "A falta de gasolina",
+      "O uso de capacete apertado"
+    ],
+    "correct": 1,
+    "category": "seguranca",
+    "level": "intermediario",
+    "explanation": "O controle emocional é vital para não transformar incidentes bobos em tragédias no trânsito."
+  },
+  {
+    "id": 226,
+    "question": "Arremessar lixo na via pública a partir da motocicleta é:",
+    "options": [
+      "Permitido se for lixo orgânico",
+      "Infração média e desrespeito ao meio ambiente",
+      "Permitido em rodovias",
+      "Apenas uma falta de educação, sem multa"
+    ],
+    "correct": 1,
+    "category": "legislação",
+    "level": "iniciante",
+    "explanation": "Além de poluir, objetos lançados podem causar acidentes com outros motociclistas."
+  },
+  {
+    "id": 227,
+    "question": "A emissão excessiva de 'fumaça branca' pelo escapamento pode indicar:",
+    "options": [
+      "Que o motor está muito potente",
+      "Queima de óleo lubrificante ou junta do cabeçote danificada",
+      "Que o combustível é de alta qualidade",
+      "Apenas frio matinal"
+    ],
+    "correct": 1,
+    "category": "manutencao",
+    "level": "intermediario",
+    "explanation": "Fumaça contínua indica problemas mecânicos que aumentam drasticamente a poluição ambiental."
+  },
+  {
+    "id": 228,
+    "question": "O 'Catalisador' da motocicleta serve para:",
+    "options": [
+      "Aumentar a velocidade final",
+      "Transformar gases tóxicos em substâncias menos nocivas antes de saírem pelo escape",
+      "Filtrar as impurezas da gasolina",
+      "Lubrificar o motor"
+    ],
+    "correct": 1,
+    "category": "manutencao",
+    "level": "intermediario",
+    "explanation": "O catalisador é essencial para reduzir o impacto ambiental do transporte motorizado."
+  },
+  {
+    "id": 229,
+    "question": "O que é 'Pilotagem Empática'?",
+    "options": [
+      "Andar sempre rápido",
+      "Colocar-se no lugar do outro e facilitar a circulação de pedestres e veículos",
+      "Usar roupas coloridas",
+      "Conhecer a história das motos"
+    ],
+    "correct": 1,
+    "category": "seguranca",
+    "level": "iniciante",
+    "explanation": "A empatia humaniza o trânsito e previne conflitos agressivos."
+  },
+  {
+    "id": 230,
+    "question": "O ruído excessivo causado por escapamentos abertos ou 'esportivos' sem silenciador:",
+    "options": [
+      "É um direito do motociclista",
+      "Contribui para a poluição sonora e é infração de trânsito",
+      "Ajuda a motoristas verem a moto",
+      "Melhora o rendimento em 50%"
+    ],
+    "correct": 1,
+    "category": "legislação",
+    "level": "iniciante",
+    "explanation": "A poluição sonora gera estresse e problemas de saúde na população urbana."
+  },
+  {
+    "id": 231,
+    "question": "Como o estresse afeta a percepção de risco do piloto?",
+    "options": [
+      "O piloto fica mais atento",
+      "Reduz a concentração e torna o piloto mais impulsivo e descuidado",
+      "Não altera em nada",
+      "Aumenta a visão periférica"
+    ],
+    "correct": 1,
+    "category": "seguranca",
+    "level": "intermediario",
+    "explanation": "Pilotos estressados tendem a tomar decisões arriscadas e ignorar perigos óbvios."
+  },
+  {
+    "id": 232,
+    "question": "Onde deve ser feito o descarte de óleo de motor usado?",
+    "options": [
+      "No esgoto comum",
+      "No lixo doméstico",
+      "Em postos de gasolina ou oficinas que enviem para re-refino",
+      "Enterrado no quintal"
+    ],
+    "correct": 2,
+    "category": "manutencao",
+    "level": "iniciante",
+    "explanation": "O óleo é altamente poluente; um litro pode contaminar um milhão de litros de água."
+  },
+  {
+    "id": 233,
+    "question": "Para uma condução econômica e ecológica, o piloto deve:",
+    "options": [
+      "Acelerar e frear bruscamente",
+      "Manter aceleração constante e usar as marchas de forma suave",
+      "Andar sempre em primeira marcha",
+      "Desligar a moto em todas as descidas"
+    ],
+    "correct": 1,
+    "category": "pilotagem",
+    "level": "iniciante",
+    "explanation": "A suavidade nos comandos economiza combustível e reduz o desgaste de pneus e freios."
+  },
+  {
+    "id": 234,
+    "question": "O que indica a 'fadiga' ao pilotar por muitas horas?",
+    "options": [
+      "Aumento da felicidade",
+      "Diminuição dos reflexos e sensação de peso nas pálpebras",
+      "Melhor controle da moto",
+      "Fome intensa"
+    ],
+    "correct": 1,
+    "category": "seguranca",
+    "level": "iniciante",
+    "explanation": "A fadiga é um sinal de alerta do corpo de que a pilotagem não é mais segura."
+  },
+  {
+    "id": 235,
+    "question": "O 'Canister' em motocicletas modernas serve para:",
+    "options": [
+      "Armazenar ferramentas",
+      "Absorver vapores de combustível do tanque para que não poluam a atmosfera",
+      "Refrigerar o óleo",
+      "Aumentar o som do motor"
+    ],
+    "correct": 1,
+    "category": "manutencao",
+    "level": "avancado",
+    "explanation": "O canister usa carvão ativado para filtrar gases que evaporariam do tanque."
+  },
+  {
+    "id": 236,
+    "question": "Qual o efeito do álcool no piloto, mesmo em pequenas quantidades?",
+    "options": [
+      "Melhora a coragem",
+      "Diminui a coordenação motora e aumenta o tempo de reação",
+      "Não afeta pilotos experientes",
+      "Ajuda a ver melhor no escuro"
+    ],
+    "correct": 1,
+    "category": "seguranca",
+    "level": "iniciante",
+    "explanation": "O álcool ataca o sistema nervoso central, tornando qualquer manobra perigosa."
+  },
+  {
+    "id": 237,
+    "question": "Motos elétricas contribuem para o meio ambiente principalmente por:",
+    "options": [
+      "Serem mais rápidas",
+      "Não emitirem gases poluentes localmente e serem silenciosas",
+      "Terem baterias que duram para sempre",
+      "Poderem andar na calçada"
+    ],
+    "correct": 1,
+    "category": "curiosidades",
+    "level": "iniciante",
+    "explanation": "A ausência de combustão e ruído melhora a qualidade de vida nas cidades."
+  },
+  {
+    "id": 238,
+    "question": "O que fazer ao perceber que outro condutor está tentando te provocar no trânsito?",
+    "options": [
+      "Acelerar para fugir dele",
+      "Manter a calma, ignorar e distanciar-se com segurança",
+      "Buzinar e xingar",
+      "Parar a moto e tirar satisfação"
+    ],
+    "correct": 1,
+    "category": "seguranca",
+    "level": "intermediario",
+    "explanation": "Evitar o confronto é a melhor estratégia para chegar em casa ileso."
+  },
+  {
+    "id": 239,
+    "question": "Pneus desgastados (carecas) aumentam a poluição porque:",
+    "options": [
+      "Eles soltam pedaços de borracha",
+      "Fazem o motor trabalhar mais por falta de tração e aumentam o risco de acidentes",
+      "Deixam a moto mais feia",
+      "Não poluem nada"
+    ],
+    "correct": 1,
+    "category": "manutencao",
+    "level": "intermediario",
+    "explanation": "A segurança é o primeiro pilar da sustentabilidade no trânsito."
+  },
+  {
+    "id": 240,
+    "question": "A luz do painel indicando 'Eco' serve para:",
+    "options": [
+      "Avisar que a moto vai desligar",
+      "Indicar que o piloto está conduzindo de forma a economizar combustível",
+      "Mostrar que o motor está com problema",
+      "Ligar o Bluetooth"
+    ],
+    "correct": 1,
+    "category": "pilotagem",
+    "level": "iniciante",
+    "explanation": "O modo Eco monitora a abertura do acelerador e a marcha engatada para otimizar o consumo."
+  },
+  {
+    "id": 241,
+    "question": "Lavar a motocicleta com frequência excessiva e produtos químicos fortes:",
+    "options": [
+      "É bom para o meio ambiente",
+      "Pode contaminar o solo e a água, além de ressecar borrachas e chicotes elétricos",
+      "Faz a moto durar mais",
+      "É obrigatório por lei"
+    ],
+    "correct": 1,
+    "category": "manutencao",
+    "level": "iniciante",
+    "explanation": "O uso racional da água e de produtos biodegradáveis é a forma correta de cuidar da moto."
+  },
+  {
+    "id": 242,
+    "question": "O comportamento 'exibicionista' no trânsito (ex: empinar) é frequentemente associado a:",
+    "options": [
+      "Pilotos profissionais",
+      "Imaturidade emocional e busca por validação, colocando a vida de todos em risco",
+      "Melhorar a habilidade",
+      "Necessidade de chegar rápido"
+    ],
+    "correct": 1,
+    "category": "seguranca",
+    "level": "iniciante",
+    "explanation": "Vias públicas não são locais para acrobacias; o risco de erro é fatal."
+  },
+  {
+    "id": 243,
+    "question": "A 'Resiliência' no trânsito ajuda o condutor a:",
+    "options": [
+      "Ser o mais rápido de todos",
+      "Recuperar o equilíbrio emocional após um susto ou fechada sem revidar",
+      "Consertar a moto sozinho",
+      "Andar mais quilômetros"
+    ],
+    "correct": 1,
+    "category": "seguranca",
+    "level": "intermediario",
+    "explanation": "Condutores resilientes mantêm o foco na segurança, independentemente do que aconteça ao redor."
+  },
+]
+[
+  {
+    "id": 244,
+    "question": "O que faz o sistema ABS (Anti-lock Braking System)?",
+    "options": [
+      "Aumenta a potência do motor",
+      "Evita o travamento das rodas em frenagens bruscas, mantendo a capacidade de manobra",
+      "Troca as marchas automaticamente",
+      "Impede que a moto ultrapasse 100 km/h"
+    ],
+    "correct": 1,
+    "category": "tecnologia",
+    "level": "iniciante",
+    "explanation": "O ABS monitora a velocidade das rodas e alivia a pressão do freio milissegundos antes de um travamento ocorrer."
+  },
+  {
+    "id": 245,
+    "question": "Qual a função do 'Controle de Tração' (TCS)?",
+    "options": [
+      "Ajudar a moto a frear mais rápido",
+      "Evitar que a roda traseira gire em falso (derrape) em acelerações sobre piso liso",
+      "Manter a moto equilibrada parada no semáforo",
+      "Aumentar o consumo de combustível"
+    ],
+    "correct": 1,
+    "category": "tecnologia",
+    "level": "intermediario",
+    "explanation": "O sistema corta a potência ou atrasa a ignição quando detecta que a roda traseira está perdendo aderência."
+  },
+  {
+    "id": 246,
+    "question": "O que significa o termo 'Ride-by-Wire'?",
+    "options": [
+      "Aceleração feita por cabo de aço tradicional",
+      "Acelerador eletrônico, onde um sensor envia o sinal para a central comandar o motor",
+      "Um sistema de freio acionado por fios elétricos",
+      "Carregamento da moto via cabo"
+    ],
+    "correct": 1,
+    "category": "tecnologia",
+    "level": "avancado",
+    "explanation": "Sem cabos físicos, a entrega de potência é mais precisa e permite a integração com modos de pilotagem."
+  },
+  {
+    "id": 247,
+    "question": "A tecnologia 'Cornering ABS' (ABS de Curva) diferencia-se do ABS comum porque:",
+    "options": [
+      "Só funciona em linha reta",
+      "Utiliza uma unidade de medição inercial (IMU) para ajustar a frenagem conforme a inclinação da moto",
+      "Faz a moto deitar sozinha na curva",
+      "É usado apenas em motos de motocross"
+    ],
+    "correct": 1,
+    "category": "tecnologia",
+    "level": "avancado",
+    "explanation": "Ele evita que a moto 'levante' ou perca a frente se o piloto precisar frear forte enquanto está inclinado."
+  },
+  {
+    "id": 248,
+    "question": "Para que servem os 'Modos de Pilotagem' (Rain, Road, Sport)?",
+    "options": [
+      "Para mudar a cor do painel",
+      "Para ajustar a entrega de potência e a sensibilidade da eletrônica conforme o clima ou desejo do piloto",
+      "Para a moto voar",
+      "Para trocar o tipo de óleo automaticamente"
+    ],
+    "correct": 1,
+    "category": "tecnologia",
+    "level": "iniciante",
+    "explanation": "No modo 'Rain', por exemplo, a potência é reduzida e o controle de tração fica mais rigoroso para garantir segurança no molhado."
+  },
+  {
+    "id": 249,
+    "question": "O sistema 'Keyless' permite ao motociclista:",
+    "options": [
+      "Andar sem capacete",
+      "Ligar a moto e travar o guidão apenas por aproximação, sem inserir a chave no contato",
+      "Abrir o tanque de combustível com o pensamento",
+      "Correr sem pneus"
+    ],
+    "correct": 1,
+    "category": "tecnologia",
+    "level": "iniciante",
+    "explanation": "Traz conveniência, permitindo que o piloto mantenha o controle remoto no bolso o tempo todo."
+  },
+  {
+    "id": 250,
+    "question": "O que é um painel 'TFT'?",
+    "options": [
+      "Um painel de madeira",
+      "Uma tela de cristal líquido colorida e de alta resolução com maior conectividade",
+      "Um rádio antigo",
+      "Um sistema de GPS que fala"
+    ],
+    "correct": 1,
+    "category": "tecnologia",
+    "level": "iniciante",
+    "explanation": "Telas TFT oferecem melhor visibilidade sob sol forte e permitem espelhamento de navegação e chamadas."
+  },
+  {
+    "id": 251,
+    "question": "A função 'Anti-Wheelie' serve para:",
+    "options": [
+      "Impedir que a roda traseira trave",
+      "Controlar a tendência da roda dianteira de levantar em acelerações fortes",
+      "Aumentar a velocidade de cruzeiro",
+      "Ajudar a estacionar a moto"
+    ],
+    "correct": 1,
+    "category": "tecnologia",
+    "level": "intermediario",
+    "explanation": "Muito comum em motos superesportivas para manter a frente no chão e garantir a máxima aceleração segura."
+  },
+  {
+    "id": 252,
+    "question": "O que faz a 'Embreagem Deslizante' (Slipper Clutch)?",
+    "options": [
+      "Faz a embreagem durar menos",
+      "Impede o travamento da roda traseira em reduções de marcha muito bruscas",
+      "Deixa o manete mais pesado",
+      "Elimina a necessidade de trocar de marcha"
+    ],
+    "correct": 1,
+    "category": "tecnologia",
+    "level": "avancado",
+    "explanation": "Ela permite que os discos deslizem levemente se o motor girar muito mais lento que a roda, evitando 'pulos' da traseira."
+  },
+  {
+    "id": 253,
+    "question": "A tecnologia LED nos faróis é superior às lâmpadas halógenas porque:",
+    "options": [
+      "Esquenta mais a lente",
+      "Consome menos energia, dura mais e oferece luz mais branca e potente",
+      "É proibida em rodovias",
+      "Sempre queima mais rápido"
+    ],
+    "correct": 1,
+    "category": "tecnologia",
+    "level": "iniciante",
+    "explanation": "O LED melhora a visibilidade do piloto e a percepção da moto pelos outros motoristas."
+  },
+  {
+    "id": 254,
+    "question": "O que significa a sigla 'DTC' em algumas marcas de motos?",
+    "options": [
+      "Direção Totalmente Controlada",
+      "Dynamic Traction Control (Controle de Tração Dinâmico)",
+      "Dispositivo de Troca de Calor",
+      "Documento de Trânsito Corrente"
+    ],
+    "correct": 1,
+    "category": "tecnologia",
+    "level": "intermediario",
+    "explanation": "É o nome comercial dado por alguns fabricantes ao seu sistema avançado de controle de tração."
+  },
+  {
+    "id": 255,
+    "question": "O 'Assistente de Partida em Rampa' (Hill Hold Control) atua:",
+    "options": [
+      "Aumentando a potência do motor",
+      "Mantendo os freios acionados automaticamente para a moto não rolar para trás ao sair em subidas",
+      "Desligando a moto na descida",
+      "Gritando para o piloto acelerar"
+    ],
+    "correct": 1,
+    "category": "tecnologia",
+    "level": "intermediario",
+    "explanation": "Facilita a vida do piloto, especialmente em motos pesadas ou com garupa."
+  },
+  {
+    "id": 256,
+    "question": "Qual a vantagem de uma suspensão eletrônica semi-ativa?",
+    "options": [
+      "Ela nunca precisa de manutenção",
+      "Ajusta o amortecimento em tempo real conforme as irregularidades do solo e a pilotagem",
+      "Deixa a moto mais baixa para sempre",
+      "Funciona apenas em pistas de corrida"
+    ],
+    "correct": 1,
+    "category": "tecnologia",
+    "level": "avancado",
+    "explanation": "Sensores leem o terreno milhares de vezes por segundo para oferecer o melhor equilíbrio entre conforto e estabilidade."
+  },
+  {
+    "id": 257,
+    "question": "O sistema 'RDC' ou 'TPMS' serve para:",
+    "options": [
+      "Mudar as marchas",
+      "Monitorar a pressão dos pneus em tempo real e avisar no painel",
+      "Limpar a corrente",
+      "Resfriar o motor"
+    ],
+    "correct": 1,
+    "category": "tecnologia",
+    "level": "iniciante",
+    "explanation": "Avisar sobre um pneu murchando antes que o piloto perca o controle é um recurso de segurança essencial."
+  },
+  {
+    "id": 258,
+    "question": "Motos com 'Transmissão DCT' (Dual Clutch Transmission) permitem:",
+    "options": [
+      "Usar dois motores ao mesmo tempo",
+      "Trocas de marcha automáticas ou por botões, sem manete de embreagem",
+      "Andar na água",
+      "Dobrar a velocidade da moto"
+    ],
+    "correct": 1,
+    "category": "tecnologia",
+    "level": "avancado",
+    "explanation": "A tecnologia de dupla embreagem torna as trocas quase instantâneas e muito suaves."
+  },
+  {
+    "id": 259,
+    "question": "O 'Quickshifter Up & Down' permite trocar marchas sem embreagem em quais situações?",
+    "options": [
+      "Apenas para aumentar as marchas",
+      "Tanto para aumentar quanto para reduzir as marchas",
+      "Apenas com a moto desligada",
+      "Apenas em ponto morto"
+    ],
+    "correct": 1,
+    "category": "tecnologia",
+    "level": "intermediario",
+    "explanation": "O sistema gerencia o corte de ignição e o 'blip' no acelerador para suavizar a entrada da marcha."
+  },
+  {
+    "id": 260,
+    "question": "Qual a função do 'Cruise Control Adaptativo' (com radar) em motos?",
+    "options": [
+      "Detectar radares de velocidade da polícia",
+      "Manter a velocidade e a distância segura do veículo à frente automaticamente",
+      "Acelerar a moto sozinho nas curvas",
+      "Ligar o sinal de alerta em neblina"
+    ],
+    "correct": 1,
+    "category": "tecnologia",
+    "level": "avancado",
+    "explanation": "Sensores de radar na frente da moto monitoram o tráfego e ajustam a velocidade sem intervenção do piloto."
+  },
+  {
+    "id": 261,
+    "question": "O que é o sistema 'Emergency Stop Signal' (ESS)?",
+    "options": [
+      "Um botão de pânico",
+      "O acionamento automático do pisca-alerta em frenagens de emergência para avisar quem vem atrás",
+      "Um paraquedas para a moto",
+      "Um sistema que desliga a bateria"
+    ],
+    "correct": 1,
+    "category": "tecnologia",
+    "level": "intermediario",
+    "explanation": "Ajuda a prevenir colisões traseiras ao alertar outros condutores sobre uma parada brusca."
+  },
+  {
+    "id": 262,
+    "question": "A conectividade Bluetooth em motos permite:",
+    "options": [
+      "Ouvir música e ver navegação curva-a-curva diretamente no painel",
+      "Hackear outras motos",
+      "Aumentar a calibragem dos pneus pelo celular",
+      "Substituir o uso de capacete"
+    ],
+    "correct": 0,
+    "category": "tecnologia",
+    "level": "iniciante",
+    "explanation": "Integra o smartphone ao ecossistema da moto para reduzir a distração de olhar para o celular."
+  },
+  {
+    "id": 263,
+    "question": "O termo 'Aerodinâmica Ativa' em motos refere-se a:",
+    "options": [
+      "Pintura que escorrega o ar",
+      "Aletas ou componentes que se movem conforme a velocidade para aumentar a estabilidade",
+      "Usar roupas apertadas",
+      "Tirar os espelhos retrovisores"
+    ],
+    "correct": 1,
+    "category": "tecnologia",
+    "level": "avancado",
+    "explanation": "Componentes móveis ajudam a gerar pressão aerodinâmica (downforce) apenas quando necessário."
+  }
+]
+[
+  {
+    "id": 264,
+    "question": "Qual destas marcas é considerada a mais antiga do mundo em produção contínua?",
+    "options": [
+      "Honda",
+      "Royal Enfield",
+      "Harley-Davidson",
+      "Yamaha"
+    ],
+    "correct": 1,
+    "category": "curiosidades",
+    "level": "intermediario",
+    "explanation": "A Royal Enfield produz motociclos continuamente desde 1901."
+  },
+  {
+    "id": 265,
+    "question": "Onde nasceu a marca Ducati, famosa pelas suas motos desportivas?",
+    "options": [
+      "Alemanha",
+      "Itália",
+      "Espanha",
+      "França"
+    ],
+    "correct": 1,
+    "category": "curiosidades",
+    "level": "iniciante",
+    "explanation": "A Ducati foi fundada em Bolonha, Itália, originalmente para produzir componentes de rádio."
+  },
+  {
+    "id": 266,
+    "question": "A icónica 'Vespa' foi criada por qual fabricante?",
+    "options": [
+      "Ferrari",
+      "Piaggio",
+      "Lamborghini",
+      "Fiat"
+    ],
+    "correct": 1,
+    "category": "curiosidades",
+    "level": "iniciante",
+    "explanation": "A Piaggio lançou a Vespa em 1946 como uma solução de transporte barata para a Itália pós-guerra."
+  },
+  {
+    "id": 267,
+    "question": "O que caracteriza um motor do tipo 'Boxer'?",
+    "options": [
+      "Cilindros dispostos em 'V'",
+      "Cilindros opostos horizontalmente",
+      "Um único cilindro gigante",
+      "Motor elétrico sem cilindros"
+    ],
+    "correct": 1,
+    "category": "curiosidades",
+    "level": "intermediario",
+    "explanation": "Famoso nas motos BMW, os pistões movem-se como se fossem dois pugilistas a dar socos."
+  },
+  {
+    "id": 268,
+    "question": "Qual é a nacionalidade da marca KTM?",
+    "options": [
+      "Suíça",
+      "Austríaca",
+      "Alemã",
+      "Holandesa"
+    ],
+    "correct": 1,
+    "category": "curiosidades",
+    "level": "intermediario",
+    "explanation": "A KTM é uma marca austríaca, líder mundial em motos de todo-o-terreno."
+  },
+  {
+    "id": 269,
+    "question": "A famosa 'Hayabusa' da Suzuki recebeu este nome por causa de:",
+    "options": [
+      "Uma montanha no Japão",
+      "O Falcão-peregrino, o animal mais rápido do mundo",
+      "Um samurai lendário",
+      "O som do motor"
+    ],
+    "correct": 1,
+    "category": "curiosidades",
+    "level": "iniciante",
+    "explanation": "Hayabusa é o termo japonês para o Falcão-peregrino, simbolizando a velocidade extrema da moto."
+  },
+  {
+    "id": 270,
+    "question": "Quem é considerado o 'Doutor' no MotoGP, com 9 títulos mundiais?",
+    "options": [
+      "Marc Márquez",
+      "Valentino Rossi",
+      "Giacomo Agostini",
+      "Casey Stoner"
+    ],
+    "correct": 1,
+    "category": "curiosidades",
+    "level": "iniciante",
+    "explanation": "Valentino Rossi é uma lenda viva do motociclismo, conhecido mundialmente pelo número 46."
+  },
+  {
+    "id": 271,
+    "question": "O termo 'Café Racer' surgiu originalmente onde?",
+    "options": [
+      "Nos Estados Unidos, em cafés de estrada",
+      "No Reino Unido, na década de 50, com jovens a correr entre cafés",
+      "No Japão, para motos pequenas",
+      "No Brasil, em fazendas de café"
+    ],
+    "correct": 1,
+    "category": "curiosidades",
+    "level": "intermediario",
+    "explanation": "Jovens modificavam as suas motos para serem rápidas e leves para corridas curtas entre cafés londrinos."
+  },
+  {
+    "id": 272,
+    "question": "Qual destas marcas é japonesa?",
+    "options": [
+      "Triumph",
+      "Kawasaki",
+      "Benelli",
+      "Indian"
+    ],
+    "correct": 1,
+    "category": "curiosidades",
+    "level": "iniciante",
+    "explanation": "Kawasaki faz parte das 'Big Four' japonesas, junto com Honda, Yamaha e Suzuki."
+  },
+  {
+    "id": 273,
+    "question": "O que significa a sigla 'GS' nos modelos de aventura da BMW?",
+    "options": [
+      "Grande Subida",
+      "Gelände/Straße (Campo/Estrada)",
+      "Giro Suave",
+      "Gasolina e Suspensão"
+    ],
+    "correct": 1,
+    "category": "curiosidades",
+    "level": "avancado",
+    "explanation": "Indica a vocação dual-purpose da moto, capaz de andar no asfalto e na terra."
+  },
+  {
+    "id": 274,
+    "question": "A corrida 'Isle of Man TT' é conhecida por ser:",
+    "options": [
+      "A mais segura do mundo",
+      "Uma das mais perigosas, realizada em estradas públicas fechadas",
+      "Apenas para motos elétricas",
+      "Uma corrida de lama"
+    ],
+    "correct": 1,
+    "category": "curiosidades",
+    "level": "intermediario",
+    "explanation": "Realizada desde 1907 na Ilha de Man, é um dos maiores desafios de velocidade e coragem."
+  },
+  {
+    "id": 275,
+    "question": "Qual marca utiliza o logótipo de um 'diapasão' cruzado?",
+    "options": [
+      "Honda",
+      "Yamaha",
+      "Suzuki",
+      "Harley-Davidson"
+    ],
+    "correct": 1,
+    "category": "curiosidades",
+    "level": "iniciante",
+    "explanation": "O logótipo remete à origem da Yamaha como fabricante de instrumentos musicais (pianos)."
+  },
+  {
+    "id": 276,
+    "question": "A 'Indian Motorcycle' é uma marca originária de qual país?",
+    "options": [
+      "Índia",
+      "Estados Unidos",
+      "Reino Unido",
+      "Canadá"
+    ],
+    "correct": 1,
+    "category": "curiosidades",
+    "level": "intermediario",
+    "explanation": "A Indian é a primeira marca de motos americana, fundada em 1901."
+  },
+  {
+    "id": 277,
+    "question": "Qual é o motor característico das motos Harley-Davidson?",
+    "options": [
+      "V-Twin (Dois cilindros em V)",
+      "Quatro cilindros em linha",
+      "Monocilíndrico",
+      "Rotativo"
+    ],
+    "correct": 0,
+    "category": "curiosidades",
+    "level": "iniciante",
+    "explanation": "O som e a configuração V-Twin são a assinatura visual e sonora da marca americana."
+  },
+  {
+    "id": 278,
+    "question": "O que é uma moto do tipo 'Bobber'?",
+    "options": [
+      "Uma moto cheia de acessórios e malas",
+      "Uma moto minimalista, com peças removidas para reduzir o peso",
+      "Uma moto de motocross",
+      "Uma moto com três rodas"
+    ],
+    "correct": 1,
+    "category": "curiosidades",
+    "level": "intermediario",
+    "explanation": "Surgiram no pós-guerra, quando veteranos cortavam os guarda-lamas (bobbed) para tornar as motos mais rápidas."
+  },
+  {
+    "id": 279,
+    "question": "Em que país se realiza o maior encontro de motos do mundo, o 'Sturgis Motorcycle Rally'?",
+    "options": [
+      "Brasil",
+      "Estados Unidos",
+      "Alemanha",
+      "Austrália"
+    ],
+    "correct": 1,
+    "category": "curiosidades",
+    "level": "intermediario",
+    "explanation": "O evento ocorre anualmente em Dakota do Sul e atrai centenas de milhares de motociclistas."
+  },
+  {
+    "id": 280,
+    "question": "A marca Triumph é originária de qual país?",
+    "options": [
+      "França",
+      "Inglaterra",
+      "Estados Unidos",
+      "Suécia"
+    ],
+    "correct": 1,
+    "category": "curiosidades",
+    "level": "iniciante",
+    "explanation": "A Triumph é uma das marcas britânicas mais tradicionais, fundada em Coventry."
+  },
+  {
+    "id": 281,
+    "question": "O filme 'Easy Rider' (1969) imortalizou qual estilo de moto?",
+    "options": [
+      "Scooter",
+      "Chopper",
+      "Naked",
+      "Trail"
+    ],
+    "correct": 1,
+    "category": "curiosidades",
+    "level": "iniciante",
+    "explanation": "As motos com forquilhas longas e guiadores altos tornaram-se ícones da contracultura americana."
+  },
+  {
+    "id": 282,
+    "question": "Qual destas motos é famosa por ser a mais vendida da história (mais de 100 milhões)?",
+    "options": [
+      "Honda Super Cub",
+      "BMW R1250GS",
+      "Yamaha R1",
+      "Harley Fat Boy"
+    ],
+    "correct": 0,
+    "category": "curiosidades",
+    "level": "avancado",
+    "explanation": "A Super Cub é o veículo motorizado mais produzido da história devido à sua fiabilidade e baixo custo."
+  },
+  {
+    "id": 283,
+    "question": "O sistema de comando de válvulas 'Desmodrómico' é uma patente famosa de qual marca?",
+    "options": [
+      "Honda",
+      "Ducati",
+      "MV Agusta",
+      "KTM"
+    ],
+    "correct": 1,
+    "category": "curiosidades",
+    "level": "avancado",
+    "explanation": "Este sistema utiliza cames para abrir E fechar as válvulas, eliminando as molas e permitindo rotações altíssimas."
+  }
+]
 [
   {
     "id": 284,
@@ -238,3 +3910,4 @@
     "explanation": "O conhecimento teórico é a base, mas a humildade e a atenção constante são o que define um verdadeiro mestre das duas rodas."
   }
 ]
+
