@@ -5,7 +5,7 @@
     "version": "1.0",
     "lastUpdate": "2025-01-15"
   },
-  "quiz": [
+  "quiz":[
     {
       "id": 1,
       "question": "Qual a distância mínima de segurança recomendada em relação ao veículo à frente?",
@@ -3911,3 +3911,4 @@
   }
   ]
 }
+
