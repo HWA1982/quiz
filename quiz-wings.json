@@ -4205,6 +4205,2806 @@
             "category": "seguranca",
             "level": "iniciante",
             "explanation": "O conhecimento teórico é a base, mas a humildade e a atenção constante são o que define um verdadeiro mestre das duas rodas."
+        },
+        {
+            "id": 301,
+            "question": "Na embalagem de um óleo lubrificante, o que indica especificamente a norma 'JASO MA2'?",
+            "options": [
+                "Que o óleo é mineral e de baixo custo",
+                "Altos níveis de atrito para evitar que a embreagem úmida patine em motores de alta performance",
+                "Que o óleo é apenas para motores a diesel",
+                "Que o óleo deve ser trocado a cada 10.000 km"
+            ],
+            "correct": 1,
+            "category": "manutencao",
+            "level": "avancado",
+            "explanation": "A norma JASO MA2 é a mais rigorosa para motos com embreagem banhada a óleo, garantindo a transferência de torque sem deslizamento."
+        },
+        {
+            "id": 302,
+            "question": "O que significa o índice de carga '58' no código de um pneu (ex: 120/70 ZR17 58W)?",
+            "options": [
+                "A largura do pneu em milímetros",
+                "A capacidade máxima de peso que o pneu suporta (neste caso, 236 kg)",
+                "A pressão máxima de calibragem",
+                "O ano de fabricação"
+            ],
+            "correct": 1,
+            "category": "manutencao",
+            "level": "avancado",
+            "explanation": "O índice de carga é um código numérico que corresponde à carga máxima que o pneu pode suportar em sua velocidade máxima."
+        },
+        {
+            "id": 303,
+            "question": "O termo 'Trail' na geometria de uma motocicleta refere-se a:",
+            "options": [
+                "O estilo de pilotagem em estradas de terra",
+                "A distância horizontal entre o ponto de contato do pneu e o prolongamento do eixo de direção no solo",
+                "A altura do banco em relação ao chão",
+                "O curso total da suspensão traseira"
+            ],
+            "correct": 1,
+            "category": "pilotagem",
+            "level": "avancado",
+            "explanation": "O trail define a estabilidade direcional da moto. Quanto maior o trail, mais estável em retas; quanto menor, mais ágil em curvas."
+        },
+        {
+            "id": 304,
+            "question": "Por que o fluido de freio DOT 5 não deve ser misturado com o DOT 4 ou DOT 5.1?",
+            "options": [
+                "Porque o DOT 5 é à base de silicone, enquanto os outros são à base de glicol, sendo incompatíveis",
+                "Porque o DOT 5 é muito barato",
+                "Porque a cor é a mesma e confunde o mecânico",
+                "Não há problema em misturar"
+            ],
+            "correct": 0,
+            "category": "manutencao",
+            "level": "avancado",
+            "explanation": "A mistura de bases diferentes pode causar a coagulação do fluido e a falha total do sistema de freios."
+        },
+        {
+            "id": 305,
+            "question": "Qual o principal risco de instalar um 'bauleto' (top case) com carga excessiva muito atrás do eixo traseiro?",
+            "options": [
+                "Aumento do consumo de combustível",
+                "Alívio excessivo da roda dianteira, podendo causar instabilidade e 'shimmie'",
+                "Desgaste prematuro da corrente",
+                "Melhora na frenagem dianteira"
+            ],
+            "correct": 1,
+            "category": "seguranca",
+            "level": "intermediario",
+            "explanation": "O peso excessivo na extremidade traseira altera o centro de gravidade e retira o peso necessário para a aderência da roda dianteira."
+        },
+        {
+            "id": 306,
+            "question": "Em motores de 2 tempos, qual a função das 'palhetas de torque' (reed valves)?",
+            "options": [
+                "Controlar a saída de gases pelo escapamento",
+                "Permitir a entrada da mistura no cárter e impedir o seu retorno para o carburador/TBI",
+                "Lubrificar o pistão",
+                "Regular a voltagem da bateria"
+            ],
+            "correct": 1,
+            "category": "mecanica",
+            "level": "avancado",
+            "explanation": "As palhetas funcionam como válvulas de sentido único, essenciais para a compressão primária no cárter de motores 2T."
+        },
+        {
+            "id": 307,
+            "question": "O que é o efeito 'Squat' na suspensão traseira?",
+            "options": [
+                "Quando a frente da moto mergulha na frenagem",
+                "A tendência da traseira de 'sentar' ou comprimir durante uma aceleração forte",
+                "O barulho de ar saindo do amortecedor",
+                "Quando o pneu traseiro fura"
+            ],
+            "correct": 1,
+            "category": "pilotagem",
+            "level": "avancado",
+            "explanation": "O squat é causado pela transferência de massa para trás e pelas forças da corrente sobre a balança durante a aceleração."
+        },
+        {
+            "id": 308,
+            "question": "Em relação à bateria, o que significa a sigla 'CCA' (Cold Cranking Amps)?",
+            "options": [
+                "Carga Complementar de Amperagem",
+                "Corrente de partida a frio; a capacidade da bateria de girar o motor em temperaturas baixas",
+                "Custo de Compra Anual",
+                "Conexão de Carga Alternada"
+            ],
+            "correct": 1,
+            "category": "manutencao",
+            "level": "intermediario",
+            "explanation": "Um CCA alto garante que a bateria tenha força suficiente para vencer a resistência do óleo frio e girar o motor na partida."
+        },
+        {
+            "id": 309,
+            "question": "O componente eletrônico chamado 'Retificador/Regulador' serve para:",
+            "options": [
+                "Aumentar a velocidade da moto",
+                "Converter a corrente alternada do estator em contínua e limitar a voltagem para a bateria",
+                "Controlar o tempo de injeção",
+                "Acionar o motor de partida"
+            ],
+            "correct": 1,
+            "category": "manutencao",
+            "level": "intermediario",
+            "explanation": "Sem ele, a alta voltagem gerada pelo motor queimaria a bateria e todas as lâmpadas da motocicleta."
+        },
+        {
+            "id": 310,
+            "question": "O que caracteriza um motor com configuração 'Big Bang'?",
+            "options": [
+                "Um motor que explode com facilidade",
+                "Um intervalo de ignição onde os cilindros disparam próximos uns dos outros, favorecendo a tração",
+                "Um motor de apenas um cilindro e grande capacidade",
+                "O uso de nitro no combustível"
+            ],
+            "correct": 1,
+            "category": "tecnologia",
+            "level": "avancado",
+            "explanation": "Muito usado no MotoGP, esse ordenamento de ignição dá tempo ao pneu traseiro para 'recuperar' a aderência entre os pulsos de potência."
+        },
+        {
+            "id": 311,
+            "question": "Qual a principal vantagem da 'refrigeração a ar e óleo' em relação à refrigeração apenas a ar?",
+            "options": [
+                "A moto fica mais leve",
+                "O óleo passa por um radiador, ajudando a resfriar componentes internos críticos como o cabeçote",
+                "Não precisa trocar o óleo",
+                "A moto faz menos barulho"
+            ],
+            "correct": 1,
+            "category": "mecanica",
+            "level": "intermediario",
+            "explanation": "O sistema utiliza o próprio lubrificante para dissipar o calor interno, aumentando a durabilidade do motor em trânsito pesado."
+        },
+        {
+            "id": 312,
+            "question": "O sensor 'Map' no sistema de injeção eletrônica mede:",
+            "options": [
+                "A localização da moto via GPS",
+                "A pressão absoluta no coletor de admissão para calcular a carga do motor",
+                "A temperatura do óleo",
+                "A inclinação da moto"
+            ],
+            "correct": 1,
+            "category": "tecnologia",
+            "level": "avancado",
+            "explanation": "Com essa leitura, a central (ECU) decide a quantidade exata de combustível a ser injetada conforme a altitude e abertura do acelerador."
+        },
+        {
+            "id": 313,
+            "question": "Ao realizar uma viagem longa com garupa e bagagem, como deve ser ajustada a suspensão traseira (Preload)?",
+            "options": [
+                "Deve ser deixada o mais macia possível",
+                "Deve ser aumentada a pré-carga da mola para compensar o peso e evitar o fim de curso",
+                "Não deve sofrer nenhum ajuste",
+                "Deve ser removida"
+            ],
+            "correct": 1,
+            "category": "pilotagem",
+            "level": "intermediario",
+            "explanation": "Ajustar a pré-carga mantém a geometria correta da moto e evita que a traseira fique muito baixa, o que comprometeria a direção."
+        },
+        {
+            "id": 314,
+            "question": "O fenômeno de 'vapor lock' no sistema de combustível ocorre quando:",
+            "options": [
+                "O tanque está muito cheio",
+                "O combustível ferve nas linhas de alimentação devido ao calor, criando bolhas de vapor que impedem o fluxo",
+                "A moto fica sem gasolina",
+                "A tampa do tanque está aberta"
+            ],
+            "correct": 1,
+            "category": "manutencao",
+            "level": "avancado",
+            "explanation": "Comum em dias muito quentes ou motores com má circulação de ar, faz a moto falhar ou 'morrer' como se estivesse sem combustível."
+        },
+        {
+            "id": 315,
+            "question": "Qual a função da 'Câmara de Expansão' em um escapamento de motor 2 tempos?",
+            "options": [
+                "Reduzir apenas o ruído",
+                "Usar ondas de pressão para empurrar a mistura fresca de volta para o cilindro antes da combustão",
+                "Guardar óleo reserva",
+                "Aquecer o motor mais rápido"
+            ],
+            "correct": 1,
+            "category": "mecanica",
+            "level": "avancado",
+            "explanation": "É o desenho do 'bojo' do escapamento que determina a faixa de potência e a eficiência volumétrica desses motores."
+        },
+        {
+            "id": 316,
+            "question": "Em sistemas de freio, o que é a 'frenagem combinada' (CBS)?",
+            "options": [
+                "Aciona o freio e a embreagem juntos",
+                "Distribui a força de frenagem entre as rodas dianteira e traseira ao acionar apenas um dos comandos",
+                "Um sistema que trava as duas rodas ao mesmo tempo",
+                "O uso de dois discos na roda dianteira"
+            ],
+            "correct": 1,
+            "category": "seguranca",
+            "level": "iniciante",
+            "explanation": "O CBS ajuda pilotos iniciantes a equilibrar a moto em frenagens, enviando pressão para ambos os eixos automaticamente."
+        },
+        {
+            "id": 317,
+            "question": "O que indica o código 'Z' ou 'ZR' na medida de um pneu (ex: 190/50 ZR17)?",
+            "options": [
+                "Que o pneu é para uso em neve",
+                "Que a estrutura é radial e adequada para velocidades acima de 240 km/h",
+                "Que o pneu é macio",
+                "Que o pneu é fabricado na Alemanha"
+            ],
+            "correct": 1,
+            "category": "manutencao",
+            "level": "avancado",
+            "explanation": "A classificação ZR indica pneus de alta performance capazes de suportar grandes forças centrífugas e calor."
+        },
+        {
+            "id": 318,
+            "question": "Qual a principal diferença entre um motor 'Quadrado' e um 'Subquadrado' (Long curso)?",
+            "options": [
+                "O formato do motor por fora",
+                "A relação entre o diâmetro do cilindro e o curso do pistão",
+                "A cor do bloco do motor",
+                "O número de marchas"
+            ],
+            "correct": 1,
+            "category": "mecanica",
+            "level": "avancado",
+            "explanation": "Motores de curso longo (long stroke) priorizam torque em baixas rotações, típicos de motos custom e clássicas."
+        },
+        {
+            "id": 319,
+            "question": "A limpeza do sensor 'O2' (Sonda Lambda) é importante porque:",
+            "options": [
+                "Ele mede a temperatura externa",
+                "Garante que a leitura de oxigênio nos gases de escape esteja correta para o ajuste da mistura",
+                "Evita que o escapamento enferruje",
+                "Faz a buzina tocar mais alto"
+            ],
+            "correct": 1,
+            "category": "manutencao",
+            "level": "intermediario",
+            "explanation": "Uma sonda suja ou carbonizada informa dados errados à ECU, causando aumento de consumo e perda de potência."
+        },
+        {
+            "id": 320,
+            "question": "Por que não se deve usar água de torneira pura no sistema de arrefecimento?",
+            "options": [
+                "Porque a água é cara",
+                "Devido aos minerais que causam corrosão e incrustações, além do baixo ponto de ebulição",
+                "Porque a água de torneira é muito pesada",
+                "Porque o motor precisa de água com gás"
+            ],
+            "correct": 1,
+            "category": "manutencao",
+            "level": "iniciante",
+            "explanation": "Deve-se usar água desmineralizada e aditivo (etileno-glicol) para proteger contra corrosão e evitar que a água ferva a 100°C."
+        },
+        {
+            "id": 321,
+            "question": "O que caracteriza um motor com comando de válvulas do tipo 'DOHC'?",
+            "options": [
+                "Possui apenas uma válvula por cilindro",
+                "Possui dois comandos de válvulas no cabeçote (um para admissão e outro para escape)",
+                "É um motor que não usa corrente de comando",
+                "O comando fica localizado dentro do bloco do motor"
+            ],
+            "correct": 1,
+            "category": "mecanica",
+            "level": "intermediario",
+            "explanation": "Double OverHead Camshaft (DOHC) permite um controle mais preciso das válvulas em altas rotações, melhorando a eficiência do motor."
+        },
+        {
+            "id": 322,
+            "question": "Em termos de pneus, o que significa a sigla 'M/C' gravada na lateral?",
+            "options": [
+                "Média Cilindrada",
+                "Indica que o pneu é de uso exclusivo para motocicletas",
+                "Pneu para lama e cidade (Mud/City)",
+                "Fabricado na China"
+            ],
+            "correct": 1,
+            "category": "manutencao",
+            "level": "intermediario",
+            "explanation": "A marcação M/C é obrigatória para distinguir pneus de motos de pneus de carros que possam ter medidas semelhantes, evitando erros de montagem."
+        },
+        {
+            "id": 323,
+            "question": "O que é o sistema 'Quickshifter' presente em motos modernas?",
+            "options": [
+                "Um acelerador mais rápido",
+                "Um dispositivo que permite trocar de marcha sem usar a embreagem e sem fechar o acelerador",
+                "Um tipo de freio de emergência",
+                "Um sistema de partida rápida"
+            ],
+            "correct": 1,
+            "category": "tecnologia",
+            "level": "intermediario",
+            "explanation": "O Quickshifter corta a ignição ou o combustível por milissegundos para aliviar a carga no câmbio, permitindo a troca instantânea."
+        },
+        {
+            "id": 324,
+            "question": "Qual a principal função do 'Estator' no sistema elétrico?",
+            "options": [
+                "Acionar a buzina",
+                "Gerar corrente alternada através do movimento do motor para carregar a bateria",
+                "Armazenar a energia da moto",
+                "Controlar o tempo da faísca da vela"
+            ],
+            "correct": 1,
+            "category": "mecanica",
+            "level": "intermediario",
+            "explanation": "O estator faz parte do alternador; ele usa o magnetismo para converter energia mecânica em energia elétrica para a moto."
+        },
+        {
+            "id": 325,
+            "question": "O que define a 'Ciclística' de uma motocicleta?",
+            "options": [
+                "A cor e os adesivos da moto",
+                "O conjunto de quadro, suspensões, freios e geometria que determina o comportamento dinâmico",
+                "A quantidade de cilindros do motor",
+                "A marca dos acessórios instalados"
+            ],
+            "correct": 1,
+            "category": "pilotagem",
+            "level": "avancado",
+            "explanation": "Uma boa ciclística significa que a moto é equilibrada, obedece aos comandos do piloto com precisão e absorve bem as irregularidades."
+        },
+        {
+            "id": 326,
+            "question": "Qual a diferença entre uma pinça de freio 'Axial' e uma 'Radial'?",
+            "options": [
+                "A pinça radial é mais pesada",
+                "A forma como a pinça é fixada na bengala; a radial oferece maior rigidez e menor deformação na frenagem",
+                "A axial usa quatro pastilhas e a radial apenas uma",
+                "Não há diferença de performance"
+            ],
+            "correct": 1,
+            "category": "mecanica",
+            "level": "avancado",
+            "explanation": "Fixações radiais (parafusos paralelos ao disco) reduzem a torção da pinça, proporcionando um tato de freio mais firme e potente."
+        },
+        {
+            "id": 327,
+            "question": "O termo 'Cafe Racer' originou-se de qual cultura?",
+            "options": [
+                "Pilotos americanos de motocross",
+                "Jovens ingleses da década de 50 que apostavam corridas entre cafés",
+                "Entregadores de café na Itália",
+                "Um tipo de motor movido a biocombustível"
+            ],
+            "correct": 1,
+            "category": "curiosidades",
+            "level": "intermediario",
+            "explanation": "Os Rockers britânicos modificavam suas motos para serem rápidas em trajetos curtos entre os 'Transport Cafes' da época."
+        },
+        {
+            "id": 328,
+            "question": "O que indica a viscosidade '10W40' em um óleo lubrificante?",
+            "options": [
+                "Que o óleo dura 10.400 km",
+                "O comportamento do óleo em baixas temperaturas (10W) e em altas temperaturas (40)",
+                "A quantidade de aditivos detergentes",
+                "O tamanho das moléculas de carbono"
+            ],
+            "correct": 1,
+            "category": "manutencao",
+            "level": "intermediario",
+            "explanation": "A numeração SAE descreve a fluidez do óleo: o primeiro número refere-se à partida fria e o segundo à temperatura de trabalho do motor."
+        },
+        {
+            "id": 329,
+            "question": "Qual o efeito de ter as 'Válvulas de Admissão' com folga excessiva (batendo)?",
+            "options": [
+                "A moto fica mais veloz",
+                "Perda de potência, ruído metálico e desgaste acentuado dos componentes do cabeçote",
+                "Economia de combustível",
+                "O motor esfria mais rápido"
+            ],
+            "correct": 1,
+            "category": "manutencao",
+            "level": "intermediario",
+            "explanation": "Válvulas frouxas não abrem totalmente, prejudicando a entrada da mistura ar-combustível e gerando o característico 'tec-tec'."
+        },
+        {
+            "id": 330,
+            "question": "O que é o sistema de suspensão dianteira do tipo 'Upside Down' (Invertida)?",
+            "options": [
+                "Uma suspensão que funciona de trás para frente",
+                "A parte mais pesada (tubo externo) fica fixada nas mesas, reduzindo a massa não suspensa",
+                "Um sistema exclusivo para motos custom",
+                "Uma suspensão que não utiliza óleo"
+            ],
+            "correct": 1,
+            "category": "tecnologia",
+            "level": "avancado",
+            "explanation": "As bengalas invertidas aumentam a rigidez estrutural da frente da moto e melhoram a resposta da suspensão em curvas."
+        },
+        {
+            "id": 331,
+            "question": "O 'Sensor de Inclinação' (Bank Angle Sensor) serve para:",
+            "options": [
+                "Medir a velocidade em curvas",
+                "Cortar o funcionamento do motor e da bomba de combustível em caso de queda da motocicleta",
+                "Ajudar a moto a inclinar mais",
+                "Avisar o piloto se ele está abusando na curva"
+            ],
+            "correct": 1,
+            "category": "seguranca",
+            "level": "intermediario",
+            "explanation": "É um item de segurança vital que evita incêndios e danos ao motor caso a moto permaneça ligada deitada após um acidente."
+        },
+        {
+            "id": 332,
+            "question": "O que caracteriza um pneu do tipo 'Radial' em comparação ao 'Diagonal'?",
+            "options": [
+                "O radial é feito de borracha sintética e o diagonal de natural",
+                "No radial, as lonas de carcaça estão dispostas a 90 graus em relação ao sentido de rodagem",
+                "O radial só pode ser usado com câmara",
+                "O diagonal é para velocidades acima de 300 km/h"
+            ],
+            "correct": 1,
+            "category": "manutencao",
+            "level": "avancado",
+            "explanation": "Pneus radiais aquecem menos, são mais estáveis em altas velocidades e oferecem maior conforto do que os diagonais."
+        },
+        {
+            "id": 333,
+            "question": "O componente chamado 'CDI' ou 'ECU' é responsável por:",
+            "options": [
+                "Carregar a bateria",
+                "Gerenciar o tempo e a ordem da ignição (faísca) e, em muitos casos, a injeção",
+                "Medir o nível do óleo",
+                "Lubrificar a corrente"
+            ],
+            "correct": 1,
+            "category": "mecanica",
+            "level": "intermediario",
+            "explanation": "É o 'cérebro' eletrônico da moto, que interpreta sensores para que o motor funcione de forma otimizada."
+        },
+        {
+            "id": 334,
+            "question": "Qual a principal vantagem das mangueiras de freio do tipo 'Aeroquip' (Malha de Aço)?",
+            "options": [
+                "São mais bonitas e coloridas",
+                "Não expandem sob pressão e calor, mantendo a frenagem firme e precisa",
+                "São mais leves que as de borracha",
+                "Aumentam a vida útil das pastilhas"
+            ],
+            "correct": 1,
+            "category": "tecnologia",
+            "level": "avancado",
+            "explanation": "Mangueiras de borracha comuns 'incham' em frenagens fortes; a malha de aço impede isso, garantindo que toda a força chegue à pinça."
+        },
+        {
+            "id": 335,
+            "question": "O que é o 'Efeito Vela' em motocicletas de alta cilindrada com baús laterais?",
+            "options": [
+                "A moto brilha no escuro",
+                "A instabilidade causada pelo vento lateral atingindo a superfície plana dos baús",
+                "O aumento da velocidade final",
+                "O aquecimento excessivo do motor"
+            ],
+            "correct": 1,
+            "category": "seguranca",
+            "level": "intermediario",
+            "explanation": "Superfícies laterais grandes agem como velas de um barco, podendo empurrar a moto para fora da trajetória em rajadas de vento."
+        },
+        {
+            "id": 336,
+            "question": "No sistema de arrefecimento, qual a função da 'Válvula Termostática'?",
+            "options": [
+                "Medir a temperatura para o painel",
+                "Bloquear a circulação do líquido até que o motor atinja a temperatura ideal de trabalho",
+                "Ligar a ventoinha",
+                "Limpar as impurezas da água"
+            ],
+            "correct": 1,
+            "category": "mecanica",
+            "level": "intermediario",
+            "explanation": "Ela permite que o motor aqueça rápido (reduzindo desgaste) e depois se abre para permitir a refrigeração plena."
+        },
+        {
+            "id": 337,
+            "question": "O que significa um motor com configuração em 'V' a 90 graus (como na Ducati)?",
+            "options": [
+                "Que a moto só pode inclinar 90 graus",
+                "O ângulo de abertura entre os cilindros, que proporciona um equilíbrio natural de vibrações",
+                "Que o motor tem 90 cavalos de potência",
+                "Que os pistões sobem e descem juntos"
+            ],
+            "correct": 1,
+            "category": "curiosidades",
+            "level": "avancado",
+            "explanation": "Essa configuração (também chamada de L-Twin) oferece uma entrega de torque linear e um centro de gravidade estreito."
+        },
+        {
+            "id": 338,
+            "question": "Qual a principal causa do fenômeno 'Carbonização' nas válvulas e pistão?",
+            "options": [
+                "Uso de gasolina de alta octanagem",
+                "Combustão incompleta, óleo de motor queimando ou combustível de má qualidade",
+                "Pilotar em dias de muito calor",
+                "Lavar o motor com frequência"
+            ],
+            "correct": 1,
+            "category": "manutencao",
+            "level": "intermediario",
+            "explanation": "O acúmulo de carvão impede a vedação correta das válvulas e pode causar pré-ignição (batida de pino)."
+        },
+        {
+            "id": 339,
+            "question": "O termo 'Wheelie' refere-se a qual manobra?",
+            "options": [
+                "Derrapagem controlada",
+                "Empinar a motocicleta (tirar a roda dianteira do solo)",
+                "Dar um 'cavalo de pau'",
+                "Saltar em rampas"
+            ],
+            "correct": 1,
+            "category": "curiosidades",
+            "level": "iniciante",
+            "explanation": "Wheelie é o termo técnico/esportivo para a manobra de empinar, comum em exibições de dublês e motocross."
+        },
+        {
+            "id": 340,
+            "question": "O que é o 'Amortecedor de Direção'?",
+            "options": [
+                "Um componente da suspensão dianteira",
+                "Um dispositivo que estabiliza o guidão para evitar oscilações violentas (shimmy) em alta velocidade",
+                "Uma proteção para as mãos",
+                "O que amortece o impacto nos punhos"
+            ],
+            "correct": 1,
+            "category": "tecnologia",
+            "level": "intermediario",
+            "explanation": "Ele atua como um freio hidráulico para movimentos laterais bruscos do guidão, mantendo a frente da moto estável."
+        },
+        {
+            "id": 341,
+            "question": "O que é a 'Massa Não Suspensa' em uma motocicleta?",
+            "options": [
+                "O peso do piloto e do passageiro",
+                "O peso de componentes que não são suportados pelas molas (rodas, pneus, travões e parte da suspensão)",
+                "O peso do óleo dentro do motor",
+                "A carga máxima do baú traseiro"
+            ],
+            "correct": 1,
+            "category": "mecanica",
+            "level": "avancado",
+            "explanation": "Quanto menor a massa não suspensa, mais rápida é a reação da suspensão às irregularidades do solo, melhorando o contacto do pneu com o asfalto."
+        },
+        {
+            "id": 342,
+            "question": "Ao prestar auxílio num acidente, qual a forma correta de sinalizar o local numa rodovia com velocidade de 100 km/h?",
+            "options": [
+                "Colocar o triângulo a 10 metros do acidente",
+                "Caminhar 100 passos largos (metros) em direção ao fluxo antes de colocar a sinalização",
+                "Apenas ligar o pisca-alerta da moto",
+                "Gritar para os carros pararem"
+            ],
+            "correct": 1,
+            "category": "seguranca",
+            "level": "intermediario",
+            "explanation": "A regra básica é 1 metro para cada km/h de velocidade da via. Se houver curva ou chuva, essa distância deve ser dobrada."
+        },
+        {
+            "id": 343,
+            "question": "Na pilotagem Off-Road, por que se costuma reduzir a pressão dos pneus?",
+            "options": [
+                "Para a moto correr mais nas retas",
+                "Para aumentar a área de contacto e a tração em terrenos macios como areia e lama",
+                "Para evitar que o pneu fure com pedras",
+                "Para economizar combustível"
+            ],
+            "correct": 1,
+            "category": "pilotagem",
+            "level": "intermediario",
+            "explanation": "Um pneu mais 'murcho' molda-se melhor às irregularidades, oferecendo mais 'grip'. Atenção: ao voltar para o asfalto, a pressão deve ser normalizada."
+        },
+        {
+            "id": 344,
+            "question": "O que causa o 'Entupimento do Respiro' da tampa do tanque de combustível?",
+            "options": [
+                "A moto parar de acelerar e morrer após alguns quilómetros, voltando a ligar após abrir o tanque",
+                "O farol queimar constantemente",
+                "A corrente saltar da coroa",
+                "Vazamento de óleo pelo escapamento"
+            ],
+            "correct": 0,
+            "category": "manutencao",
+            "level": "avancado",
+            "explanation": "Se o ar não entra, cria-se vácuo e a gasolina para de descer. Ao abrir a tampa, o ar entra (fazendo um som de sucção) e a moto volta a funcionar."
+        },
+        {
+            "id": 345,
+            "question": "Qual a principal diferença entre pastilhas de travão 'Orgânicas' e 'Sinterizadas'?",
+            "options": [
+                "A cor da embalagem",
+                "As sinterizadas usam partículas metálicas fundidas, suportando maior calor e oferecendo travagens mais potentes",
+                "As orgânicas duram dez vezes mais",
+                "Apenas o preço, a performance é igual"
+            ],
+            "correct": 1,
+            "category": "mecanica",
+            "level": "avancado",
+            "explanation": "Pastilhas sinterizadas são ideais para uso severo ou motos pesadas, pois não perdem a eficiência (fading) tão facilmente quanto as orgânicas."
+        },
+        {
+            "id": 346,
+            "question": "O que é o 'Ponto de Fricção' da embreagem?",
+            "options": [
+                "Quando a manete está totalmente apertada",
+                "A zona em que os discos começam a transmitir a força do motor para a roda",
+                "O momento em que a marcha desengata",
+                "Quando o cabo da embreagem parte"
+            ],
+            "correct": 1,
+            "category": "pilotagem",
+            "level": "iniciante",
+            "explanation": "Dominar o ponto de fricção é fundamental para arranques suaves, especialmente em subidas ou manobras de baixa velocidade."
+        },
+        {
+            "id": 347,
+            "question": "Qual componente é responsável por 'filtrar' os ruídos elétricos gerados pela vela de ignição?",
+            "options": [
+                "A bateria",
+                "O supressor de ruídos (cachimbo da vela) com resistência interna",
+                "O pneu dianteiro",
+                "O filtro de ar"
+            ],
+            "correct": 1,
+            "category": "mecanica",
+            "level": "intermediario",
+            "explanation": "O supressor evita que a alta voltagem da ignição cause interferência eletrónica no painel, injeção ou em rádios próximos."
+        },
+        {
+            "id": 348,
+            "question": "Em manobras de baixa velocidade (U-turn), qual travão deve ser priorizado?",
+            "options": [
+                "Travão dianteiro",
+                "Travão traseiro, para estabilizar a moto sem causar o fechamento da direção",
+                "Não se deve usar travão em manobras",
+                "Ambos com a mesma força"
+            ],
+            "correct": 1,
+            "category": "pilotagem",
+            "level": "intermediario",
+            "explanation": "Usar o travão dianteiro com o guiador virado em baixa velocidade pode fazer a frente 'mergulhar' e a moto tombar para dentro."
+        },
+        {
+            "id": 349,
+            "question": "O que indica a presença de 'limalha de metal' no íman do bujão de óleo?",
+            "options": [
+                "Que o óleo é de boa qualidade",
+                "Desgaste excessivo de componentes internos (engrenagens, rolamentos ou pistão)",
+                "Que o motor está a ser amaciado corretamente",
+                "Que o filtro de óleo está cheio"
+            ],
+            "correct": 1,
+            "category": "manutencao",
+            "level": "avancado",
+            "explanation": "Pequenas partículas são normais no amaciamento, mas limalhas grandes indicam uma falha mecânica iminente que precisa de inspeção."
+        },
+        {
+            "id": 350,
+            "question": "Na técnica de pilotagem Off-Road, por que o piloto deve ficar 'em pé' nas pedaleiras?",
+            "options": [
+                "Para ver melhor a paisagem",
+                "Para usar as pernas como amortecedores extras e baixar o centro de gravidade efetivo",
+                "Para a moto não sujar o banco",
+                "Para esticar as pernas e evitar cãibras"
+            ],
+            "correct": 1,
+            "category": "pilotagem",
+            "level": "intermediario",
+            "explanation": "Ao ficar em pé, o peso do piloto concentra-se nas pedaleiras (mais baixo), permitindo que a moto se mova livremente sob ele."
+        },
+        {
+            "id": 351,
+            "question": "Qual a função do 'Líquido de Arrefecimento' além de resfriar o motor?",
+            "options": [
+                "Lubrificar a corrente",
+                "Elevar o ponto de ebulição da água e proteger contra corrosão e cavitação na bomba",
+                "Dar mais brilho às peças de alumínio",
+                "Aumentar a compressão do motor"
+            ],
+            "correct": 1,
+            "category": "manutencao",
+            "level": "intermediario",
+            "explanation": "O aditivo evita que a água ferva precocemente e impede que o motor apodreça internamente por oxidação."
+        },
+        {
+            "id": 352,
+            "question": "O que é o 'Efeito Giroscópico' inverso usado na pilotagem?",
+            "options": [
+                "É quando a roda para de girar",
+                "A resistência das rodas em mudar de direção, que exige o contra-esterço para inclinar a moto",
+                "O barulho do motor em alta rotação",
+                "O funcionamento do ABS"
+            ],
+            "correct": 1,
+            "category": "pilotagem",
+            "level": "avancado",
+            "explanation": "Rodas em movimento funcionam como giroscópios que tendem a manter a moto em pé; o piloto precisa vencer essa força para curvar."
+        },
+        {
+            "id": 353,
+            "question": "Se um motociclista estiver com uma hemorragia externa num braço após queda, o que fazer?",
+            "options": [
+                "Fazer um torniquete imediatamente",
+                "Aplicar pressão direta sobre a ferida com um pano limpo",
+                "Lavar com álcool gel",
+                "Dar água para a vítima beber"
+            ],
+            "correct": 1,
+            "category": "seguranca",
+            "level": "intermediario",
+            "explanation": "A pressão direta é a primeira medida para estancar o sangue. Torniquetes são usados apenas em casos extremos e por pessoal treinado."
+        },
+        {
+            "id": 354,
+            "question": "O que é um 'Motor de Passo' (IACV) numa moto com injeção?",
+            "options": [
+                "Um motor que faz a moto andar devagar",
+                "O componente que controla a marcha lenta automaticamente",
+                "O motor de arranque",
+                "O sensor de rotação"
+            ],
+            "correct": 1,
+            "category": "tecnologia",
+            "level": "avancado",
+            "explanation": "O Idle Air Control Valve regula a passagem de ar quando o acelerador está fechado, mantendo a moto ligada sem oscilações."
+        },
+        {
+            "id": 355,
+            "question": "Por que se deve evitar o uso de 'Spray de Brilho' (silicone) nos pneus?",
+            "options": [
+                "Porque o pneu fica muito pesado",
+                "O produto pode escorrer para a banda de rodagem e causar queda imediata por falta de atrito",
+                "Porque o pneu fica amarelado",
+                "Porque atrai muitos insetos"
+            ],
+            "correct": 1,
+            "category": "seguranca",
+            "level": "iniciante",
+            "explanation": "Estética nunca deve vir antes da segurança. Silicone nas laterais pode migrar para a área de contacto e tornar o pneu 'sabão'."
+        },
+        {
+            "id": 356,
+            "question": "O que significa a configuração de motor 'Crossplane' (famosa na Yamaha R1)?",
+            "options": [
+                "Que o motor é em forma de cruz",
+                "Um virabrequim com intervalos de ignição de 90 graus, eliminando oscilações de torque inercial",
+                "Um motor que funciona com dois combustíveis",
+                "Uma suspensão especial"
+            ],
+            "correct": 1,
+            "category": "tecnologia",
+            "level": "avancado",
+            "explanation": "Essa tecnologia melhora a conexão entre o punho do piloto e a tração do pneu traseiro, dando mais controle em curvas."
+        },
+        {
+            "id": 357,
+            "question": "Qual o perigo de usar 'Parafusos de Aço Inox' em pinças de travão de alumínio?",
+            "options": [
+                "Ficam muito brilhantes e distraem",
+                "A corrosão galvânica pode fazer o parafuso 'soldar' permanentemente no alumínio",
+                "O inox é muito frágil para travões",
+                "Não há perigo nenhum"
+            ],
+            "correct": 1,
+            "category": "manutencao",
+            "level": "avancado",
+            "explanation": "Metais diferentes em contacto geram uma reação química que pode travar a rosca, exigindo a destruição da pinça para remoção."
+        },
+        {
+            "id": 358,
+            "question": "Como identificar uma 'Corrente de Transmissão' com elos travados?",
+            "options": [
+                "A moto fica mais silenciosa",
+                "A corrente apresenta 'dentes' ou dobras permanentes mesmo sob tensão",
+                "A moto corre mais",
+                "A embreagem fica mais macia"
+            ],
+            "correct": 1,
+            "category": "manutencao",
+            "level": "intermediario",
+            "explanation": "Elos travados causam vibração, barulho e podem levar ao rompimento da corrente, além de danificar o retentor do câmbio."
+        },
+        {
+            "id": 359,
+            "question": "O que é a 'Zona de Visão Periférica' e como ela é afetada pela velocidade?",
+            "options": [
+                "A visão lateral; ela aumenta quanto mais rápido corremos",
+                "A visão lateral; ela diminui (efeito túnel) conforme a velocidade aumenta",
+                "A visão do que está atrás",
+                "A visão noturna"
+            ],
+            "correct": 1,
+            "category": "seguranca",
+            "level": "intermediario",
+            "explanation": "Em alta velocidade, o cérebro foca apenas no centro. Isso impede que o piloto perceba perigos vindos das laterais, como animais ou carros."
+        },
+        {
+            "id": 360,
+            "question": "Qual a principal vantagem de rodas 'Forjadas' em relação às 'Fundidas'?",
+            "options": [
+                "São mais pesadas e estáveis",
+                "São muito mais leves e resistentes, melhorando a agilidade e aceleração",
+                "São mais baratas",
+                "Podem ser pintadas de qualquer cor"
+            ],
+            "correct": 1,
+            "category": "tecnologia",
+            "level": "avancado",
+            "explanation": "Rodas forjadas reduzem a inércia rotacional, permitindo que a moto mude de direção e trave com muito menos esforço."
+        },
+        {
+            "id": 361,
+            "question": "O que acontece se as 'Válvulas de Escape' estiverem com folga zero (presas)?",
+            "options": [
+                "O motor fica mais potente em altas rotações",
+                "A válvula não fecha totalmente, podendo 'queimar' a sede e causar perda de compressão",
+                "O motor consome menos combustível",
+                "O som do escapamento fica mais grave"
+            ],
+            "correct": 1,
+            "category": "mecanica",
+            "level": "avancado",
+            "explanation": "Válvulas presas são perigosas porque não dissipam calor na sede e impedem a vedação perfeita do cilindro, impedindo o motor de ligar quando quente."
+        },
+        {
+            "id": 362,
+            "question": "O sistema 'Slipper Clutch' (Embraiagem Deslizante) tem como principal função:",
+            "options": [
+                "Permitir que a embraiagem dure mais tempo",
+                "Evitar o travamento da roda traseira em reduções bruscas de marcha",
+                "Aumentar a velocidade final da moto",
+                "Deixar o pedal de câmbio mais macio"
+            ],
+            "correct": 1,
+            "category": "tecnologia",
+            "level": "avancado",
+            "explanation": "Em reduções fortes, a roda traseira tenta girar o motor mais rápido do que ele consegue. A embraiagem deslizante 'desliza' para evitar que a roda salte ou trave."
+        },
+        {
+            "id": 363,
+            "question": "Qual é a principal função do componente 'Esticador da Corrente de Comando'?",
+            "options": [
+                "Manter a corrente de transmissão lubrificada",
+                "Manter a tensão correta da corrente interna que liga o virabrequim ao comando de válvulas",
+                "Ajustar a altura da suspensão",
+                "Esticar o cabo do acelerador"
+            ],
+            "correct": 1,
+            "category": "mecanica",
+            "level": "intermediario",
+            "explanation": "Se este esticador falhar, a corrente de comando pode saltar dentes, resultando no atropelamento das válvulas pelos pistões e destruição do motor."
+        },
+        {
+            "id": 364,
+            "question": "Em capacetes, o que significa a certificação 'ECE 22.06'?",
+            "options": [
+                "Que o capacete é fabricado na China",
+                "O padrão de segurança europeu mais moderno, que inclui testes de impacto rotacional e em acessórios",
+                "Que o capacete é apenas para uso urbano",
+                "Indica o peso máximo do capacete"
+            ],
+            "correct": 1,
+            "category": "equipamentos",
+            "level": "avancado",
+            "explanation": "A norma 22.06 é muito mais rigorosa que a antiga 22.05, testando o capacete em mais pontos e com diferentes velocidades de impacto."
+        },
+        {
+            "id": 365,
+            "question": "O que é o fenômeno 'Fading' nos travões?",
+            "options": [
+                "Quando as pastilhas acabam totalmente",
+                "A perda de eficiência de travagem causada pelo superaquecimento do fluido ou das pastilhas",
+                "O barulho que o travão faz na chuva",
+                "O desgaste irregular do disco"
+            ],
+            "correct": 1,
+            "category": "seguranca",
+            "level": "intermediario",
+            "explanation": "O calor excessivo faz com que o fluido de travão crie bolhas ou que o material da pastilha perca atrito, deixando o manete 'borrachudo' ou ineficiente."
+        },
+        {
+            "id": 366,
+            "question": "O sensor de oxigénio conhecido como 'Sonda Lambda' fica localizado em que parte?",
+            "options": [
+                "No filtro de ar",
+                "No coletor de escape",
+                "Dentro do tanque de combustível",
+                "No radiador"
+            ],
+            "correct": 1,
+            "category": "mecanica",
+            "level": "intermediario",
+            "explanation": "Ela lê a quantidade de oxigénio nos gases de escape para que a injeção eletrónica ajuste a mistura ar/combustível em tempo real."
+        },
+        {
+            "id": 367,
+            "question": "Qual o principal perigo de pilotar com o 'Óleo do Motor' acima do nível máximo?",
+            "options": [
+                "A moto fica mais pesada",
+                "O excesso de pressão pode romper retentores e fazer o óleo invadir a caixa de ar através do respiro",
+                "O motor arrefece melhor",
+                "Não há perigo, quanto mais óleo melhor"
+            ],
+            "correct": 1,
+            "category": "manutencao",
+            "level": "intermediario",
+            "explanation": "O excesso de óleo causa sobrepressão no cárter, podendo forçar passagens indesejadas e até causar o 'calço hidráulico' se entrar na combustão."
+        },
+        {
+            "id": 368,
+            "question": "O que é o sistema 'Ride-by-Wire'?",
+            "options": [
+                "Um cabo de acelerador reforçado com aço",
+                "Acelerador eletrónico, onde não há cabo físico entre o punho e a borboleta de admissão",
+                "Um sistema de GPS integrado",
+                "Controle de rádio para comunicação entre pilotos"
+            ],
+            "correct": 1,
+            "category": "tecnologia",
+            "level": "avancado",
+            "explanation": "Sensores no punho enviam sinais para a ECU, que decide a abertura ideal da borboleta, permitindo modos de condução e controle de tração precisos."
+        },
+        {
+            "id": 369,
+            "question": "Qual a finalidade das 'Ranhuras' (sulcos) na banda de rodagem de um pneu de rua?",
+            "options": [
+                "Aumentar o atrito no asfalto seco",
+                "Drenar a água para evitar a aquaplanagem",
+                "Deixar o pneu mais bonito",
+                "Indicar a marca do pneu"
+            ],
+            "correct": 1,
+            "category": "pilotagem",
+            "level": "iniciante",
+            "explanation": "Em piso seco, um pneu liso (slick) tem mais aderência. Os sulcos servem exclusivamente para abrir caminho na água em dias de chuva."
+        },
+        {
+            "id": 370,
+            "question": "O que significa 'Massa Suspensa' em uma moto?",
+            "options": [
+                "Tudo o que está apoiado sobre as molas (quadro, motor, piloto, tanque)",
+                "O peso das rodas e pneus",
+                "A suspensão que foi retirada da moto",
+                "O peso da corrente"
+            ],
+            "correct": 0,
+            "category": "mecanica",
+            "level": "avancado",
+            "explanation": "A massa suspensa é protegida pelas molas e amortecedores. O equilíbrio entre massa suspensa e não suspensa define o conforto da moto."
+        },
+        {
+            "id": 371,
+            "question": "Qual é a função do 'TBI' (Throttle Body Injection) num motor injetado?",
+            "options": [
+                "Filtrar o combustível",
+                "Controlar a entrada de ar no motor através de uma borboleta",
+                "Gerar a faísca para a vela",
+                "Armazenar os mapas de injeção"
+            ],
+            "correct": 1,
+            "category": "mecanica",
+            "level": "intermediario",
+            "explanation": "O corpo de borboleta é o sucessor do carburador; ele regula quanto ar entra conforme o piloto acelera."
+        },
+        {
+            "id": 372,
+            "question": "Por que é perigoso usar 'Pneus de Composto Macio' (Track Day) em viagens longas na chuva?",
+            "options": [
+                "Eles furam com mais facilidade",
+                "Eles não atingem a temperatura ideal de funcionamento em piso molhado, tornando-se escorregadios",
+                "Eles são proibidos por lei",
+                "Eles fazem a moto vibrar"
+            ],
+            "correct": 1,
+            "category": "seguranca",
+            "level": "avancado",
+            "explanation": "Pneus de alta performance precisam de muito calor para 'colar'. Na chuva e no vento, eles arrefecem e perdem a aderência drasticamente."
+        },
+        {
+            "id": 373,
+            "question": "O componente eletrónico 'IMU' (Inertial Measurement Unit) serve para:",
+            "options": [
+                "Medir a quilometragem total",
+                "Monitorar a posição da moto em 6 eixos (inclinação, aceleração, guinada) para auxiliar o ABS e TC",
+                "Tocar música via Bluetooth",
+                "Localizar a moto em caso de roubo"
+            ],
+            "correct": 1,
+            "category": "tecnologia",
+            "level": "avancado",
+            "explanation": "A IMU permite o 'Cornering ABS', que sabe exatamente quanta pressão de travão aplicar mesmo com a moto inclinada em curva."
+        },
+        {
+            "id": 374,
+            "question": "O que indica o 'Tread Wear Indicator' (TWI) no pneu?",
+            "options": [
+                "A data de fabricação",
+                "Pequenos ressaltos nos sulcos que indicam o limite legal de desgaste (1,6 mm)",
+                "A pressão máxima sugerida",
+                "O sentido de rotação"
+            ],
+            "correct": 1,
+            "category": "manutencao",
+            "level": "iniciante",
+            "explanation": "Quando a banda de rodagem atinge o nível do ressalto TWI, o pneu é considerado careca e deve ser substituído imediatamente."
+        },
+        {
+            "id": 375,
+            "question": "Qual é a principal função dos 'Anéis de Segmento' no pistão?",
+            "options": [
+                "Segurar o pino do pistão",
+                "Vedar a compressão, raspar o excesso de óleo e trocar calor com a parede do cilindro",
+                "Aumentar o peso do pistão para dar inércia",
+                "Evitar que a biela entorte"
+            ],
+            "correct": 1,
+            "category": "mecanica",
+            "level": "avancado",
+            "explanation": "Sem anéis em bom estado, o motor perde força (vazamento de compressão) e começa a queimar óleo (fumaça azul)."
+        },
+        {
+            "id": 376,
+            "question": "O que caracteriza uma suspensão traseira do tipo 'Monochoque'?",
+            "options": [
+                "Não possui amortecedor",
+                "Utiliza apenas um amortecedor central, geralmente ligado por links",
+                "Usa dois amortecedores laterais",
+                "É uma suspensão rígida"
+            ],
+            "correct": 1,
+            "category": "tecnologia",
+            "level": "intermediario",
+            "explanation": "O monochoque centraliza as massas e permite um curso de suspensão mais progressivo e eficiente do que o sistema bi-choque tradicional."
+        },
+        {
+            "id": 377,
+            "question": "Em caso de 'Aquaplanagem', qual deve ser a reação imediata do piloto?",
+            "options": [
+                "Travar o travão traseiro com força",
+                "Manter o acelerador fixo ou aliviar suavemente e manter o guiador reto, sem travar",
+                "Virar o guiador rapidamente para os lados",
+                "Inclinar a moto para o lado"
+            ],
+            "correct": 1,
+            "category": "seguranca",
+            "level": "intermediario",
+            "explanation": "Qualquer entrada brusca (travagem ou viragem) enquanto o pneu flutua na água causará queda assim que ele retomar o contacto com o asfalto."
+        },
+        {
+            "id": 378,
+            "question": "O termo 'Octanagem' da gasolina refere-se a:",
+            "options": [
+                "Quanto mais rápida a gasolina queima",
+                "A capacidade do combustível de resistir à autoignição (detonação) sob pressão",
+                "A quantidade de álcool na mistura",
+                "A cor do combustível"
+            ],
+            "correct": 1,
+            "category": "mecanica",
+            "level": "avancado",
+            "explanation": "Motores de alta compressão exigem gasolina de maior octanagem para evitar a 'batida de pino', que pode furar o pistão."
+        },
+        {
+            "id": 379,
+            "question": "Para que serve o 'Radiador de Óleo'?",
+            "options": [
+                "Para esquentar o óleo no inverno",
+                "Para baixar a temperatura do lubrificante antes de ele retornar às partes móveis do motor",
+                "Para filtrar as impurezas metálicas",
+                "Para aumentar a pressão do sistema"
+            ],
+            "correct": 1,
+            "category": "mecanica",
+            "level": "intermediario",
+            "explanation": "O óleo também ajuda no arrefecimento interno. O radiador garante que ele não perca a viscosidade por excesso de calor."
+        },
+        {
+            "id": 380,
+            "question": "Qual é a vantagem do sistema de travões 'ABS Pro' (ou Cornering ABS)?",
+            "options": [
+                "Permite travar em distâncias muito menores em retas",
+                "Modula a pressão dos travões levando em conta a inclinação da moto em curvas",
+                "Faz o travão durar mais",
+                "Impede que o pneu fure"
+            ],
+            "correct": 1,
+            "category": "tecnologia",
+            "level": "avancado",
+            "explanation": "Diferente do ABS comum, este sistema evita que a moto 'levante' ou que a frente escorregue se o piloto travar bruscamente dentro de uma curva."
+        },
+        {
+            "id": 381,
+            "question": "O que define o 'Rake' (ou ângulo de cáster) de uma motocicleta?",
+            "options": [
+                "A largura do guiador",
+                "O ângulo entre o eixo da coluna de direção e uma linha vertical imaginária",
+                "A distância entre os eixos das rodas",
+                "A inclinação do amortecedor traseiro"
+            ],
+            "correct": 1,
+            "category": "mecanica",
+            "level": "avancado",
+            "explanation": "Um ângulo de Rake menor (mais vertical) torna a moto mais ágil para curvas, enquanto um ângulo maior (como nas Choppers) privilegia a estabilidade em retas."
+        },
+        {
+            "id": 382,
+            "question": "O que é a 'Cavitação' na bomba de água ou suspensão?",
+            "options": [
+                "O acúmulo de sujeira no filtro",
+                "A formação de bolhas de vapor num líquido devido a mudanças rápidas de pressão, reduzindo a eficiência",
+                "O congelamento do líquido de arrefecimento",
+                "Um tipo de lubrificação especial"
+            ],
+            "correct": 1,
+            "category": "mecanica",
+            "level": "avancado",
+            "explanation": "A cavitação pode corroer as pás da bomba de água e causar perda de amortecimento na suspensão quando o óleo passa muito rápido pelas válvulas."
+        },
+        {
+            "id": 383,
+            "question": "Para viajar de moto pelos países do Mercosul, qual documento de seguro é obrigatório?",
+            "options": [
+                "Seguro DPVAT",
+                "Carta Verde",
+                "Seguro de Vida Individual",
+                "Basta o seguro compreensivo particular"
+            ],
+            "correct": 1,
+            "category": "legislacao",
+            "level": "intermediario",
+            "explanation": "A Carta Verde é um seguro de responsabilidade civil obrigatório para cobrir danos causados a terceiros em países estrangeiros do Mercosul."
+        },
+        {
+            "id": 384,
+            "question": "O que é o 'Efeito de Autocentragem' em uma moto em movimento?",
+            "options": [
+                "A moto ligar sozinha",
+                "A tendência natural da moto de alinhar o guiador e ficar em pé devido à geometria e rotação das rodas",
+                "O controle de tração eletrónico",
+                "A moto parar de acelerar ao soltar o punho"
+            ],
+            "correct": 1,
+            "category": "pilotagem",
+            "level": "avancado",
+            "explanation": "Graças ao 'Trail' e ao efeito giroscópico, a moto tende a manter-se em linha reta. É por isso que ela não cai imediatamente se soltarmos o guiador em velocidade."
+        },
+        {
+            "id": 385,
+            "question": "Qual a principal função do 'Filtro de Carvão Ativado' (Canister) nas motos modernas?",
+            "options": [
+                "Filtrar o ar que entra no motor",
+                "Absorver e reaproveitar os vapores de combustível do tanque, reduzindo a poluição",
+                "Limpar o óleo do motor",
+                "Filtrar as impurezas da gasolina"
+            ],
+            "correct": 1,
+            "category": "mecanica",
+            "level": "intermediario",
+            "explanation": "O Canister evita que vapores de gasolina sejam liberados na atmosfera, enviando-os para serem queimados dentro do motor."
+        },
+        {
+            "id": 386,
+            "question": "O que significa o termo 'Low-side'?",
+            "options": [
+                "Uma queda onde a moto escorrega para baixo do piloto devido à perda de aderência de um dos pneus",
+                "Uma queda onde o piloto é lançado por cima da moto",
+                "Quando a moto tomba parada para o lado esquerdo",
+                "Pilotar em baixas rotações"
+            ],
+            "correct": 0,
+            "category": "seguranca",
+            "level": "intermediario",
+            "explanation": "No Low-side, os pneus perdem o atrito e a moto 'deita' no asfalto. É geralmente menos violenta que o High-side, pois o piloto desliza atrás da moto."
+        },
+        {
+            "id": 387,
+            "question": "Em um sistema de 'Cárter Seco', onde fica armazenado o óleo do motor?",
+            "options": [
+                "No fundo do motor, como nos carros",
+                "Em um reservatório externo separado",
+                "Dentro do filtro de óleo",
+                "Não existe armazenamento, o óleo é consumido"
+            ],
+            "correct": 1,
+            "category": "mecanica",
+            "level": "avancado",
+            "explanation": "Motores de cárter seco permitem que o motor seja mais baixo e garantem lubrificação constante mesmo em inclinações extremas ou saltos."
+        },
+        {
+            "id": 388,
+            "question": "A técnica de 'Pivot Turn' no Off-road consiste em:",
+            "options": [
+                "Fazer uma curva usando o descanso lateral",
+                "Girar a moto sobre o próprio eixo traseiro usando a potência do motor e o equilíbrio nas pedaleiras",
+                "Travar as duas rodas até a moto parar",
+                "Saltar com as duas rodas ao mesmo tempo"
+            ],
+            "correct": 1,
+            "category": "pilotagem",
+            "level": "avancado",
+            "explanation": "É uma manobra avançada para inverter o sentido da moto em espaços muito estreitos em trilhas."
+        },
+        {
+            "id": 389,
+            "question": "Qual o principal componente de um pneu que garante a sua estrutura e forma?",
+            "options": [
+                "A borracha externa",
+                "A carcaça (feita de lonas de poliéster, nylon ou aço)",
+                "O bico de enchimento",
+                "Os sulcos de drenagem"
+            ],
+            "correct": 1,
+            "category": "manutencao",
+            "level": "intermediario",
+            "explanation": "A borracha fornece apenas o atrito; quem suporta o peso e a pressão é a carcaça interna."
+        },
+        {
+            "id": 390,
+            "question": "O que é 'Curso Negativo' (Sag) da suspensão?",
+            "options": [
+                "Quando a suspensão bate no fundo",
+                "A quantidade que a suspensão comprime apenas com o peso da moto e do piloto",
+                "Quando a suspensão não funciona",
+                "A altura total da moto"
+            ],
+            "correct": 1,
+            "category": "pilotagem",
+            "level": "avancado",
+            "explanation": "O Sag é vital para que, ao passar por um buraco, a roda 'desça' e mantenha o contacto com o solo em vez de perder tração no ar."
+        },
+        {
+            "id": 391,
+            "question": "O que causa o 'Escurecimento do Fluido de Travão'?",
+            "options": [
+                "A luz do sol",
+                "Contaminação por humidade e oxidação dos componentes internos do sistema",
+                "O uso constante do travão motor",
+                "O tipo de pastilha usada"
+            ],
+            "correct": 1,
+            "category": "manutencao",
+            "level": "intermediario",
+            "explanation": "O fluido de travão é higroscópico (absorve água). O escurecimento indica que ele perdeu suas propriedades e deve ser trocado."
+        },
+        {
+            "id": 392,
+            "question": "Qual a função do 'Sensor de Detonação' (Knock Sensor) em motores de alta performance?",
+            "options": [
+                "Avisar se a moto vai explodir",
+                "Detectar vibrações anormais (batida de pino) e atrasar o ponto de ignição para proteger o motor",
+                "Medir a temperatura do escape",
+                "Controle de velocidade de cruzeiro"
+            ],
+            "correct": 1,
+            "category": "tecnologia",
+            "level": "avancado",
+            "explanation": "Ele atua como um 'ouvido' eletrónico, ajustando o motor para evitar danos causados por combustível de baixa octanagem."
+        },
+        {
+            "id": 393,
+            "question": "O que caracteriza o sistema de transmissão por 'Cardan'?",
+            "options": [
+                "Usa uma correia de borracha",
+                "Usa um eixo rígido e engrenagens para transmitir a força para a roda traseira",
+                "Exige lubrificação a cada 500 km",
+                "É o sistema mais leve que existe"
+            ],
+            "correct": 1,
+            "category": "mecanica",
+            "level": "intermediario",
+            "explanation": "O cardan é extremamente robusto e exige baixíssima manutenção, sendo ideal para motos de turismo (Touring)."
+        },
+        {
+            "id": 394,
+            "question": "Qual é a principal vantagem de 'Velas de Iridio' (Iridium) em relação às comuns?",
+            "options": [
+                "São mais baratas",
+                "Possuem um eletrodo central muito fino, exigindo menos voltagem e gerando uma faísca mais estável",
+                "Não precisam ser trocadas nunca",
+                "Aumentam a cilindrada do motor"
+            ],
+            "correct": 1,
+            "category": "manutencao",
+            "level": "intermediario",
+            "explanation": "A dureza do irídio permite um eletrodo mais pontiagudo, o que melhora a queima de combustível e a resposta do acelerador."
+        },
+        {
+            "id": 395,
+            "question": "O termo 'Apex' (Ápice) de uma curva refere-se a:",
+            "options": [
+                "O ponto mais externo da curva",
+                "O ponto mais interno da trajetória, onde a moto está mais próxima da borda interna da pista",
+                "O início da frenagem",
+                "A saída da curva"
+            ],
+            "correct": 1,
+            "category": "pilotagem",
+            "level": "intermediario",
+            "explanation": "Atingir o ápice corretamente permite que o piloto faça a curva com o maior raio possível, mantendo mais velocidade e segurança."
+        },
+        {
+            "id": 396,
+            "question": "O que é o 'Efeito de Memória' em baterias de chumbo-ácido de motocicletas?",
+            "options": [
+                "A bateria 'esquece' a carga se ficar no sol",
+                "Diferente das pilhas antigas, essas baterias NÃO possuem efeito memória; elas apenas se desgastam quimicamente",
+                "A bateria dura mais se for carregada pela metade",
+                "É a capacidade de ligar a moto sem chave"
+            ],
+            "correct": 1,
+            "category": "manutencao",
+            "level": "avancado",
+            "explanation": "Baterias de moto sofrem com sulfatação se ficarem descarregadas, mas o 'efeito memória' é um mito para este tipo de tecnologia."
+        },
+        {
+            "id": 397,
+            "question": "Qual a função da 'Caixa de Ar' (Airbox) além de segurar o filtro?",
+            "options": [
+                "Não tem outra função",
+                "Atuar como uma câmara de ressonância para estabilizar o fluxo de ar e reduzir o ruído de admissão",
+                "Esquentar o ar antes de entrar no motor",
+                "Guardar as ferramentas da moto"
+            ],
+            "correct": 1,
+            "category": "mecanica",
+            "level": "avancado",
+            "explanation": "O volume da caixa de ar é calculado para que o motor tenha sempre uma reserva de ar 'calmo' e disponível para acelerações rápidas."
+        },
+        {
+            "id": 398,
+            "question": "Por que se deve evitar travar o 'Travão Dianteiro' com a moto inclinada em piso molhado?",
+            "options": [
+                "Porque o travão pode congelar",
+                "O limite de aderência é reduzido pela inclinação; travar pode causar o fechamento imediato da frente",
+                "Porque estraga o disco de travão",
+                "O travão dianteiro não funciona na chuva"
+            ],
+            "correct": 1,
+            "category": "seguranca",
+            "level": "intermediario",
+            "explanation": "Em curva, parte do atrito do pneu é usado para fazer a moto virar. Se usar o travão bruscamente, o pneu excede o limite e escorrega."
+        },
+        {
+            "id": 399,
+            "question": "O sistema 'TCS' (Traction Control System) atua principalmente:",
+            "options": [
+                "Aumentando a potência do motor",
+                "Monitorando a diferença de velocidade entre as rodas e cortando o torque se a traseira girar em falso",
+                "Travando a roda dianteira",
+                "Avisando quando o pneu está careca"
+            ],
+            "correct": 1,
+            "category": "tecnologia",
+            "level": "intermediario",
+            "explanation": "O controle de tração evita que a roda traseira deslize em acelerações sobre pisos escorregadios ou saídas de curva agressivas."
+        },
+        {
+            "id": 400,
+            "question": "Qual a principal causa da 'Morte Térmica' de um capacete?",
+            "options": [
+                "Deixá-lo cair no chão",
+                "Exposição constante ao sol e calor excessivo dentro de baús, que resseca o isopor (EPS) e o casco",
+                "Lavar o forro com shampoo",
+                "Usar o capacete por mais de 2 horas seguidas"
+            ],
+            "correct": 1,
+            "category": "equipamentos",
+            "level": "intermediario",
+            "explanation": "O calor extremo altera a estrutura molecular do EPS, fazendo com que ele perca a capacidade de absorver impactos em caso de acidente."
+        },
+        {
+            "id": 401,
+            "question": "O que indica a 'Cor da Faísca' de uma vela de ignição ao ser testada fora do motor?",
+            "options": [
+                "Azul forte indica boa intensidade; amarela ou avermelhada indica faísca fraca",
+                "Verde indica que o combustível está limpo",
+                "Branca indica que a bateria está sobrecarregada",
+                "A cor não tem relação com a qualidade da faísca"
+            ],
+            "correct": 0,
+            "category": "manutencao",
+            "level": "avancado",
+            "explanation": "Uma faísca azulada tem temperatura e energia suficientes para iniciar a combustão. Faíscas amareladas indicam fuga de corrente ou bobina/cabo desgastados."
+        },
+        {
+            "id": 402,
+            "question": "Qual a principal diferença entre um motor 'Long Stroke' (curso longo) e um 'Short Stroke' (curso curto)?",
+            "options": [
+                "O Short Stroke é exclusivo para motos custom",
+                "O Long Stroke privilegia torque em baixas rotações; o Short Stroke permite rotações mais altas e potência",
+                "Apenas o tamanho do pistão muda",
+                "Motores Long Stroke não usam óleo"
+            ],
+            "correct": 1,
+            "category": "mecanica",
+            "level": "avancado",
+            "explanation": "Pistões que percorrem distâncias menores (Short Stroke) sofrem menos estresse linear, permitindo que o motor gire a 14.000 RPM ou mais."
+        },
+        {
+            "id": 403,
+            "question": "Em suspensões eletrônicas, o que é o sistema 'Semiativo'?",
+            "options": [
+                "O piloto precisa ajustar com uma ferramenta manual",
+                "Sensores monitoram o terreno e ajustam as válvulas de amortecimento em milissegundos durante a condução",
+                "Uma suspensão que só funciona na roda traseira",
+                "Um sistema que endurece a suspensão quando a moto desliga"
+            ],
+            "correct": 1,
+            "category": "tecnologia",
+            "level": "avancado",
+            "explanation": "O sistema semiativo adapta a moto instantaneamente para uma frenagem (endurecendo a frente) ou para um buraco, otimizando o conforto e o controle."
+        },
+        {
+            "id": 404,
+            "question": "O que caracteriza o 'Desgaste Escalonado' (cupping) no pneu dianteiro?",
+            "options": [
+                "O pneu fica perfeitamente liso",
+                "As bordas dos sulcos ficam em níveis diferentes, causando vibração e ruído em curvas",
+                "O pneu fura com facilidade",
+                "A borracha muda de cor"
+            ],
+            "correct": 1,
+            "category": "manutencao",
+            "level": "intermediario",
+            "explanation": "Geralmente causado por suspensão mal ajustada ou pressão incorreta, o cupping faz com que o pneu pareça 'serrilhado' ao passar a mão."
+        },
+        {
+            "id": 405,
+            "question": "Qual a função do 'Esticador Automático' da corrente de comando?",
+            "options": [
+                "Lavar a corrente com óleo",
+                "Manter a tensão constante da corrente interna, compensando o desgaste e evitando que o motor saia do ponto",
+                "Aumentar a pressão dos pneus",
+                "Travar as rodas em caso de queda"
+            ],
+            "correct": 1,
+            "category": "mecanica",
+            "level": "intermediario",
+            "explanation": "Sem a tensão correta, a corrente de comando 'bate', podendo pular dentes nas engrenagens e causar o atropelamento das válvulas pelo pistão."
+        },
+        {
+            "id": 406,
+            "question": "O que é o 'Efeito Torque de Reação' em motos com motor longitudinal (ex: BMW Boxer ou Moto Guzzi)?",
+            "options": [
+                "A moto acelera sozinha",
+                "A tendência da moto de inclinar levemente para o lado ao dar uma acelerada brusca com ela parada",
+                "O travamento do câmbio",
+                "A quebra da corrente"
+            ],
+            "correct": 1,
+            "category": "pilotagem",
+            "level": "avancado",
+            "explanation": "Como o virabrequim gira longitudinalmente à moto, a força de inércia da aceleração gera uma reação física que empurra o chassi lateralmente."
+        },
+        {
+            "id": 407,
+            "question": "Em uma descida de serra com 'neblina intensa', qual a posição ideal na pista?",
+            "options": [
+                "Bem rente ao acostamento",
+                "No rastro (linha) deixado pelo pneu traseiro de um carro à frente, mantendo distância segura",
+                "Exatamente sobre a faixa amarela central",
+                "Ziguezagueando para ser visto"
+            ],
+            "correct": 1,
+            "category": "seguranca",
+            "level": "intermediario",
+            "explanation": "Seguir o rastro do carro ajuda a 'limpar' o caminho de detritos e serve como guia visual, desde que mantida a distância para evitar colisões."
+        },
+        {
+            "id": 408,
+            "question": "O componente 'TPS' (Throttle Position Sensor) informa à central eletrônica:",
+            "options": [
+                "A temperatura do motor",
+                "A posição exata de abertura da borboleta de aceleração",
+                "A pressão do pneu traseiro",
+                "Se a luz de freio está acesa"
+            ],
+            "correct": 1,
+            "category": "tecnologia",
+            "level": "avancado",
+            "explanation": "O TPS é crucial para que a ECU saiba quanta carga o piloto está exigindo e possa calcular o tempo de injeção e o avanço da ignição."
+        },
+        {
+            "id": 409,
+            "question": "O que significa 'Ponto de Ebulição a Seco' do fluido de freio?",
+            "options": [
+                "A temperatura em que o fluido ferve quando está novo, sem nenhuma contaminação por água",
+                "Quando o freio para de funcionar no deserto",
+                "O tempo que o fluido leva para secar na mão",
+                "A temperatura máxima da pastilha"
+            ],
+            "correct": 0,
+            "category": "manutencao",
+            "level": "avancado",
+            "explanation": "Conforme o fluido absorve umidade (fica 'úmido'), seu ponto de ebulição cai drasticamente, facilitando o surgimento de bolhas de ar (fading)."
+        },
+        {
+            "id": 410,
+            "question": "Qual é a principal função do 'Cush Drive' (borrachas de cubo) na roda traseira?",
+            "options": [
+                "Deixar a roda mais bonita",
+                "Amortecer os impactos da transmissão de potência entre a coroa e a roda, protegendo o câmbio",
+                "Evitar que o pneu fure",
+                "Aumentar a velocidade final"
+            ],
+            "correct": 1,
+            "category": "mecanica",
+            "level": "intermediario",
+            "explanation": "Esses coxins de borracha absorvem o 'tranco' da corrente, tornando a pilotagem mais suave e evitando quebras de engrenagens do motor."
+        },
+        {
+            "id": 411,
+            "question": "Em capacetes de policarbonato, por que deve-se evitar aplicar adesivos comuns?",
+            "options": [
+                "Porque ficam feios com o tempo",
+                "Os solventes da cola podem reagir quimicamente com o casco, enfraquecendo a estrutura de proteção",
+                "Porque o adesivo aumenta muito o peso",
+                "Não há restrição, pode-se adesivar livremente"
+            ],
+            "correct": 1,
+            "category": "equipamentos",
+            "level": "intermediario",
+            "explanation": "Plásticos de engenharia são sensíveis a certos produtos químicos. Adesivos não certificados podem criar pontos de fragilidade no casco."
+        },
+        {
+            "id": 412,
+            "question": "O que indica a sigla 'VVA' ou 'VTEC' em alguns motores de moto?",
+            "options": [
+                "Que a moto tem 5 válvulas",
+                "Comando de válvulas variável, que altera o tempo ou a abertura das válvulas para otimizar torque e potência",
+                "Um sistema de som integrado",
+                "Que o motor é movido a eletricidade"
+            ],
+            "correct": 1,
+            "category": "tecnologia",
+            "level": "avancado",
+            "explanation": "Esses sistemas permitem que o motor seja econômico e dócil em baixas rotações, mas 'bravo' e potente em altas rotações."
+        },
+        {
+            "id": 413,
+            "question": "Por que é perigoso 'completar' o fluido de freio quando o nível está baixo (sem vazamentos)?",
+            "options": [
+                "Porque o fluido novo estraga o velho",
+                "O nível baixo indica desgaste das pastilhas; ao completá-lo, você perde esse aviso visual e pode transbordar ao trocar as pastilhas",
+                "Porque o reservatório pode explodir",
+                "O fluido de freio nunca deve ser trocado"
+            ],
+            "correct": 1,
+            "category": "manutencao",
+            "level": "intermediario",
+            "explanation": "Se não há vazamento, o nível desce porque os pistões da pinça avançaram para compensar o desgaste das pastilhas. É um indicador de manutenção."
+        },
+        {
+            "id": 414,
+            "question": "O que é 'Efeito Doppler' aplicado à segurança do motociclista?",
+            "options": [
+                "A mudança na percepção do som do motor por pedestres e motoristas conforme a moto se aproxima ou se afasta",
+                "A mudança de cor da moto no escuro",
+                "A estabilidade da moto em ventos fortes",
+                "A frenagem em curvas"
+            ],
+            "correct": 0,
+            "category": "seguranca",
+            "level": "avancado",
+            "explanation": "Motoristas podem subestimar a velocidade da moto porque o som agudo só é percebido plenamente quando a moto já está muito próxima."
+        },
+        {
+            "id": 415,
+            "question": "Qual a principal causa do 'Azulamento' excessivo das curvas do escapamento?",
+            "options": [
+                "Excesso de lavagem da moto",
+                "Mistura ar-combustível muito pobre (muito ar) ou superaquecimento extremo",
+                "Uso de gasolina aditivada",
+                "É apenas uma característica estética normal de todas as motos"
+            ],
+            "correct": 1,
+            "category": "manutencao",
+            "level": "intermediario",
+            "explanation": "Embora um leve amarelamento seja normal em escapes de inox, o azulamento profundo indica que a temperatura de combustão está acima do ideal."
+        },
+        {
+            "id": 416,
+            "question": "O que é o 'Ponto Morto Superior' (PMS) de um motor?",
+            "options": [
+                "Quando a moto está desligada",
+                "A posição mais alta que o pistão atinge dentro do cilindro durante o seu ciclo",
+                "Quando a marcha neutra está engatada",
+                "O limite de giro do motor"
+            ],
+            "correct": 1,
+            "category": "mecanica",
+            "level": "avancado",
+            "explanation": "O PMS é a referência usada para ajustar o tempo de ignição e a folga de válvulas."
+        },
+        {
+            "id": 417,
+            "question": "Como o 'Vento Frontal' constante afeta o consumo de combustível e a mecânica?",
+            "options": [
+                "Melhora o consumo porque esfria o motor",
+                "Aumenta drasticamente o consumo e exige mais esforço do motor para manter a velocidade",
+                "Não tem influência no consumo",
+                "Faz a corrente durar mais"
+            ],
+            "correct": 1,
+            "category": "pilotagem",
+            "level": "iniciante",
+            "explanation": "O vento frontal aumenta o arrasto aerodinâmico. Em viagens, um vento forte pode reduzir a autonomia da moto em até 30%."
+        },
+        {
+            "id": 418,
+            "question": "Qual o componente responsável por transformar a 'baixa voltagem' da bateria em 'alta voltagem' para a vela?",
+            "options": [
+                "O retificador",
+                "A bobina de ignição",
+                "O estator",
+                "O fusível principal"
+            ],
+            "correct": 1,
+            "category": "mecanica",
+            "level": "intermediario",
+            "explanation": "A bobina funciona como um transformador, elevando 12V para mais de 20.000V para que a faísca consiga saltar o eletrodo da vela."
+        },
+        {
+            "id": 419,
+            "question": "O que caracteriza a suspensão dianteira 'Telelever' (usada em motos BMW)?",
+            "options": [
+                "Não usa óleo",
+                "Separa as funções de amortecimento e direção, evitando o mergulho excessivo da frente em frenagens",
+                "É feita de plástico",
+                "Possui apenas uma bengala"
+            ],
+            "correct": 1,
+            "category": "tecnologia",
+            "level": "avancado",
+            "explanation": "Diferente das bengalas telescópicas, o Telelever usa um braço oscilante e um amortecedor central, mantendo a geometria da moto estável sob frenagem forte."
+        },
+        {
+            "id": 420,
+            "question": "Qual o risco de pilotar com 'Rolamentos de Caixa de Direção' com calos (marcados)?",
+            "options": [
+                "A moto fica mais leve para virar",
+                "O guiador tende a 'travar' levemente no centro, dificultando pequenas correções e instabilizando a moto em retas",
+                "Os pneus gastam mais rápido",
+                "A buzina para de funcionar"
+            ],
+            "correct": 1,
+            "category": "manutencao",
+            "level": "intermediario",
+            "explanation": "Calos na direção impedem a fluidez do movimento. O piloto acaba fazendo força excessiva para tirar a moto do 'centro', resultando em ziguezagues."
+        },
+        {
+            "id": 421,
+            "question": "O que é o 'Arrasto Aerodinâmico' (Drag) e como afeta o motociclista?",
+            "options": [
+                "A força que empurra a moto para baixo",
+                "A resistência do ar que se opõe ao movimento, aumentando exponencialmente com a velocidade",
+                "O atrito dos pneus com o solo",
+                "O peso total da moto com carga"
+            ],
+            "correct": 1,
+            "category": "pilotagem",
+            "level": "avancado",
+            "explanation": "Para dobrar a velocidade, é necessário vencer quatro vezes mais resistência do ar. É por isso que o consumo de combustível sobe tanto em altas velocidades."
+        },
+        {
+            "id": 422,
+            "question": "Qual a função da 'Biela' dentro do motor?",
+            "options": [
+                "Controlar a abertura das válvulas",
+                "Ligar o pistão ao virabrequim, convertendo o movimento linear em rotativo",
+                "Gerar energia para as lâmpadas",
+                "Filtrar o óleo do motor"
+            ],
+            "correct": 1,
+            "category": "mecanica",
+            "level": "intermediario",
+            "explanation": "A biela sofre grandes esforços de tração e compressão; ela é o elo que transmite a força da explosão para gerar movimento na roda."
+        },
+        {
+            "id": 423,
+            "question": "Ao transportar um passageiro (garupa), como o piloto deve orientá-lo sobre as curvas?",
+            "options": [
+                "Pedir para o passageiro inclinar para o lado oposto ao da moto",
+                "Orientar o passageiro a acompanhar o movimento do corpo do piloto, mantendo-se alinhado à moto",
+                "Dizer para o passageiro ficar sempre ereto e rígido",
+                "Pedir para o passageiro fechar os olhos"
+            ],
+            "correct": 1,
+            "category": "seguranca",
+            "level": "intermediario",
+            "explanation": "Se o garupa lutar contra a inclinação ou inclinar demais, ele altera o centro de gravidade bruscamente, podendo causar a queda da moto."
+        },
+        {
+            "id": 424,
+            "question": "O que caracteriza um sistema de travão 'Brembo Stylema' ou de alta performance?",
+            "options": [
+                "São feitos de ferro fundido",
+                "São pinças monobloco usinadas para maior rigidez, leveza e melhor dissipação de calor",
+                "São travões que não usam pastilhas",
+                "São exclusivos para motos de baixa cilindrada"
+            ],
+            "correct": 1,
+            "category": "tecnologia",
+            "level": "avancado",
+            "explanation": "A rigidez da pinça evita que ela 'abra' sob pressão extrema, mantendo o tato do manete constante mesmo em uso de pista (Track Day)."
+        },
+        {
+            "id": 425,
+            "question": "O que é o 'Efeito Venturi' aplicado ao carburador ou corpo de borboleta?",
+            "options": [
+                "O aquecimento do ar",
+                "A aceleração do fluxo de ar numa estreitamento, que gera uma queda de pressão e suga o combustível",
+                "O bloqueio da passagem de óleo",
+                "A vibração do motor em marcha lenta"
+            ],
+            "correct": 1,
+            "category": "mecanica",
+            "level": "avancado",
+            "explanation": "É este princípio físico que permite a mistura correta de ar e combustível antes de entrar na câmara de combustão."
+        },
+        {
+            "id": 426,
+            "question": "Qual o perigo de usar 'Combustível Aditivado' em motos muito antigas que ficaram paradas anos?",
+            "options": [
+                "A moto vai correr demais e perder o freio",
+                "Os aditivos detergentes podem soltar crostas de sujeira antigas e entupir os giclês ou bicos",
+                "A gasolina aditivada estraga o metal do tanque",
+                "Não há perigo algum"
+            ],
+            "correct": 1,
+            "category": "manutencao",
+            "level": "intermediario",
+            "explanation": "Em sistemas 'sujos', a limpeza súbita promovida pelos aditivos pode deslocar sedimentos que estavam parados, causando falhas imediatas no funcionamento."
+        },
+        {
+            "id": 427,
+            "question": "O termo 'Sissy Bar' refere-se a qual componente de uma moto?",
+            "options": [
+                "O protetor de cárter",
+                "O encosto traseiro para o passageiro, comum em motos estilo Custom",
+                "Um tipo de guidão alto",
+                "A alavanca de câmbio no pé"
+            ],
+            "correct": 1,
+            "category": "curiosidades",
+            "level": "iniciante",
+            "explanation": "Além do conforto para o passageiro, o Sissy Bar serve frequentemente para amarrar bagagens em viagens longas."
+        },
+        {
+            "id": 428,
+            "question": "O que é a 'Pré-Ignição' (Knocking)?",
+            "options": [
+                "Ligar a moto antes de colocar o capacete",
+                "A queima da mistura antes da faísca da vela, causada por pontos quentes ou baixa octanagem",
+                "Quando o motor gira no sentido contrário",
+                "O barulho do escapamento esportivo"
+            ],
+            "correct": 1,
+            "category": "mecanica",
+            "level": "avancado",
+            "explanation": "A pré-ignição gera pressões absurdas que podem destruir o pistão e a biela em poucos segundos."
+        },
+        {
+            "id": 429,
+            "question": "Qual a principal vantagem do quadro do tipo 'Treliça' (Trellis Frame)?",
+            "options": [
+                "É o mais barato de fabricar",
+                "Excelente relação entre leveza e rigidez torcional, usando tubos de aço interligados",
+                "É inquebrável em acidentes",
+                "Facilita a troca do óleo"
+            ],
+            "correct": 1,
+            "category": "tecnologia",
+            "level": "avancado",
+            "explanation": "Muito usado pela Ducati e KTM, o quadro de treliça permite que o motor faça parte da estrutura, economizando peso."
+        },
+        {
+            "id": 430,
+            "question": "Por que o piloto deve evitar 'olhar para o obstáculo' (como um buraco ou pedra) que quer desviar?",
+            "options": [
+                "Porque dá azar",
+                "Devido à fixação no alvo: a moto tende a ir exatamente para onde o piloto está olhando",
+                "Porque o sol pode ofuscar a visão",
+                "Para manter a postura reta"
+            ],
+            "correct": 1,
+            "category": "pilotagem",
+            "level": "intermediario",
+            "explanation": "O cérebro coordena as mãos para seguir o olhar. Para desviar, você deve focar na saída (o caminho livre) e não no problema."
+        },
+        {
+            "id": 431,
+            "question": "O que indica a sigla 'O-Ring' em uma corrente de transmissão?",
+            "options": [
+                "Que a corrente é feita de ouro",
+                "A presença de anéis de borracha que retêm a lubrificação interna dentro dos elos",
+                "Que a corrente não precisa de ajuste",
+                "Um tipo de trava de segurança"
+            ],
+            "correct": 1,
+            "category": "manutencao",
+            "level": "intermediario",
+            "explanation": "Correntes com retentores (O-ring, X-ring) duram muito mais porque impedem a entrada de terra e a saída da graxa interna de fábrica."
+        },
+        {
+            "id": 432,
+            "question": "O que é o 'Efeito de Shimming' (oscilação) causado por um pneu traseiro mal balanceado?",
+            "options": [
+                "A moto trepida apenas ao frear",
+                "Vibrações que podem ser sentidas no guidão, mesmo que o problema esteja na roda de trás",
+                "O motor morre em ponto morto",
+                "O pneu solta pedaços de borracha"
+            ],
+            "correct": 1,
+            "category": "manutencao",
+            "level": "avancado",
+            "explanation": "Desequilíbrios na roda traseira transmitem vibrações através do chassi que afetam a estabilidade de toda a frente da moto."
+        },
+        {
+            "id": 433,
+            "question": "A válvula 'Desmodrômica' (famosa na Ducati) diferencia-se por:",
+            "options": [
+                "Usar molas de titânio",
+                "Usar um comando mecânico tanto para abrir quanto para fechar as válvulas, sem depender de molas",
+                "Ter apenas uma válvula por cilindro",
+                "Ser movida por pressão de ar"
+            ],
+            "correct": 1,
+            "category": "tecnologia",
+            "level": "avancado",
+            "explanation": "Isso elimina o fenômeno de 'flutuação de válvulas' em altíssimas rotações, permitindo motores mais eficientes."
+        },
+        {
+            "id": 434,
+            "question": "O que significa 'Redline' (linha vermelha) no conta-giros?",
+            "options": [
+                "Onde a moto consome menos combustível",
+                "O limite máximo de rotação segura para o motor antes de haver risco de quebra mecânica",
+                "A velocidade máxima da moto",
+                "O momento de ligar o farol alto"
+            ],
+            "correct": 1,
+            "category": "pilotagem",
+            "level": "iniciante",
+            "explanation": "Ultrapassar a redline pode causar o atropelamento de válvulas ou a quebra da biela por excesso de força inercial."
+        },
+        {
+            "id": 435,
+            "question": "Qual o principal benefício do uso de 'Nitrogénio' para calibrar pneus de moto?",
+            "options": [
+                "A moto fica mais rápida",
+                "Menor variação de pressão quando o pneu aquece e redução da oxidação interna da roda",
+                "O nitrogénio nunca vaza",
+                "Deixa a borracha mais macia"
+            ],
+            "correct": 1,
+            "category": "manutencao",
+            "level": "avancado",
+            "explanation": "O nitrogénio é um gás inerte e seco, o que mantém a pressão mais estável durante o uso intenso em viagens ou pistas."
+        },
+        {
+            "id": 436,
+            "question": "O 'Sensor de Queda' (Tip-over Sensor) geralmente desliga quais sistemas?",
+            "options": [
+                "Apenas os piscas",
+                "A bomba de combustível e o sistema de ignição",
+                "O painel de instrumentos",
+                "A buzina"
+            ],
+            "correct": 1,
+            "category": "seguranca",
+            "level": "intermediario",
+            "explanation": "Isso evita que o motor continue funcionando sem lubrificação (já que o óleo escorre para o lado) e previne incêndios."
+        },
+        {
+            "id": 437,
+            "question": "Qual a finalidade de 'furos' ou 'rasgos' nos discos de travão?",
+            "options": [
+                "Apenas estética",
+                "Aumentar a ventilação, reduzir o peso e ajudar a limpar a água/gases entre a pastilha e o disco",
+                "Facilitar a colocação do cadeado",
+                "Indicar o desgaste do disco"
+            ],
+            "correct": 1,
+            "category": "mecanica",
+            "level": "intermediario",
+            "explanation": "Os furos dissipam o calor e ajudam a eliminar a 'almofada de gás' que se forma em travagens extremas, mantendo o atrito."
+        },
+        {
+            "id": 438,
+            "question": "O que caracteriza a suspensão 'Paralever' traseira?",
+            "options": [
+                "Usa dois amortecedores paralelos",
+                "Um sistema de braço oscilante que anula o efeito de 'levantar' da traseira típico de motos com cardan",
+                "Uma suspensão que não tem mola",
+                "Um sistema exclusivo para motos de trilha"
+            ],
+            "correct": 1,
+            "category": "tecnologia",
+            "level": "avancado",
+            "explanation": "O paralever utiliza uma articulação extra que mantém a geometria da moto constante durante acelerações e frenagens."
+        },
+        {
+            "id": 439,
+            "question": "O que indica um 'Filtro de Ar' com coloração cinza escura ou preta?",
+            "options": [
+                "Que ele é um filtro de alta performance",
+                "Saturação por poluição e poeira, exigindo substituição imediata",
+                "Que o motor está queimando óleo",
+                "É a cor normal do filtro novo"
+            ],
+            "correct": 1,
+            "category": "manutencao",
+            "level": "iniciante",
+            "explanation": "Um filtro obstruído 'asfixia' o motor, causando aumento de consumo de combustível e perda de potência."
+        },
+        {
+            "id": 440,
+            "question": "Na pilotagem defensiva, o que significa 'Ponto Cego' de um caminhão?",
+            "options": [
+                "Áreas ao redor do veículo onde o motorista não consegue ver a moto, mesmo pelos espelhos",
+                "O momento em que o motorista de caminhão dorme",
+                "A fumaça que sai do escapamento",
+                "As luzes de ré do caminhão"
+            ],
+            "correct": 0,
+            "category": "seguranca",
+            "level": "iniciante",
+            "explanation": "Motos são pequenas e desaparecem facilmente nos pontos cegos laterais e traseiros de veículos grandes. Evite trafegar nessas zonas."
+        },
+        {
+            "id": 441,
+            "question": "O que é o 'Calço Hidráulico' em um motor de motocicleta?",
+            "options": [
+                "Um sistema de suspensão muito macio",
+                "A entrada de líquido (água ou combustível) na câmara de combustão, impedindo o pistão de subir e travando o motor",
+                "Uma peça que ajuda a travar a roda traseira",
+                "O uso de óleo hidráulico no motor"
+            ],
+            "correct": 1,
+            "category": "mecanica",
+            "level": "avancado",
+            "explanation": "Como líquidos não se comprimem, se entrarem no cilindro, o pistão bate neles e a força da biela acaba entortando ou quebrando, destruindo o motor."
+        },
+        {
+            "id": 442,
+            "question": "Qual a função dos 'Pesos de Guidão' situados nas extremidades do mesmo?",
+            "options": [
+                "Serve apenas para proteger o manete em quedas",
+                "Reduzir as vibrações de alta frequência enviadas para as mãos do piloto e evitar o shimmy",
+                "Ajustar a altura do piloto",
+                "Aumentar o peso da moto para dar estabilidade"
+            ],
+            "correct": 1,
+            "category": "mecanica",
+            "level": "intermediario",
+            "explanation": "Os pesos atuam como amortecedores de massa, alterando a frequência de ressonância do guidão para que as mãos não fiquem dormentes."
+        },
+        {
+            "id": 443,
+            "question": "O que significa a sigla 'SAE' presente nos frascos de óleo?",
+            "options": [
+                "Sistema de Autolubrificação Eletrônica",
+                "Society of Automotive Engineers (Sociedade de Engenheiros Automotivos), que classifica a viscosidade",
+                "Seguro de Acidentes Estruturais",
+                "Selo de Aprovação Ecológica"
+            ],
+            "correct": 1,
+            "category": "manutencao",
+            "level": "iniciante",
+            "explanation": "A SAE estabelece os padrões mundiais para definir quão 'grosso' ou 'fino' um óleo é em diferentes temperaturas."
+        },
+        {
+            "id": 444,
+            "question": "O que é o 'Efeito de Memória' em baterias de Lítio (LiFePO4) usadas em motos modernas?",
+            "options": [
+                "A bateria lembra a última carga",
+                "Diferente das de Níquel, as baterias de Lítio NÃO têm efeito memória e podem ser carregadas a qualquer momento",
+                "A bateria dura menos se carregada no sol",
+                "É um defeito onde a moto não liga pela manhã"
+            ],
+            "correct": 1,
+            "category": "tecnologia",
+            "level": "avancado",
+            "explanation": "Baterias de Lítio são muito leves e eficientes, não sofrendo com o vício de carga, mas exigem carregadores específicos."
+        },
+        {
+            "id": 445,
+            "question": "Qual é a principal função do 'Catalisador' no sistema de escapamento?",
+            "options": [
+                "Aumentar o ronco do motor",
+                "Promover uma reação química que transforma gases tóxicos em substâncias menos nocivas",
+                "Filtrar o óleo que sai pelo escape",
+                "Aumentar a contrapressão para ganhar torque"
+            ],
+            "correct": 1,
+            "category": "manutencao",
+            "level": "intermediario",
+            "explanation": "Através de metais nobres (platina/paládio), o catalisador reduz as emissões de monóxido de carbono e óxidos de nitrogênio."
+        },
+        {
+            "id": 446,
+            "question": "O termo 'Tank Slapper' refere-se a:",
+            "options": [
+                "Bater no tanque para comemorar uma vitória",
+                "Oscilações violentas e rápidas do guidão de batente a batente, geralmente após a roda dianteira perder contato com o solo",
+                "O barulho da gasolina balançando no tanque",
+                "Um protetor de tanque contra riscos"
+            ],
+            "correct": 1,
+            "category": "seguranca",
+            "level": "avancado",
+            "explanation": "É uma situação de extremo perigo. Manter a calma e não tentar lutar contra o guidão (às vezes acelerar levemente ajuda) é a recomendação técnica."
+        },
+        {
+            "id": 447,
+            "question": "O que indica a presença de 'fumaça branca' constante saindo do escape em um motor refrigerado a água?",
+            "options": [
+                "Que a mistura está muito rica",
+                "Possível queima do líquido de arrefecimento (junta do cabeçote queimada)",
+                "É apenas vapor d'água normal do frio",
+                "Indica que o óleo é novo"
+            ],
+            "correct": 1,
+            "category": "manutencao",
+            "level": "intermediario",
+            "explanation": "Se a fumaça tem um cheiro adocicado e não desaparece após o motor aquecer, há passagem de água para dentro dos cilindros."
+        },
+        {
+            "id": 448,
+            "question": "Qual a vantagem de usar 'Rodas de Magnésio' em motos de competição?",
+            "options": [
+                "São mais baratas que as de aço",
+                "Redução extrema da massa não suspensa e da inércia rotacional, facilitando mudanças rápidas de direção",
+                "Não quebram nunca",
+                "Melhoram a recepção do sinal de rádio"
+            ],
+            "correct": 1,
+            "category": "tecnologia",
+            "level": "avancado",
+            "explanation": "Rodas leves permitem que a suspensão trabalhe melhor e que o motor gaste menos energia para fazê-las girar."
+        },
+        {
+            "id": 449,
+            "question": "O que é o 'Efeito Vela' em um capacete durante a pilotagem?",
+            "options": [
+                "Quando o capacete brilha no escuro",
+                "A força do vento tentando levantar ou empurrar o capacete, geralmente causada por uma viseira mal projetada",
+                "O aquecimento da cabeça",
+                "Quando o capacete embaça por dentro"
+            ],
+            "correct": 1,
+            "category": "equipamentos",
+            "level": "intermediario",
+            "explanation": "Capacetes com má aerodinâmica causam fadiga no pescoço do piloto devido à pressão constante do vento em altas velocidades."
+        },
+        {
+            "id": 450,
+            "question": "O componente 'Solenóide de Partida' serve para:",
+            "options": [
+                "Gerar a faísca da vela",
+                "Funcionar como um interruptor de alta corrente para ligar o motor de arranque",
+                "Controlar a marcha lenta",
+                "Travar o guidão eletronicamente"
+            ],
+            "correct": 1,
+            "category": "mecanica",
+            "level": "intermediario",
+            "explanation": "Ele permite que um botão pequeno no guidão acione a enorme corrente elétrica necessária para girar o motor."
+        },
+        {
+            "id": 451,
+            "question": "O que é 'Trail Braking' na técnica de pilotagem de performance?",
+            "options": [
+                "Travar a moto em estradas de terra",
+                "Manter o freio dianteiro levemente acionado enquanto se entra na curva, aliviando gradualmente até o ápice",
+                "Usar apenas o freio traseiro em trilhas",
+                "Frear apenas quando a moto está reta"
+            ],
+            "correct": 1,
+            "category": "pilotagem",
+            "level": "avancado",
+            "explanation": "Isso mantém a frente da moto baixa e carregada, aumentando a área de contato do pneu e facilitando a entrada na curva."
+        },
+        {
+            "id": 452,
+            "question": "Qual a função do 'Sensor de Tombo' em motos com injeção eletrônica?",
+            "options": [
+                "Marcar a inclinação máxima no painel",
+                "Cortar a bomba de combustível e ignição para evitar incêndios e danos ao motor em caso de queda",
+                "Avisar o resgate automaticamente via satélite",
+                "Impedir que a moto incline demais"
+            ],
+            "correct": 1,
+            "category": "seguranca",
+            "level": "intermediario",
+            "explanation": "Sem óleo no cárter (pela posição deitada), o motor fundiria rapidamente se continuasse ligado. O sensor evita isso."
+        },
+        {
+            "id": 453,
+            "question": "O que significa um pneu 'Dual Compound' (Bi-composto)?",
+            "options": [
+                "Que ele pode ser usado com ou sem câmara",
+                "Possui borracha mais dura no centro (para durar mais) e mais macia nas laterais (para mais grip em curvas)",
+                "Que o pneu é feito de borracha e plástico",
+                "Que serve tanto para terra quanto para asfalto"
+            ],
+            "correct": 1,
+            "category": "manutencao",
+            "level": "intermediario",
+            "explanation": "Essa tecnologia une o melhor de dois mundos: alta quilometragem em retas e segurança extrema nas inclinações."
+        },
+        {
+            "id": 454,
+            "question": "Qual o principal risco de usar 'Manetes Esportivos' de baixa qualidade (réplicas)?",
+            "options": [
+                "Eles são apenas feios",
+                "Podem travar o freio dianteiro subitamente devido a falhas de usinagem ou dilatação térmica incorreta",
+                "Eles riscam o guidão",
+                "Fazem a moto consumir mais combustível"
+            ],
+            "correct": 1,
+            "category": "seguranca",
+            "level": "avancado",
+            "explanation": "Muitas vezes o manete não permite o retorno total do pistão da bomba de freio, gerando pressão residual que acaba travando a roda."
+        },
+        {
+            "id": 455,
+            "question": "O que é 'Efeito Coanda' aplicado ao design de para-brisas (bolhas) de motos?",
+            "options": [
+                "A tendência do fluxo de ar de seguir uma superfície curva, ajudando a desviar o vento do piloto",
+                "O barulho que o vento faz no capacete",
+                "A quebra do vidro por vibração",
+                "O acúmulo de insetos na frente"
+            ],
+            "correct": 0,
+            "category": "tecnologia",
+            "level": "avancado",
+            "explanation": "Designers usam este princípio para criar uma 'bolha de ar calmo' ao redor do piloto sem precisar de para-brisas gigantes."
+        },
+        {
+            "id": 456,
+            "question": "O que caracteriza a suspensão 'Hossack' (ou Duolever)?",
+            "options": [
+                "Usa duas molas em cada bengala",
+                "Um sistema de braços articulados que separa totalmente as forças de frenagem da suspensão dianteira",
+                "Uma suspensão que funciona com ar comprimido",
+                "Exclusiva para motos de motocross"
+            ],
+            "correct": 1,
+            "category": "tecnologia",
+            "level": "avancado",
+            "explanation": "Neste sistema, a moto não 'mergulha' em frenagens, mantendo o curso total da suspensão disponível para absorver buracos."
+        },
+        {
+            "id": 457,
+            "question": "A folga da 'Corrente de Transmissão' deve ser medida com:",
+            "options": [
+                "A moto no descanso lateral e o piloto em cima (ou conforme manual)",
+                "A moto levantada no cavalete central sem ninguém",
+                "O motor ligado em primeira marcha",
+                "A corrente totalmente esticada"
+            ],
+            "correct": 0,
+            "category": "manutencao",
+            "level": "intermediario",
+            "explanation": "A tensão muda conforme a balança sobe. Medir sem carga pode resultar em uma corrente muito apertada, quebrando o eixo do câmbio."
+        },
+        {
+            "id": 458,
+            "question": "O que indica um 'Filtro de Óleo' pesado e com lodo ao ser retirado?",
+            "options": [
+                "Que o óleo era muito bom",
+                "Intervalos de troca muito longos, causando a oxidação e degradação severa do lubrificante",
+                "Que entrou água no motor",
+                "É normal em motos de alta cilindrada"
+            ],
+            "correct": 1,
+            "category": "manutencao",
+            "level": "intermediario",
+            "explanation": "O lodo (borra) obstrui as galerias de lubrificação, podendo causar a fundição do motor por falta de óleo nos mancais."
+        },
+        {
+            "id": 459,
+            "question": "O termo 'Pitting' em engrenagens de câmbio refere-se a:",
+            "options": [
+                "O brilho das peças novas",
+                "Pequenos furos ou crateras na superfície do metal causados por fadiga ou falta de lubrificação",
+                "O encaixe perfeito das marchas",
+                "O uso de marchas muito curtas"
+            ],
+            "correct": 1,
+            "category": "mecanica",
+            "level": "avancado",
+            "explanation": "O pitting causa ruído (assobio) e indica que a camada endurecida do aço está se soltando, exigindo a troca das engrenagens."
+        },
+        {
+            "id": 460,
+            "question": "Qual é a principal função da 'Câmera de Expansão' (Power Chamber) em escapamentos modernos?",
+            "options": [
+                "Guardar gases para usar depois",
+                "Equalizar a pressão dos gases e otimizar o torque em baixas rotações sem restringir o fluxo",
+                "Apenas para cumprir normas de ruído",
+                "Esfriar os gases de escape"
+            ],
+            "correct": 1,
+            "category": "mecanica",
+            "level": "avancado",
+            "explanation": "Muitas motos têm uma 'caixa' antes do silenciador para gerenciar as ondas de pulso do motor, melhorando a resposta do acelerador."
+        },
+        {
+            "id": 461,
+            "question": "O que caracteriza o fenômeno de 'Kickback' em motores de alta compressão na hora da partida?",
+            "options": [
+                "A moto ligar e desligar rapidamente",
+                "O motor girar ao contrário por um instante devido à ignição prematura, podendo danificar o motor de arranque",
+                "O pedal de câmbio travar",
+                "Um estalo vindo da suspensão dianteira"
+            ],
+            "correct": 1,
+            "category": "mecanica",
+            "level": "avancado",
+            "explanation": "O kickback ocorre quando a mistura explode antes do pistão atingir o ponto morto superior, empurrando-o violentamente para baixo no sentido oposto ao da rotação de partida."
+        },
+        {
+            "id": 462,
+            "question": "Qual a principal função da 'Válvula de Palheta' (Reed Valve) em motores 2 tempos?",
+            "options": [
+                "Controlar a saída de óleo pelo escapamento",
+                "Impedir que a mistura ar-combustível retorne para o carburador durante a descida do pistão",
+                "Regular a pressão do radiador",
+                "Aumentar a velocidade do ar na admissão"
+            ],
+            "correct": 1,
+            "category": "mecanica",
+            "level": "avancado",
+            "explanation": "As palhetas funcionam como válvulas unidirecionais, permitindo que a mistura entre no cárter, mas vedando-a para que seja comprimida e enviada ao cilindro."
+        },
+        {
+            "id": 463,
+            "question": "O termo 'Anti-Dive' em sistemas de suspensão refere-se a:",
+            "options": [
+                "Um pneu que não fura",
+                "Tecnologias que reduzem o mergulho da frente da moto durante frenagens fortes",
+                "Um sistema que impede a moto de empinar",
+                "O travamento do amortecedor traseiro"
+            ],
+            "correct": 1,
+            "category": "tecnologia",
+            "level": "avancado",
+            "explanation": "O anti-dive mantém a geometria da moto estável sob frenagem, garantindo que a suspensão ainda tenha curso para absorver irregularidades enquanto se reduz a velocidade."
+        },
+        {
+            "id": 464,
+            "question": "O que indica a presença de 'Borra Branca' (semelhante a maionese) na tampa de abastecimento de óleo?",
+            "options": [
+                "Que o óleo é sintético de alta qualidade",
+                "Contaminação do óleo por água/líquido de arrefecimento ou condensação excessiva por trajetos curtos",
+                "Que o motor está muito limpo",
+                "Indica que a embreagem está patinando"
+            ],
+            "correct": 1,
+            "category": "manutencao",
+            "level": "intermediario",
+            "explanation": "A mistura de água e óleo cria essa emulsão. Pode indicar uma junta de cabeçote queimada ou apenas que o motor nunca atinge a temperatura ideal para evaporar a umidade interna."
+        },
+        {
+            "id": 465,
+            "question": "O que é o 'Efeito de Shimming' (oscilação lateral) de baixa frequência no guidão?",
+            "options": [
+                "Quando o motor vibra muito em ponto morto",
+                "Oscilações entre 5Hz e 10Hz causadas geralmente por pneus gastos, baús traseiros sobrecarregados ou caixa de direção folgada",
+                "O barulho do freio ABS atuando",
+                "A moto puxando para um dos lados"
+            ],
+            "correct": 1,
+            "category": "seguranca",
+            "level": "intermediario",
+            "explanation": "Diferente do Tank Slapper, o shimmy é uma oscilação menos violenta, mas que indica um desequilíbrio dinâmico que deve ser corrigido imediatamente."
+        },
+        {
+            "id": 466,
+            "question": "Em sistemas de injeção, o 'Sensor de Temperatura do Ar' (IAT) serve para:",
+            "options": [
+                "Mostrar a temperatura no painel para o piloto",
+                "Ajustar a densidade da mistura; ar frio é mais denso e exige mais combustível",
+                "Ligar a ventoinha do radiador",
+                "Medir o aquecimento do escapamento"
+            ],
+            "correct": 1,
+            "category": "tecnologia",
+            "level": "avancado",
+            "explanation": "A temperatura do ar altera a massa de oxigênio que entra no motor. A ECU usa esse dado para manter a proporção estequiométrica ideal."
+        },
+        {
+            "id": 467,
+            "question": "Qual a finalidade das 'Ranhuras de Desgaste' em pastilhas de freio?",
+            "options": [
+                "Aumentar o ruído de frenagem",
+                "Ajudar na dispersão de gases/água e servir como indicador visual do limite de uso da pastilha",
+                "Diminuir a temperatura do disco",
+                "Segurar a sujeira da estrada"
+            ],
+            "correct": 1,
+            "category": "manutencao",
+            "level": "iniciante",
+            "explanation": "Quando o material da pastilha chega ao fundo da ranhura, significa que a peça atingiu o limite de segurança e deve ser trocada."
+        },
+        {
+            "id": 468,
+            "question": "O que caracteriza o sistema de lubrificação por 'Cárter Úmido'?",
+            "options": [
+                "O óleo fica armazenado em um tanque separado",
+                "O óleo fica todo no fundo do próprio bloco do motor (cárter)",
+                "O motor não usa bomba de óleo",
+                "O óleo deve ser trocado todos os dias"
+            ],
+            "correct": 1,
+            "category": "mecanica",
+            "level": "intermediario",
+            "explanation": "É o sistema mais comum em motos de rua, onde a gravidade faz o óleo retornar para o fundo do motor após lubrificar os componentes."
+        },
+        {
+            "id": 469,
+            "question": "O termo 'Wheelbase' (Entre-eixos) de uma moto afeta diretamente:",
+            "options": [
+                "A velocidade máxima",
+                "O equilíbrio entre estabilidade em retas e agilidade em mudanças de direção",
+                "O consumo de óleo",
+                "A intensidade do farol"
+            ],
+            "correct": 1,
+            "category": "pilotagem",
+            "level": "avancado",
+            "explanation": "Motos com entre-eixos curto (como esportivas) são muito ágeis. Entre-eixos longos (como cruisers) oferecem maior conforto e estabilidade em rodovias."
+        },
+        {
+            "id": 470,
+            "question": "Qual o principal perigo de utilizar 'Parafusos Comuns' em vez de parafusos de aço de alta resistência no suporte da pinça de freio?",
+            "options": [
+                "Eles enferrujam mais rápido",
+                "O risco de cisalhamento (quebra) do parafuso devido às enormes forças de torque durante a frenagem",
+                "Eles são mais difíceis de limpar",
+                "Não há risco, qualquer parafuso serve"
+            ],
+            "correct": 1,
+            "category": "seguranca",
+            "level": "avancado",
+            "explanation": "Parafusos de freio são submetidos a tensões extremas. Usar hardware de graduação inferior pode causar o desprendimento da pinça e acidente fatal."
+        },
+        {
+            "id": 471,
+            "question": "O que é o 'Efeito de Auto-Ignição' (Dieselização) em motores a gasolina?",
+            "options": [
+                "Quando a moto faz barulho de caminhão",
+                "A queima do combustível apenas pela pressão e calor, sem a necessidade da faísca, causando danos severos",
+                "O uso de diesel no tanque de gasolina",
+                "O motor ligar sozinho ao sol"
+            ],
+            "correct": 1,
+            "category": "mecanica",
+            "level": "avancado",
+            "explanation": "Ocorre geralmente por excesso de carvão na câmara ou superaquecimento, fazendo o combustível explodir no momento errado."
+        },
+        {
+            "id": 472,
+            "question": "A técnica de 'Contra-Esterço' (Countersteering) é eficaz para:",
+            "options": [
+                "Fazer a moto parar em menor distância",
+                "Iniciar a inclinação da moto de forma rápida e precisa em velocidades acima de 30-40 km/h",
+                "Ajustar a corrente de transmissão",
+                "Reduzir o consumo de combustível"
+            ],
+            "correct": 1,
+            "category": "pilotagem",
+            "level": "intermediario",
+            "explanation": "Ao empurrar o guidão para o lado oposto da curva, as forças dinâmicas fazem a moto inclinar instantaneamente para o lado desejado."
+        },
+        {
+            "id": 473,
+            "question": "O componente 'Regulador de Voltagem' tem a função de:",
+            "options": [
+                "Aumentar a força da bateria para 220V",
+                "Manter a voltagem do sistema estável (geralmente entre 13.5V e 14.5V) para carregar a bateria sem danificá-la",
+                "Controlar o brilho do painel",
+                "Limitar a velocidade máxima da moto"
+            ],
+            "correct": 1,
+            "category": "manutencao",
+            "level": "intermediario",
+            "explanation": "Sem o regulador, a voltagem gerada pelo estator subiria conforme as rotações do motor, 'cozinhando' a bateria e queimando lâmpadas."
+        },
+        {
+            "id": 474,
+            "question": "O que significa 'Unsprung Weight' (Peso não suspenso) e por que ele deve ser minimizado?",
+            "options": [
+                "O peso das roupas do piloto",
+                "O peso das rodas, pneus e freios; quanto menor for, melhor será o contato do pneu com o solo em irregularidades",
+                "O peso do combustível no tanque",
+                "O peso dos acessórios plásticos"
+            ],
+            "correct": 1,
+            "category": "tecnologia",
+            "level": "avancado",
+            "explanation": "Componentes leves abaixo da suspensão permitem que as molas e amortecedores reajam muito mais rápido às imperfeições da pista."
+        },
+        {
+            "id": 475,
+            "question": "Qual a função do 'Sensor de Velocidade de Roda' em sistemas ABS?",
+            "options": [
+                "Apenas mostrar a velocidade no painel",
+                "Detectar a iminência de travamento da roda e enviar o sinal para a central aliviar a pressão hidráulica",
+                "Contar quantos quilômetros o pneu rodou",
+                "Avisar se o pneu está murcho"
+            ],
+            "correct": 1,
+            "category": "seguranca",
+            "level": "intermediario",
+            "explanation": "O sensor compara a velocidade da roda com a velocidade da moto; se a roda para de girar enquanto a moto se move, o ABS atua."
+        },
+        {
+            "id": 476,
+            "question": "O 'Amortecimento de Compressão' (Compression Damping) regula:",
+            "options": [
+                "A rapidez com que a suspensão volta à posição original",
+                "A velocidade com que a suspensão se contrai ao atingir um buraco ou obstáculo",
+                "A altura total do banco",
+                "A pressão dos pneus"
+            ],
+            "correct": 1,
+            "category": "pilotagem",
+            "level": "avancado",
+            "explanation": "Ajustar a compressão evita que a suspensão 'dê final de curso' em impactos fortes e controla o mergulho da frente em frenagens."
+        },
+        {
+            "id": 477,
+            "question": "O que caracteriza a fadiga por 'Vapor Lock' nos freios?",
+            "options": [
+                "As pastilhas ficarem vitrificadas",
+                "O superaquecimento do fluido de freio criando bolhas de vapor, o que torna o manete 'esponjoso' e ineficaz",
+                "O disco de freio ficar torto",
+                "O cabo de freio se romper"
+            ],
+            "correct": 1,
+            "category": "manutencao",
+            "level": "avancado",
+            "explanation": "Como o vapor é compressível (ao contrário do líquido), a força aplicada no manete apenas comprime as bolhas em vez de mover os pistões da pinça."
+        },
+        {
+            "id": 478,
+            "question": "Qual a principal vantagem de um quadro do tipo 'Monocoque'?",
+            "options": [
+                "Facilidade de reparo em caso de colisão",
+                "Uso do próprio chassi como caixa de ar ou reservatório de combustível, economizando espaço e peso",
+                "É o quadro mais pesado e estável",
+                "Permite trocar o motor em 5 minutos"
+            ],
+            "correct": 1,
+            "category": "tecnologia",
+            "level": "avancado",
+            "explanation": "Muito usado em motos de alta performance (como a Kawasaki ZX-14 ou Ducati Panigale), oferece rigidez extrema com design compacto."
+        },
+        {
+            "id": 479,
+            "question": "Em caso de 'Pane Seca' (falta de combustível) em motos injetadas, por que não se deve insistir na partida?",
+            "options": [
+                "Porque gasta a bateria à toa",
+                "Porque a própria gasolina refrigera e lubrifica a bomba de combustível; rodar vazia pode queimá-la",
+                "Porque o motor pode explodir",
+                "Porque a moto fica 'viciada' em ficar sem gasolina"
+            ],
+            "correct": 1,
+            "category": "manutencao",
+            "level": "intermediario",
+            "explanation": "A bomba de combustível interna depende do fluxo de líquido para não superaquecer. Insistir sem combustível é o caminho mais curto para fundir a bomba."
+        },
+        {
+            "id": 480,
+            "question": "O que indica o código 'DOT 4' ou 'DOT 5.1' na tampa do reservatório de freio?",
+            "options": [
+                "A data de validade do reservatório",
+                "A classificação do fluido de freio baseada no seu ponto de ebulição",
+                "A quantidade de pistões da pinça",
+                "O tamanho da mangueira de freio"
+            ],
+            "correct": 1,
+            "category": "manutencao",
+            "level": "iniciante",
+            "explanation": "Indica o padrão de performance do fluido. Nunca misture DOT 5 (silicone) com DOT 4 ou 5.1 (glicol), pois são quimicamente incompatíveis."
+        },
+        {
+            "id": 481,
+            "question": "O que é a 'Relatividade de Velocidade' em cruzamentos para um motociclista?",
+            "options": [
+                "A teoria de que motos correm mais que carros",
+                "O fenômeno onde motoristas subestimam a velocidade da moto por ela ser menor, achando que ela está mais longe do que realmente está",
+                "A diferença de velocidade entre a roda dianteira e a traseira",
+                "A velocidade marcada no GPS comparada ao painel"
+            ],
+            "correct": 1,
+            "category": "seguranca",
+            "level": "avancado",
+            "explanation": "Devido ao tamanho reduzido, o cérebro humano tem dificuldade em calcular a taxa de aproximação de uma moto. Nunca assuma que o motorista te viu e calculou sua velocidade corretamente."
+        },
+        {
+            "id": 482,
+            "question": "Qual a função do 'Eixo Balanceador' (Counterbalancer) no motor?",
+            "options": [
+                "Equilibrar a moto para ela não cair para os lados",
+                "Girar em sentido oposto ao virabrequim para anular vibrações inerentes ao movimento dos pistões",
+                "Manter o nível de óleo constante",
+                "Ajustar a marcha lenta"
+            ],
+            "correct": 1,
+            "category": "mecanica",
+            "level": "avancado",
+            "explanation": "Motores monocilíndricos ou de dois cilindros paralelos usam balanceadores para evitar que a vibração excessiva cause desconforto ou quebra de componentes por fadiga."
+        },
+        {
+            "id": 483,
+            "question": "O que é o 'Eixo de Pinhão' e por que o vazamento no seu retentor é crítico?",
+            "options": [
+                "É o eixo que segura o espelho",
+                "É o eixo de saída do câmbio; um vazamento ali pode jogar óleo diretamente no pneu traseiro e na corrente",
+                "É o eixo que prende o guidão",
+                "É o eixo que sustenta o tanque"
+            ],
+            "correct": 1,
+            "category": "manutencao",
+            "level": "intermediario",
+            "explanation": "O pinhão fica logo à frente do pneu traseiro. Qualquer óleo lubrificante que escape por ali será lançado pela força centrífuga na banda de rodagem, causando queda."
+        },
+        {
+            "id": 484,
+            "question": "O sistema de freio 'UBS' ou 'CBS' (Combined Braking System) atua:",
+            "options": [
+                "Ligando o freio ao motor",
+                "Distribuindo a força de frenagem entre as duas rodas, mesmo que o piloto acione apenas um dos comandos",
+                "Aumentando a potência da moto",
+                "Impedindo que a moto ligue se o freio estiver gasto"
+            ],
+            "correct": 1,
+            "category": "tecnologia",
+            "level": "iniciante",
+            "explanation": "O freio combinado ajuda pilotos novatos a equilibrar a frenagem, reduzindo a distância de parada ao usar ambas as rodas automaticamente."
+        },
+        {
+            "id": 485,
+            "question": "O que caracteriza a 'Mistura Estequiométrica' ideal para um motor a gasolina?",
+            "options": [
+                "1 parte de gasolina para 1 parte de ar",
+                "Aproximadamente 14,7 partes de ar para 1 parte de combustível",
+                "Gasolina misturada com 25% de água",
+                "Qualquer mistura que faça o motor ligar"
+            ],
+            "correct": 1,
+            "category": "mecanica",
+            "level": "avancado",
+            "explanation": "Essa proporção garante que todo o combustível e todo o oxigênio sejam consumidos na reação, gerando a maior eficiência e menor poluição."
+        },
+        {
+            "id": 486,
+            "question": "Qual o objetivo de 'sangrar' o sistema de freio?",
+            "options": [
+                "Trocar as pastilhas",
+                "Remover bolhas de ar do sistema hidráulico para restaurar a pressão e o tato do manete",
+                "Limpar o disco de freio",
+                "Lubrificar os pistões da pinça"
+            ],
+            "correct": 1,
+            "category": "manutencao",
+            "level": "intermediario",
+            "explanation": "Como o ar é compressível, se houver bolhas no duto, o freio ficará 'borrachudo' e perderá eficiência de parada."
+        },
+        {
+            "id": 487,
+            "question": "O que significa 'Inércia Rotacional' das rodas na pilotagem?",
+            "options": [
+                "A facilidade da moto em dar ré",
+                "A resistência da roda em mudar sua velocidade ou direção; rodas mais pesadas dificultam a aceleração e curvas",
+                "O tempo que a roda leva para parar de girar no cavalete",
+                "A força que empurra a moto para frente"
+            ],
+            "correct": 1,
+            "category": "pilotagem",
+            "level": "avancado",
+            "explanation": "Reduzir o peso das rodas (usando liga leve ou fibra de carbono) é a forma mais eficaz de tornar uma moto mais rápida em tudo."
+        },
+        {
+            "id": 488,
+            "question": "O que é o 'Efeito Galvânico' em parafusos de motocicleta?",
+            "options": [
+                "Quando o parafuso brilha no escuro",
+                "A corrosão acelerada que ocorre quando dois metais diferentes (ex: aço e alumínio) entram em contato na presença de umidade",
+                "O aperto automático do parafuso com a vibração",
+                "Um tipo de pintura eletrostática"
+            ],
+            "correct": 1,
+            "category": "manutencao",
+            "level": "avancado",
+            "explanation": "Isso explica por que parafusos de aço 'gripam' em carcaças de alumínio. O uso de graxa anti-seize é recomendado em montagens críticas."
+        },
+        {
+            "id": 489,
+            "question": "A válvula 'IAC' (Idle Air Control) é responsável por:",
+            "options": [
+                "Controlar a pressão do turbo",
+                "Manter a rotação da marcha lenta estável, compensando variações de carga e temperatura",
+                "Injetar combustível extra na partida",
+                "Medir a pressão do óleo"
+            ],
+            "correct": 1,
+            "category": "tecnologia",
+            "level": "intermediario",
+            "explanation": "Ela atua como um 'afogador automático' eletrônico, garantindo que a moto não morra quando o motor está frio ou quando o farol é ligado."
+        },
+        {
+            "id": 490,
+            "question": "O termo 'Preload' (Pré-carga) da mola da suspensão serve para:",
+            "options": [
+                "Deixar a suspensão mais macia ou mais dura",
+                "Ajustar a altura da moto para compensar o peso do piloto/bagagem, mantendo a geometria correta",
+                "Consertar molas que estão quebradas",
+                "Mudar a velocidade de retorno do amortecedor"
+            ],
+            "correct": 1,
+            "category": "pilotagem",
+            "level": "avancado",
+            "explanation": "A pré-carga não muda a dureza da mola, mas define o ponto inicial de trabalho da suspensão para que ela não 'sente' demais com peso extra."
+        },
+        {
+            "id": 491,
+            "question": "Em caso de 'Pane Elétrica Total' em movimento, qual o primeiro procedimento de segurança?",
+            "options": [
+                "Tentar ligar a moto no tranco imediatamente",
+                "Sinalizar, manter a trajetória e buscar o acostamento usando a inércia, sem movimentos bruscos",
+                "Travar as rodas para parar o mais rápido possível",
+                "Abandonar a moto e pular"
+            ],
+            "correct": 1,
+            "category": "seguranca",
+            "level": "intermediario",
+            "explanation": "Sem elétrica, você pode perder luzes e painel. O foco deve ser sair do fluxo de tráfego de forma previsível para os outros veículos."
+        },
+        {
+            "id": 492,
+            "question": "O que é o 'Efeito Quench' (Esmagamento) na câmara de combustão?",
+            "options": [
+                "Quando o pistão bate na válvula",
+                "A área onde a mistura é 'espremida' para o centro da câmara, gerando turbulência e melhorando a queima",
+                "O resfriamento do motor por água",
+                "A expulsão dos gases pelo escapamento"
+            ],
+            "correct": 1,
+            "category": "mecanica",
+            "level": "avancado",
+            "explanation": "Um bom design de quench reduz a tendência à detonação e permite que o motor funcione de forma mais eficiente com menos combustível."
+        },
+        {
+            "id": 493,
+            "question": "A sigla 'ASR' ou 'MSR' em motos de turismo refere-se a:",
+            "options": [
+                "Ajuste automático de suspensão",
+                "Controle de escorregamento do motor (evita travamento da roda traseira em reduções bruscas via eletrônica)",
+                "Sistema de navegação por satélite",
+                "Rádio via satélite integrado"
+            ],
+            "correct": 1,
+            "category": "tecnologia",
+            "level": "avancado",
+            "explanation": "Enquanto o TC evita que a roda gire em falso ao acelerar, o MSR evita que ela trave ao reduzir a marcha bruscamente em pisos lisos."
+        },
+        {
+            "id": 494,
+            "question": "Qual o sintoma de 'Discos de Embreagem Vitrificados'?",
+            "options": [
+                "A embreagem fica muito dura",
+                "A embreagem patina (o motor gira mas a moto não ganha velocidade proporcionalmente) e o óleo cheira a queimado",
+                "As marchas entram sozinhas",
+                "O pedal de câmbio fica solto"
+            ],
+            "correct": 1,
+            "category": "manutencao",
+            "level": "intermediario",
+            "explanation": "O superaquecimento cria uma camada lisa e dura nos discos, impedindo o atrito necessário para transmitir a potência do motor."
+        },
+        {
+            "id": 495,
+            "question": "O que caracteriza um motor do tipo 'Big Bang' na MotoGP?",
+            "options": [
+                "Um motor que explode com facilidade",
+                "Intervalos de ignição próximos que dão tempo ao pneu traseiro para 'recuperar' o atrito entre as explosões",
+                "Um motor com apenas um cilindro gigante",
+                "Uso de nitro para largadas"
+            ],
+            "correct": 1,
+            "category": "curiosidades",
+            "level": "avancado",
+            "explanation": "Essa configuração melhora a tração e o tato do piloto em curvas, tornando a moto menos agressiva na entrega de potência."
+        },
+        {
+            "id": 496,
+            "question": "O que é o 'Trail' na geometria da moto?",
+            "options": [
+                "Um tipo de pneu para terra",
+                "A distância entre o ponto onde o eixo de direção toca o solo e o centro da área de contato do pneu dianteiro",
+                "O caminho percorrido pela moto",
+                "A altura do guidão"
+            ],
+            "correct": 1,
+            "category": "mecanica",
+            "level": "avancado",
+            "explanation": "O Trail é o que dá estabilidade direcional à moto. Muito Trail torna a moto estável mas lenta para virar; pouco Trail torna a moto ágil mas instável."
+        },
+        {
+            "id": 497,
+            "question": "Por que se deve evitar lavar a moto com o 'Motor Quente'?",
+            "options": [
+                "Para não queimar a mão",
+                "O choque térmico pode causar trincas no bloco, empenamento do disco de freio e manchas permanentes no metal",
+                "Porque o sabão não faz espuma",
+                "Porque a água evapora muito rápido"
+            ],
+            "correct": 1,
+            "category": "manutencao",
+            "level": "iniciante",
+            "explanation": "Metais em diferentes temperaturas se contraem de forma desigual. Jogar água fria em alumínio a 100°C é uma receita para danos estruturais caros."
+        },
+        {
+            "id": 498,
+            "question": "O sistema 'Lean Angle Sensor' permite que a moto saiba:",
+            "options": [
+                "A hora de trocar o pneu",
+                "O ângulo exato de inclinação lateral para ajustar a entrega de potência e a atuação do ABS",
+                "Se a moto está subindo uma ladeira",
+                "Se o piloto está sentado corretamente"
+            ],
+            "correct": 1,
+            "category": "tecnologia",
+            "level": "avancado",
+            "explanation": "Este sensor é a base para o controle de tração e ABS de curvas moderno, garantindo segurança máxima em inclinações."
+        },
+        {
+            "id": 499,
+            "question": "O que indica um 'Líquido de Arrefecimento' com aspecto oleoso?",
+            "options": [
+                "Que o sistema está muito bem lubrificado",
+                "Contaminação por óleo do motor, indicando falha grave em juntas ou trinca interna no cabeçote/bloco",
+                "Que o aditivo é de longa duração",
+                "É normal em motos novas"
+            ],
+            "correct": 1,
+            "category": "manutencao",
+            "level": "intermediario",
+            "explanation": "Óleo na água (e vice-versa) é sinal de que as barreiras internas do motor falharam. O uso da moto nessas condições levará à fundição rápida."
+        },
+        {
+            "id": 500,
+            "question": "Qual a maior virtude de um motociclista mestre, segundo os princípios de segurança?",
+            "options": [
+                "Saber empinar a moto por longas distâncias",
+                "A capacidade de prever riscos e evitar situações críticas antes que elas ocorram",
+                "Ter a moto mais cara e rápida do grupo",
+                "Nunca usar os freios"
+            ],
+            "correct": 1,
+            "category": "seguranca",
+            "level": "iniciante",
+            "explanation": "A técnica de pilotagem serve para te tirar de problemas, mas a sabedoria e a percepção servem para não entrar neles."
         }
     ]
 }
